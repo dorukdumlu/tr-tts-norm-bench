@@ -59,8 +59,9 @@ def main():
                         "exact": sum(r["exact"] for r in rows), "n": len(rows), "per_cat": per_cat,
                         "ms": round(ms, 1)})
 
-    with open(os.path.join(args.out, "summary.json"), "w", encoding="utf-8", newline="\n") as f:
-        json.dump(summary, f, ensure_ascii=False, indent=1)
+    if not args.only:  # a partial run must not overwrite the full summary
+        with open(os.path.join(args.out, "summary.json"), "w", encoding="utf-8", newline="\n") as f:
+            json.dump(summary, f, ensure_ascii=False, indent=1)
 
     head = "| normalizer | version | numbers right | exact | " + " | ".join(cats) + " |"
     print(head)
