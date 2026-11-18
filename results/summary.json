@@ -2,8 +2,8 @@
  {
   "name": "normalizer-tr",
   "version": "0.8.1",
-  "numbers": 35,
-  "exact": 32,
+  "numbers": 38,
+  "exact": 35,
   "n": 67,
   "per_cat": {
    "date": [
@@ -27,7 +27,7 @@
     8
    ],
    "decimal": [
-    2,
+    5,
     7
    ],
    "money": [
@@ -47,13 +47,13 @@
     8
    ]
   },
-  "ms": 15.8
+  "ms": 205.4
  },
  {
   "name": "normalizer-tr (fallback)",
   "version": "0.8.1",
-  "numbers": 50,
-  "exact": 45,
+  "numbers": 53,
+  "exact": 48,
   "n": 67,
   "per_cat": {
    "date": [
@@ -77,7 +77,7 @@
     8
    ],
    "decimal": [
-    4,
+    7,
     7
    ],
    "money": [
@@ -97,7 +97,7 @@
     8
    ]
   },
-  "ms": 1.9
+  "ms": 5.0
  },
  {
   "name": "trnorm-js",
@@ -147,7 +147,7 @@
     8
    ]
   },
-  "ms": 277.8
+  "ms": 393.1
  },
  {
   "name": "turkce-normalize",
@@ -197,7 +197,7 @@
     8
    ]
   },
-  "ms": 81.3
+  "ms": 98.5
  },
  {
   "name": "turkificate",
@@ -247,7 +247,7 @@
     8
    ]
   },
-  "ms": 21.4
+  "ms": 24.8
  },
  {
   "name": "trnorm (ASR)",
@@ -297,7 +297,7 @@
     8
    ]
   },
-  "ms": 49.3
+  "ms": 51.2
  },
  {
   "name": "FreyaTTS main",
@@ -347,6 +347,6 @@
     8
    ]
   },
-  "ms": 3.2
+  "ms": 13.1
  }
 ]
