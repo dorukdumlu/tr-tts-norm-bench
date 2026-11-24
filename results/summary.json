@@ -1,7 +1,7 @@
 [
  {
   "name": "normalizer-tr",
-  "version": "0.8.1",
+  "version": "0.8.2",
   "numbers": 38,
   "exact": 35,
   "n": 67,
@@ -47,13 +47,13 @@
     8
    ]
   },
-  "ms": 205.4
+  "ms": 191.5
  },
  {
   "name": "normalizer-tr (fallback)",
-  "version": "0.8.1",
-  "numbers": 53,
-  "exact": 48,
+  "version": "0.8.2",
+  "numbers": 59,
+  "exact": 54,
   "n": 67,
   "per_cat": {
    "date": [
@@ -61,7 +61,7 @@
     8
    ],
    "zeros": [
-    1,
+    6,
     6
    ],
    "phone": [
@@ -69,7 +69,7 @@
     6
    ],
    "ids": [
-    1,
+    2,
     5
    ],
    "time": [
@@ -97,7 +97,7 @@
     8
    ]
   },
-  "ms": 5.0
+  "ms": 2.1
  },
  {
   "name": "trnorm-js",
@@ -147,13 +147,13 @@
     8
    ]
   },
-  "ms": 393.1
+  "ms": 333.0
  },
  {
   "name": "turkce-normalize",
-  "version": "0.1.7",
-  "numbers": 57,
-  "exact": 56,
+  "version": "0.1.11",
+  "numbers": 61,
+  "exact": 60,
   "n": 67,
   "per_cat": {
    "date": [
@@ -161,7 +161,7 @@
     8
    ],
    "zeros": [
-    4,
+    6,
     6
    ],
    "phone": [
@@ -181,7 +181,7 @@
     7
    ],
    "money": [
-    6,
+    8,
     8
    ],
    "ordinal": [
@@ -197,7 +197,7 @@
     8
    ]
   },
-  "ms": 98.5
+  "ms": 118.9
  },
  {
   "name": "turkificate",
@@ -247,7 +247,7 @@
     8
    ]
   },
-  "ms": 24.8
+  "ms": 33.5
  },
  {
   "name": "trnorm (ASR)",
@@ -297,7 +297,7 @@
     8
    ]
   },
-  "ms": 51.2
+  "ms": 56.6
  },
  {
   "name": "FreyaTTS main",
@@ -347,6 +347,6 @@
     8
    ]
   },
-  "ms": 13.1
+  "ms": 13.7
  }
 ]

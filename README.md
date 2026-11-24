@@ -18,10 +18,10 @@ the output. Case, punctuation and suffix apostrophes are ignored.
 | normalizer | version | right | date | zeros | phone | ids | time | decimal | money | ordinal | symbols | control |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | [trnorm-js](https://github.com/ozguradmin/trnorm-js) | 0.1.3 | **65/67** | 8/8 | 6/6 | 6/6 | 3/5 | 8/8 | 7/7 | 8/8 | 5/5 | 6/6 | 8/8 |
-| [turkce-normalize](https://github.com/seslen-tr/turkce-normalize) | 0.1.7 | 57/67 | 8/8 | 4/6 | 6/6 | 1/5 | 8/8 | 5/7 | 6/8 | 5/5 | 6/6 | 8/8 |
-| [normalizer-tr](https://github.com/erdemtuna/normalizer-tr) `fallback` | 0.8.1 | 53/67 | 8/8 | 1/6 | 6/6 | 1/5 | 8/8 | 7/7 | 7/8 | 1/5 | 6/6 | 8/8 |
+| [turkce-normalize](https://github.com/seslen-tr/turkce-normalize) | 0.1.11 | 61/67 | 8/8 | 6/6 | 6/6 | 1/5 | 8/8 | 5/7 | 8/8 | 5/5 | 6/6 | 8/8 |
+| [normalizer-tr](https://github.com/erdemtuna/normalizer-tr) `fallback` | 0.8.2 | 59/67 | 8/8 | 6/6 | 6/6 | 2/5 | 8/8 | 7/7 | 7/8 | 1/5 | 6/6 | 8/8 |
 | [turkificate](https://github.com/eaysu/turkificate) | 0.2.0 | 46/67 | 8/8 | 0/6 | 1/6 | 0/5 | 6/8 | 5/7 | 7/8 | 5/5 | 6/6 | 8/8 |
-| [normalizer-tr](https://github.com/erdemtuna/normalizer-tr) default | 0.8.1 | 38/67 | 4/8 | 0/6 | 5/6 | 0/5 | 6/8 | 5/7 | 7/8 | 1/5 | 5/6 | 5/8 |
+| [normalizer-tr](https://github.com/erdemtuna/normalizer-tr) default | 0.8.2 | 38/67 | 4/8 | 0/6 | 5/6 | 0/5 | 6/8 | 5/7 | 7/8 | 1/5 | 5/6 | 5/8 |
 | [trnorm](https://github.com/ysdede/trnorm) | 0.1.0 | 27/67 | 0/8 | 0/6 | 1/6 | 0/5 | 6/8 | 3/7 | 4/8 | 5/5 | 3/6 | 5/8 |
 | FreyaTTS built-in | 146d36c | 27/67 | 0/8 | 0/6 | 3/6 | 3/5 | 6/8 | 0/7 | 1/8 | 1/5 | 5/6 | 8/8 |
 
@@ -29,16 +29,19 @@ So yes: trnorm-js would have done almost all of it. Two caveats on the others. n
 anything ambiguous as written and reports it to the caller, on purpose; the `fallback` row is the library
 guessing. trnorm was built to normalize ASR transcripts for WER, not TTS input.
 
+Since this was first published, turkce-normalize (0.1.8 to 0.1.11) and normalizer-tr (0.8.2) fixed several of the
+failures below; the table above is re-run on those versions.
+
 Some of what goes wrong (every output is in `results/`):
 
 | written | read as | by |
 |---|---|---|
 | `Kargo takip numaranız 7340 1129 58.` | yedi bin üç yüz **kırk bin** yüz yirmi dokuz… | all |
-| `Toplam borcunuz 2450.75 TL.` | **iki yüz kırk beş bin** yetmiş beş lira | turkce-normalize, FreyaTTS |
+| `Toplam borcunuz 2450.75 TL.` | **iki yüz kırk beş bin** yetmiş beş lira | FreyaTTS; turkce-normalize until 0.1.7 |
 | `Poliçe numaranız 2024-118734.` | iki bin yirmi dört **ila** yüz on sekiz bin… | trnorm-js |
-| `Doğrulama kodunuz 0718.` | sıfır **yedi yüz on sekiz** | turkce-normalize |
+| `Doğrulama kodunuz 0718.` | sıfır **yedi yüz on sekiz** | turkce-normalize until 0.1.10 |
 | `Faiz oranı %3.5` | yüzde **üç.beş** | turkce-normalize |
-| `Kartınızın son dört hanesi 0042.` | sıfır sıfır dört iki **nokta** | normalizer-tr `fallback` |
+| `Kartınızın son dört hanesi 0042.` | sıfır sıfır dört iki **nokta** | normalizer-tr `fallback` until 0.8.1 |
 | `Kredinizin 3. taksiti` | **üç.** taksiti | normalizer-tr `fallback`, FreyaTTS |
 | `Bizi 0850 222 23 35 numarasından` | **sekiz yüz elli**… | turkificate, FreyaTTS |
 | `Sizi saat 14.45'te arayacağız.` | saat **on dört.45**'te | turkificate |
