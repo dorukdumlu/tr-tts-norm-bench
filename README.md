@@ -46,6 +46,46 @@ Some of what goes wrong (every output is in `results/`):
 | `Bizi 0850 222 23 35 numarasından` | **sekiz yüz elli**… | turkificate, FreyaTTS |
 | `Sizi saat 14.45'te arayacağız.` | saat **on dört.45**'te | turkificate |
 
+## The other direction: does an ASR hear the numbers on a phone line?
+
+The same lines, read aloud and band-limited to 8 kHz (telephone), then transcribed. Each voice reads the first
+accepted reading, already spelled out, so text normalization plays no part. A line counts when the number, month
+and unit words heard match an accepted reading.
+
+| ASR | 4 Google voices (268 utterances) | FreyaTTS (67) |
+|---|---|---|
+| [balbal-v2](https://github.com/erayyap/balbal) 0.6.11 | **267** | 46 |
+| balbal-v2-manas | **267** | 47 |
+| Whisper large-v3-turbo | 263 | 44 |
+| Whisper medium | 261 | 43 |
+
+Voices: Google `tr-TR-Standard-A`, `Wavenet-E`, `Chirp3-HD-Kore`, `Chirp3-HD-Charon`. Per voice and category:
+[results/asr/SUMMARY.md](results/asr/SUMMARY.md); every transcript is in `results/asr/`.
+
+- **On clean speech, numbers are not the ASR's problem.** Every ASR hears 97% or more. The one line balbal misses
+  (`Yıllık aidat 10,00 TL`, read "aidat on lira") is heard as "aidat **ton** lira" by both balbal models and Whisper medium on the
+  Standard-A voice: the "t" of "aidat" runs into "on". Whisper turbo writes "10 lira".
+- **Whisper's remaining errors are runs of zeros.** `TR12 0006 4000 …` comes back as `TR12 00006 40000 …`, and
+  `0532 000 00 01` loses or gains a zero. balbal gets every IBAN and phone number right.
+- **With FreyaTTS audio the ASRs fail on the same 12 lines**, all phone numbers and IBANs among them. For
+  `Sizi saat 14.45'te` all four hear an extra "beş" ("kırk beş **beşte**") and three hear "saat **saat**"; three of four drop "kırk" from
+  "üç virgül kırk dokuz": the audio itself repeats or skips, so those failures are the TTS, not the ASR.
+
+How Whisper was run matters. Suppressing its number tokens (a common trick to make it write words) made
+large-v3-turbo decode `!!!!` in float16 and, in float32, prepend junk and repeat sentences. The numbers above
+use a prompt written with spelled-out numbers that occur nowhere in the data instead; digits Whisper still writes
+are read one by one or as a number, and either may match (`asr/score_asr.py`).
+
+Limits: synthetic speech is clean and clearly paced, real callers are not. No noise, no codec (μ-law), no packet
+loss. This says the models can hear Turkish numbers on a phone-band signal, not that they will on a real call.
+
+```bash
+python asr/synth_google.py --voice tr-TR-Wavenet-E --out audio/google-wavenet-e   # Google ADC credentials
+python asr/transcribe.py balbal --audio audio/google-wavenet-e --out results/asr/google-wavenet-e__balbal-v2.json
+python asr/transcribe.py whisper --model medium --audio audio/google-wavenet-e --out results/asr/google-wavenet-e__whisper-medium.json
+python asr/score_asr.py results/asr/*.json
+```
+
 ## The lines
 
 `data/tr_customer_lines.jsonl` has the written line and every reading I accept, for example:
