@@ -43,7 +43,8 @@ def whisper(files, args):
     out = {}
     for f in files:
         wav, _ = librosa.load(f, sr=16000)
-        style = ({"suppress_tokens": [-1] + numerals} if args.style == "suppress" else {"initial_prompt": PROMPT})
+        style = {"suppress": {"suppress_tokens": [-1] + numerals}, "prompt": {"initial_prompt": PROMPT},
+                 "none": {}}[args.style]
         segs, _ = model.transcribe(wav, language="tr", beam_size=5, temperature=0.0,
                                    condition_on_previous_text=False, **style)
         out[os.path.splitext(os.path.basename(f))[0]] = " ".join(s.text.strip() for s in segs).strip()
@@ -55,7 +56,7 @@ def main():
     ap.add_argument("asr", choices=["balbal", "whisper"])
     ap.add_argument("--model")
     ap.add_argument("--compute-type", default="float16", help="whisper: float16 or float32")
-    ap.add_argument("--style", choices=["prompt", "suppress"], default="prompt", help="whisper: see the docstring")
+    ap.add_argument("--style", choices=["prompt", "suppress", "none"], default="prompt", help="whisper: see the docstring")
     ap.add_argument("--audio", required=True)
     ap.add_argument("--out", required=True)
     args = ap.parse_args()

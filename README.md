@@ -86,6 +86,61 @@ python asr/transcribe.py whisper --model medium --audio audio/google-wavenet-e -
 python asr/score_asr.py results/asr/*.json
 ```
 
+## When nothing is said: does an ASR write "evet" for a cough?
+
+A voice agent waiting for consent ("Ödeme talimatını onaylıyor musunuz?") acts on what the ASR writes. If a cough
+comes back as "hı hı" or "evet", the agent has a yes nobody said. So I sent sounds that are not speech and checked
+what came back.
+
+- **412 non-speech clips**, telephone band (8 kHz, 300-3400 Hz, μ-law), all at the same level: 180 from
+  [VocalSound](https://github.com/YuanGongND/vocalsound) (cough, throat clearing, sniff, sneeze, laughter, sigh; 30
+  each, every clip a different person), 220 from [ESC-50](https://github.com/karolpiczak/ESC-50) (breathing,
+  snoring, keyboard, door knock, footsteps, dog, crying baby, vacuum cleaner, rain...; 10 each), 12 of silence.
+- **32 controls that must come through**: "evet", "hayır", "tamam", "olur", "evet, onaylıyorum", "bir saniye", in
+  four Google voices, some right after a cough.
+- A transcript counts as **yes** when, with event tags like `[öksürük]` removed, it holds "evet", "hı hı", "tamam",
+  "olur", "peki", "aynen" or similar.
+
+| ASR | writes nothing (right) | "hmm", "aa" | other words | **a yes-word** | controls right |
+|---|---|---|---|---|---|
+| ElevenLabs Scribe v2 (API) | **98%** | 1% | 1% | **0%** | 32/32 |
+| [balbal-v2](https://github.com/erayyap/balbal) 0.6.11 | 48% | 6% | 37% | **9%** | 32/32 |
+| Whisper large-v3-turbo | 0% | 6% | 93% | 2% | 32/32 |
+| Whisper medium | 6% | 2% | 92% | 1% | 30/32 |
+| Whisper large-v3-turbo, `vad_filter=True` | 75% | 5% | 17% | 2% | 28/32 |
+| Whisper medium, `vad_filter=True` | 77% | 2% | 21% | 0% | 29/32 |
+
+- **ElevenLabs writes nothing for almost all of it** and tags most of the rest (`[öksürük]`, `[burun çekme]`,
+  `[hapşırma]`). It never wrote a yes-word.
+- **balbal writes a yes for 1 clip in 11**: "evet" 22 times, "peki" 5, "tamam" 4, mostly for coughs (8 of 30) and
+  sneezes (8 of 30). balbal is the most accurate here on numbers in clean speech; this is the case to guard against.
+- **Whisper is never quiet.** "Altyazı M.K." for 294 of 412 clips (turbo) and 266 (medium), then "Abone ol",
+  "İzlediğiniz için teşekkür ederim": subtitle credits from its training data. It rarely writes a yes, but a
+  transcript that is never empty breaks anything that waits for silence.
+- **A VAD in front is a trade, not a fix.** faster-whisper's own VAD removes most of Whisper's invented text, but it
+  also drops 3 or 4 of the 32 real answers: a short "evet" on a phone line, or one right after a cough, falls under
+  its default threshold. Gating ElevenLabs with Silero VAD (threshold 0.3) made it slightly worse: 1% yes-words and
+  one answer lost.
+
+What to do in an agent: do not take "hı hı", "peki" or a one-word "evet" as consent for an irreversible step; ask
+for the full confirmation ("Evet, onaylıyorum") or repeat the question. If the ASR is Whisper, check that an empty
+turn can actually happen.
+
+Limits: VocalSound sounds were recorded on request, so they are cleaner and more isolated than a cough in a real
+call; all clips are at the same level; the controls are synthetic voices; one run per clip. A long "hıhıhıhı…" (laughter) counts as other words, not as a yes.
+
+```bash
+python nonspeech/make_set.py --datasets <dir with vocalsound/ and esc50/> --out nonspeech/audio
+python asr/transcribe.py balbal --audio nonspeech/audio --out nonspeech/results/balbal-v2.json
+python asr/transcribe.py whisper --model large-v3-turbo --style none --audio nonspeech/audio --out nonspeech/results/whisper-large-v3-turbo.json
+python nonspeech/run_api.py --engine elevenlabs --audio nonspeech/audio --out nonspeech/results/elevenlabs-scribe-v2.json
+python nonspeech/score.py nonspeech/clips.json nonspeech/results/*.json
+```
+
+Every transcript is in `nonspeech/results/`; the clip list with groups and expected words is `nonspeech/clips.json`.
+The audio is not in the repo (ESC-50 is non-commercial); `make_set.py` rebuilds the same clips from the two
+downloads.
+
 ## The lines
 
 `data/tr_customer_lines.jsonl` has the written line and every reading I accept, for example:
@@ -125,4 +180,5 @@ normalizer is not in the table, because it was written against these lines.
 
 ## License
 
-Code Apache-2.0 (`bench/freyatts_main.py` is copied from FreyaTTS, also Apache-2.0). Lines in `data/`: CC-BY-4.0.
+Code Apache-2.0 (`bench/freyatts_main.py` is copied from FreyaTTS, also Apache-2.0). Lines in `data/`: CC-BY-4.0. The non-speech
+clips are built from VocalSound (CC BY-SA 4.0) and ESC-50 (CC BY-NC 3.0); no audio from either is included.
