@@ -104,14 +104,22 @@ what came back.
 | ASR | writes nothing (right) | "hmm", "aa" | other words | **a yes-word** | controls right |
 |---|---|---|---|---|---|
 | ElevenLabs Scribe v2 (API) | **98%** | 1% | 1% | **0%** | 32/32 |
+| Google Speech-to-Text v2 `long` | **98%** | 1% | 1% | **0%** | 32/32 |
+| Google Speech-to-Text v2 `chirp_3` | 80% | 11% | 8% | 2% | 32/32 |
+| Google Speech-to-Text v2 `chirp_2` | 0% | 19% | 40% | **41%** | 31/32 |
 | [balbal-v2](https://github.com/erayyap/balbal) 0.6.11 | 48% | 6% | 37% | **9%** | 32/32 |
 | Whisper large-v3-turbo | 0% | 6% | 93% | 2% | 32/32 |
 | Whisper medium | 6% | 2% | 92% | 1% | 30/32 |
 | Whisper large-v3-turbo, `vad_filter=True` | 75% | 5% | 17% | 2% | 28/32 |
 | Whisper medium, `vad_filter=True` | 77% | 2% | 21% | 0% | 29/32 |
+| Google `chirp_2` + Silero VAD (0.5) | 75% | 12% | 8% | 5% | 27/32 |
 
 - **ElevenLabs writes nothing for almost all of it** and tags most of the rest (`[öksürük]`, `[burun çekme]`,
-  `[hapşırma]`). It never wrote a yes-word.
+  `[hapşırma]`). It never wrote a yes-word. Google's older `long` model is just as quiet.
+- **Google `chirp_2` writes a yes-word for 168 of 412 clips**, "evet" in 155 of them: for 10 of 10 footsteps, 9
+  of 10 keyboard clips, and "evet evet evet" for a quiet noise floor. Another 19% come back as digit strings (`1 1 2 3 5 7 1 6 7`), which in a
+  bank flow could fill an account number or a one-time code. Its successor `chirp_3` is far better (2%), so the
+  model choice matters more than the vendor.
 - **balbal writes a yes for 1 clip in 11**: "evet" 22 times, "peki" 5, "tamam" 4, mostly for coughs (8 of 30) and
   sneezes (8 of 30). balbal is the most accurate here on numbers in clean speech; this is the case to guard against.
 - **Whisper is never quiet.** "Altyazı M.K." for 294 of 412 clips (turbo) and 266 (medium), then "Abone ol",
@@ -134,10 +142,13 @@ python nonspeech/make_set.py --datasets <dir with vocalsound/ and esc50/> --out 
 python asr/transcribe.py balbal --audio nonspeech/audio --out nonspeech/results/balbal-v2.json
 python asr/transcribe.py whisper --model large-v3-turbo --style none --audio nonspeech/audio --out nonspeech/results/whisper-large-v3-turbo.json
 python nonspeech/run_api.py --engine elevenlabs --audio nonspeech/audio --out nonspeech/results/elevenlabs-scribe-v2.json
+python nonspeech/run_api.py --engine google:chirp_3@us --audio nonspeech/audio --out nonspeech/results/google-chirp_3.json
 python nonspeech/score.py nonspeech/clips.json nonspeech/results/*.json
 ```
 
-Every transcript is in `nonspeech/results/`; the clip list with groups and expected words is `nonspeech/clips.json`.
+Google runs: Speech-to-Text v2 `recognize`, `language_codes=["tr-TR"]`, automatic decoding, default features,
+recognizer `_`; `chirp_3` in `us`, `chirp_2` in `us-central1`, `long` in `global`; November 2026. ElevenLabs:
+`scribe_v2`, `language_code=tur`, `tag_audio_events=true`. Every transcript is in `nonspeech/results/`; the clip list with groups and expected words is `nonspeech/clips.json`.
 The audio is not in the repo (ESC-50 is non-commercial); `make_set.py` rebuilds the same clips from the two
 downloads.
 
