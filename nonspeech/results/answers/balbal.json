@@ -1,0 +1,300 @@
+{
+ "a01": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.952
+   ]
+  ],
+  "no_speech": false
+ },
+ "a02": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.956
+   ]
+  ],
+  "no_speech": false
+ },
+ "a03": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.689
+   ]
+  ],
+  "no_speech": false
+ },
+ "a04": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.85
+   ]
+  ],
+  "no_speech": false
+ },
+ "a05": {
+  "text": "Evet, evet.",
+  "words": [
+   [
+    "Evet,",
+    0.96
+   ],
+   [
+    "evet.",
+    0.906
+   ]
+  ],
+  "no_speech": false
+ },
+ "a06": {
+  "text": "Hı hı.",
+  "words": [
+   [
+    "Hı",
+    0.87
+   ],
+   [
+    "hı.",
+    0.639
+   ]
+  ],
+  "no_speech": false
+ },
+ "a07": {
+  "text": "Hı hı.",
+  "words": [
+   [
+    "Hı",
+    0.298
+   ],
+   [
+    "hı.",
+    0.532
+   ]
+  ],
+  "no_speech": false
+ },
+ "a08": {
+  "text": "Nihal?",
+  "words": [
+   [
+    "Nihal?",
+    0.192
+   ]
+  ],
+  "no_speech": false
+ },
+ "a09": {
+  "text": "Tamam.",
+  "words": [
+   [
+    "Tamam.",
+    0.961
+   ]
+  ],
+  "no_speech": false
+ },
+ "a10": {
+  "text": "Tamam.",
+  "words": [
+   [
+    "Tamam.",
+    0.968
+   ]
+  ],
+  "no_speech": false
+ },
+ "a11": {
+  "text": "Tamam tamam.",
+  "words": [
+   [
+    "Tamam",
+    0.949
+   ],
+   [
+    "tamam.",
+    0.994
+   ]
+  ],
+  "no_speech": false
+ },
+ "a12": {
+  "text": "Olur.",
+  "words": [
+   [
+    "Olur.",
+    0.326
+   ]
+  ],
+  "no_speech": false
+ },
+ "a13": {
+  "text": "Olur tabii.",
+  "words": [
+   [
+    "Olur",
+    0.987
+   ],
+   [
+    "tabii.",
+    0.976
+   ]
+  ],
+  "no_speech": false
+ },
+ "a14": {
+  "text": "Aynen.",
+  "words": [
+   [
+    "Aynen.",
+    0.983
+   ]
+  ],
+  "no_speech": false
+ },
+ "a15": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.098
+   ]
+  ],
+  "no_speech": true
+ },
+ "a16": {
+  "text": "Peki.",
+  "words": [
+   [
+    "Peki.",
+    0.857
+   ]
+  ],
+  "no_speech": false
+ },
+ "a17": {
+  "text": "Evet, onaylıyorum.",
+  "words": [
+   [
+    "Evet,",
+    0.965
+   ],
+   [
+    "onaylıyorum.",
+    0.989
+   ]
+  ],
+  "no_speech": false
+ },
+ "a18": {
+  "text": "Evet, onaylıyorum.",
+  "words": [
+   [
+    "Evet,",
+    0.935
+   ],
+   [
+    "onaylıyorum.",
+    0.992
+   ]
+  ],
+  "no_speech": false
+ },
+ "a19": {
+  "text": "Onaylıyorum.",
+  "words": [
+   [
+    "Onaylıyorum.",
+    0.841
+   ]
+  ],
+  "no_speech": false
+ },
+ "a20": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.965
+   ]
+  ],
+  "no_speech": false
+ },
+ "a21": {
+  "text": "Tamam, evet.",
+  "words": [
+   [
+    "Tamam,",
+    0.48
+   ],
+   [
+    "evet.",
+    0.48
+   ]
+  ],
+  "no_speech": false
+ },
+ "a23": {
+  "text": "Hayır, istemiyorum.",
+  "words": [
+   [
+    "Hayır,",
+    0.95
+   ],
+   [
+    "istemiyorum.",
+    0.993
+   ]
+  ],
+  "no_speech": false
+ },
+ "a24": {
+  "text": "Bir saniye.",
+  "words": [
+   [
+    "Bir",
+    0.8
+   ],
+   [
+    "saniye.",
+    0.989
+   ]
+  ],
+  "no_speech": false
+ },
+ "a25": {
+  "text": "Hmm, emin değilim.",
+  "words": [
+   [
+    "Hmm,",
+    0.391
+   ],
+   [
+    "emin",
+    0.986
+   ],
+   [
+    "değilim.",
+    0.999
+   ]
+  ],
+  "no_speech": false
+ },
+ "a26": {
+  "text": "Yok.",
+  "words": [
+   [
+    "Yok.",
+    0.972
+   ]
+  ],
+  "no_speech": false
+ }
+}

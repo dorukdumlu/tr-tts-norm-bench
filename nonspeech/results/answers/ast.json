@@ -1,0 +1,427 @@
+{
+ "a01": {
+  "speech": 0.785,
+  "top": [
+   [
+    "Speech",
+    0.785
+   ],
+   [
+    "Male speech, man speaking",
+    0.123
+   ],
+   [
+    "Gasp",
+    0.079
+   ]
+  ]
+ },
+ "a02": {
+  "speech": 0.8039,
+  "top": [
+   [
+    "Speech",
+    0.804
+   ],
+   [
+    "Male speech, man speaking",
+    0.07
+   ],
+   [
+    "Gasp",
+    0.067
+   ]
+  ]
+ },
+ "a03": {
+  "speech": 0.6816,
+  "top": [
+   [
+    "Speech",
+    0.682
+   ],
+   [
+    "Gasp",
+    0.297
+   ],
+   [
+    "Throat clearing",
+    0.088
+   ]
+  ]
+ },
+ "a04": {
+  "speech": 0.7471,
+  "top": [
+   [
+    "Speech",
+    0.747
+   ],
+   [
+    "Male speech, man speaking",
+    0.27
+   ],
+   [
+    "Narration, monologue",
+    0.079
+   ]
+  ]
+ },
+ "a05": {
+  "speech": 0.7915,
+  "top": [
+   [
+    "Speech",
+    0.792
+   ],
+   [
+    "Male speech, man speaking",
+    0.282
+   ],
+   [
+    "Slap, smack",
+    0.086
+   ]
+  ]
+ },
+ "a06": {
+  "speech": 0.7689,
+  "top": [
+   [
+    "Speech",
+    0.769
+   ],
+   [
+    "Male speech, man speaking",
+    0.089
+   ],
+   [
+    "Fart",
+    0.078
+   ]
+  ]
+ },
+ "a07": {
+  "speech": 0.6923,
+  "top": [
+   [
+    "Speech",
+    0.692
+   ],
+   [
+    "Throat clearing",
+    0.142
+   ],
+   [
+    "Gasp",
+    0.075
+   ]
+  ]
+ },
+ "a08": {
+  "speech": 0.8222,
+  "top": [
+   [
+    "Speech",
+    0.822
+   ],
+   [
+    "Male speech, man speaking",
+    0.062
+   ],
+   [
+    "Slap, smack",
+    0.041
+   ]
+  ]
+ },
+ "a09": {
+  "speech": 0.7623,
+  "top": [
+   [
+    "Speech",
+    0.762
+   ],
+   [
+    "Vehicle horn, car horn, honking",
+    0.101
+   ],
+   [
+    "Male speech, man speaking",
+    0.065
+   ]
+  ]
+ },
+ "a10": {
+  "speech": 0.8342,
+  "top": [
+   [
+    "Speech",
+    0.834
+   ],
+   [
+    "Quack",
+    0.133
+   ],
+   [
+    "Music",
+    0.068
+   ]
+  ]
+ },
+ "a11": {
+  "speech": 0.8013,
+  "top": [
+   [
+    "Speech",
+    0.801
+   ],
+   [
+    "Male speech, man speaking",
+    0.225
+   ],
+   [
+    "Narration, monologue",
+    0.082
+   ]
+  ]
+ },
+ "a12": {
+  "speech": 0.819,
+  "top": [
+   [
+    "Speech",
+    0.819
+   ],
+   [
+    "Throat clearing",
+    0.189
+   ],
+   [
+    "Male speech, man speaking",
+    0.097
+   ]
+  ]
+ },
+ "a13": {
+  "speech": 0.7568,
+  "top": [
+   [
+    "Speech",
+    0.757
+   ],
+   [
+    "Male speech, man speaking",
+    0.427
+   ],
+   [
+    "Narration, monologue",
+    0.086
+   ]
+  ]
+ },
+ "a14": {
+  "speech": 0.8031,
+  "top": [
+   [
+    "Speech",
+    0.803
+   ],
+   [
+    "Male speech, man speaking",
+    0.092
+   ],
+   [
+    "Television",
+    0.041
+   ]
+  ]
+ },
+ "a15": {
+  "speech": 0.8167,
+  "top": [
+   [
+    "Speech",
+    0.817
+   ],
+   [
+    "Finger snapping",
+    0.093
+   ],
+   [
+    "Door",
+    0.041
+   ]
+  ]
+ },
+ "a16": {
+  "speech": 0.791,
+  "top": [
+   [
+    "Speech",
+    0.791
+   ],
+   [
+    "Ping",
+    0.068
+   ],
+   [
+    "Male speech, man speaking",
+    0.064
+   ]
+  ]
+ },
+ "a17": {
+  "speech": 0.8148,
+  "top": [
+   [
+    "Speech",
+    0.815
+   ],
+   [
+    "Bleat",
+    0.141
+   ],
+   [
+    "Sheep",
+    0.139
+   ]
+  ]
+ },
+ "a18": {
+  "speech": 0.8112,
+  "top": [
+   [
+    "Speech",
+    0.811
+   ],
+   [
+    "Male speech, man speaking",
+    0.309
+   ],
+   [
+    "Narration, monologue",
+    0.075
+   ]
+  ]
+ },
+ "a19": {
+  "speech": 0.7696,
+  "top": [
+   [
+    "Speech",
+    0.77
+   ],
+   [
+    "Male speech, man speaking",
+    0.443
+   ],
+   [
+    "Narration, monologue",
+    0.154
+   ]
+  ]
+ },
+ "a20": {
+  "speech": 0.6449,
+  "top": [
+   [
+    "Speech",
+    0.645
+   ],
+   [
+    "Throat clearing",
+    0.628
+   ],
+   [
+    "Sheep",
+    0.177
+   ]
+  ]
+ },
+ "a21": {
+  "speech": 0.808,
+  "top": [
+   [
+    "Speech",
+    0.808
+   ],
+   [
+    "Throat clearing",
+    0.202
+   ],
+   [
+    "Male speech, man speaking",
+    0.172
+   ]
+  ]
+ },
+ "a23": {
+  "speech": 0.7975,
+  "top": [
+   [
+    "Speech",
+    0.797
+   ],
+   [
+    "Male speech, man speaking",
+    0.285
+   ],
+   [
+    "Gasp",
+    0.049
+   ]
+  ]
+ },
+ "a24": {
+  "speech": 0.7576,
+  "top": [
+   [
+    "Speech",
+    0.758
+   ],
+   [
+    "Male speech, man speaking",
+    0.231
+   ],
+   [
+    "Sound effect",
+    0.073
+   ]
+  ]
+ },
+ "a25": {
+  "speech": 0.7523,
+  "top": [
+   [
+    "Speech",
+    0.752
+   ],
+   [
+    "Male speech, man speaking",
+    0.156
+   ],
+   [
+    "Slap, smack",
+    0.06
+   ]
+  ]
+ },
+ "a26": {
+  "speech": 0.8118,
+  "top": [
+   [
+    "Speech",
+    0.812
+   ],
+   [
+    "Male speech, man speaking",
+    0.203
+   ],
+   [
+    "Slap, smack",
+    0.155
+   ]
+  ]
+ }
+}

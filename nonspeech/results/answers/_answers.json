@@ -1,0 +1,102 @@
+{
+ "a01": {
+  "said": "evet",
+  "yes": true
+ },
+ "a02": {
+  "said": "evet",
+  "yes": true
+ },
+ "a03": {
+  "said": "evet",
+  "yes": true
+ },
+ "a04": {
+  "said": "evet",
+  "yes": true
+ },
+ "a05": {
+  "said": "evet evet",
+  "yes": true
+ },
+ "a06": {
+  "said": "hı hı",
+  "yes": true
+ },
+ "a07": {
+  "said": "hı hı",
+  "yes": true
+ },
+ "a08": {
+  "said": "hı hı",
+  "yes": true
+ },
+ "a09": {
+  "said": "tamam",
+  "yes": true
+ },
+ "a10": {
+  "said": "tamam",
+  "yes": true
+ },
+ "a11": {
+  "said": "tamam tamam",
+  "yes": true
+ },
+ "a12": {
+  "said": "olur",
+  "yes": true
+ },
+ "a13": {
+  "said": "olur tabii",
+  "yes": true
+ },
+ "a14": {
+  "said": "aynen",
+  "yes": true
+ },
+ "a15": {
+  "said": "he",
+  "yes": true
+ },
+ "a16": {
+  "said": "peki",
+  "yes": true
+ },
+ "a17": {
+  "said": "evet onaylıyorum",
+  "yes": true
+ },
+ "a18": {
+  "said": "evet onaylıyorum",
+  "yes": true
+ },
+ "a19": {
+  "said": "onaylıyorum",
+  "yes": true
+ },
+ "a20": {
+  "said": "evet",
+  "yes": true
+ },
+ "a21": {
+  "said": "evet",
+  "yes": true
+ },
+ "a23": {
+  "said": "hayır istemiyorum",
+  "yes": false
+ },
+ "a24": {
+  "said": "bir saniye",
+  "yes": false
+ },
+ "a25": {
+  "said": "emin değilim",
+  "yes": false
+ },
+ "a26": {
+  "said": "yok",
+  "yes": false
+ }
+}

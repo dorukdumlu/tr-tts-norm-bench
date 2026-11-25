@@ -115,7 +115,8 @@ what came back.
 | Google `chirp_2` + Silero VAD (0.5) | 75% | 12% | 8% | 5% | 27/32 |
 
 - **ElevenLabs writes nothing for almost all of it** and tags most of the rest (`[öksürük]`, `[burun çekme]`,
-  `[hapşırma]`). It never wrote a yes-word. Google's older `long` model is just as quiet.
+  `[hapşırma]`). It never wrote a yes-word. Google's older `long` model is just as quiet, but for the wrong
+  reason: it also drops short real answers (below).
 - **Google `chirp_2` writes a yes-word for 168 of 412 clips**, "evet" in 155 of them: for 10 of 10 footsteps, 9
   of 10 keyboard clips, and "evet evet evet" for a quiet noise floor. Another 19% come back as digit strings (`1 1 2 3 5 7 1 6 7`), which in a
   bank flow could fill an account number or a one-time code. Its successor `chirp_3` is far better (2%), so the
@@ -130,9 +131,56 @@ what came back.
   its default threshold. Gating ElevenLabs with Silero VAD (threshold 0.3) made it slightly worse: 1% yes-words and
   one answer lost.
 
-What to do in an agent: do not take "hı hı", "peki" or a one-word "evet" as consent for an irreversible step; ask
-for the full confirmation ("Evet, onaylıyorum") or repeat the question. If the ASR is Whisper, check that an empty
-turn can actually happen.
+### How sure, and what helps
+
+- **Repeatable.** 60 clips sent again: `chirp_2` gave the same text 60/60, ElevenLabs 53/60 (59/60 in the same
+  bucket). Whisper (beam search at temperature 0) and balbal run locally and deterministically.
+- **Not an artefact of loud clips.** The human sounds and controls 20 dB quieter: balbal 14% → 15% yes-words,
+  ElevenLabs 0% → 0%, `chirp_3` 3% → 1%, `chirp_2` 26% → 42% (`results/quiet/`).
+- **Real answers.** The controls above are synthetic voices, so I recorded 21 short real yes-answers ("evet",
+  "hı hı", "hıhım", "tamam", "olur", "he", "peki", "evet, onaylıyorum"; fast, quiet, tired, next to a cough) and 4
+  answers that are not a yes ("hayır, istemiyorum", "yok", "emin değilim"...), one speaker, laptop microphone, then
+  8 kHz μ-law. One more "hayır" was left out: on listening back it was not clearly said.
+
+| ASR | real yes heard as a yes | missed | a non-yes read as yes |
+|---|---|---|---|
+| Google `chirp_3` | 20/21 | "he" → "Hı." | 0/4 |
+| Google `chirp_2` | 20/21 | "he" → "ha" | 0/4 |
+| balbal-v2 | 20/21 | "hıhım" → "Nihal?" | 0/4 |
+| ElevenLabs Scribe v2 | 19/21 | "he" → "Ha?", "onaylıyorum" → "Maalesef" | 0/4 |
+| Whisper large-v3-turbo | 19/21 | "he" → "A", "peki" → "Thank you." | 0/4 |
+| Google `long` | **15/21** | all three "hı hı", a quiet "evet", "he", "evet onaylıyorum" → "en son hallediyorum" | 0/4 |
+
+So `long` is quiet on coughs because it is quiet on short sounds in general, real answers included. ElevenLabs'
+"onaylıyorum" → "Maalesef" happened on the phone-band copy only; the 16 kHz original came back right.
+
+**What removes the false yes, and what it costs.** Two signals were tried, measured on the 412 clips and on the 21
+real answers:
+
+| ASR | yes-words, no gate | word confidence >= 0.7 | real yes kept | AudioSet speech >= 0.6 | real yes kept |
+|---|---|---|---|---|---|
+| Google `chirp_2` | 168 | 6 | 18 of 20 | 9 | 20 of 20 |
+| balbal-v2 | 37 | 2 | 15 of 20 | 6 | 20 of 20 |
+| Whisper large-v3-turbo | 8 | 3 | 12 of 19 | 0 | 19 of 19 |
+| Google `chirp_3` | 7 | no word confidence | - | 2 | 20 of 20 |
+| ElevenLabs Scribe v2 | 0 | 0 | 19 of 19 | 0 | 19 of 19 |
+
+("real yes kept" counts only the answers the ASR heard as a yes in the first place.)
+
+- **Word confidence** (ElevenLabs `logprob`, Google word confidence, balbal and Whisper word probability) works on
+  the synthetic controls but costs real answers: a real, quick "evet" often gets a low score. balbal also returns a
+  `no_speech` flag that is true for many of its invented words; using it alone cuts its yes-words from 37 to 13.
+- **A sound-event classifier in front** works for every ASR and kept every real answer.
+  [AST trained on AudioSet](https://huggingface.co/MIT/ast-finetuned-audioset-10-10-0.4593), scored on 1 s windows,
+  taking the highest probability of any speech class: my real answers scored 0.645 or more, the 412 non-speech clips
+  a median of 0.10, with 26 of them (mostly laughter, coughs and sighs) above 0.6. It is an 87M-parameter model, so
+  it adds a GPU or some CPU time per turn.
+- **A full sentence** ("Evet, onaylıyorum") as the only accepted consent gives no false yes for any ASR, at the
+  price of asking again after a short "evet".
+
+What to do in an agent: for an irreversible step, do not take "hı hı", "peki" or a one-word "evet" as consent; ask
+for the full sentence or repeat the question. If short answers must count, check them against a sound-event
+classifier rather than the ASR's own confidence. If the ASR is Whisper, check that an empty turn can actually happen.
 
 Limits: VocalSound sounds were recorded on request, so they are cleaner and more isolated than a cough in a real
 call; all clips are at the same level; the controls are synthetic voices; one run per clip. A long "hıhıhıhı…" (laughter) counts as other words, not as a yes.
@@ -144,6 +192,9 @@ python asr/transcribe.py whisper --model large-v3-turbo --style none --audio non
 python nonspeech/run_api.py --engine elevenlabs --audio nonspeech/audio --out nonspeech/results/elevenlabs-scribe-v2.json
 python nonspeech/run_api.py --engine google:chirp_3@us --audio nonspeech/audio --out nonspeech/results/google-chirp_3.json
 python nonspeech/score.py nonspeech/clips.json nonspeech/results/*.json
+python nonspeech/rich_run.py --engine elevenlabs --audio nonspeech/audio --out nonspeech/results/confidence/eleven.json
+python nonspeech/gate_eval.py nonspeech/clips.json nonspeech/results/confidence/*.json
+python nonspeech/ast_gate.py --audio nonspeech/audio --out nonspeech/results/confidence/ast.json
 ```
 
 Google runs: Speech-to-Text v2 `recognize`, `language_codes=["tr-TR"]`, automatic decoding, default features,

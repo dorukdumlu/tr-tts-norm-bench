@@ -1,0 +1,4841 @@
+{
+ "ctrl-bir-saniye-standard-a": {
+  "text": "Bir saniye.",
+  "words": [
+   [
+    "Bir",
+    0.985
+   ],
+   [
+    "saniye.",
+    0.998
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "ctrl-bir-saniye-standard-b": {
+  "text": "Bir saniye.",
+  "words": [
+   [
+    "Bir",
+    0.982
+   ],
+   [
+    "saniye.",
+    0.999
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "ctrl-bir-saniye-wavenet-c": {
+  "text": "Bir saniye.",
+  "words": [
+   [
+    "Bir",
+    0.984
+   ],
+   [
+    "saniye.",
+    0.999
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "ctrl-bir-saniye-wavenet-e": {
+  "text": "Bir saniye.",
+  "words": [
+   [
+    "Bir",
+    0.986
+   ],
+   [
+    "saniye.",
+    0.999
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "ctrl-cough+evet-standard-a": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.915
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "ctrl-cough+evet-standard-b": {
+  "text": "Evet. Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.069
+   ],
+   [
+    "Evet.",
+    0.963
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "ctrl-cough+evet-wavenet-c": {
+  "text": "Evet. Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.097
+   ],
+   [
+    "Evet.",
+    0.969
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "ctrl-cough+hayir-standard-a": {
+  "text": "Hayır.",
+  "words": [
+   [
+    "Hayır.",
+    0.887
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "ctrl-cough+hayir-standard-b": {
+  "text": "nokta hayır.",
+  "words": [
+   [
+    "nokta",
+    0.014
+   ],
+   [
+    "hayır.",
+    0.286
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "ctrl-cough+hayir-wavenet-c": {
+  "text": "Hayır.",
+  "words": [
+   [
+    "Hayır.",
+    0.637
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "ctrl-cough+tamam-standard-a": {
+  "text": "Tamam.",
+  "words": [
+   [
+    "Tamam.",
+    0.815
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "ctrl-cough+tamam-standard-b": {
+  "text": "Evet. Tamam.",
+  "words": [
+   [
+    "Evet.",
+    0.034
+   ],
+   [
+    "Tamam.",
+    0.978
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "ctrl-evet-onay-standard-a": {
+  "text": "Evet, onaylıyorum.",
+  "words": [
+   [
+    "Evet,",
+    0.998
+   ],
+   [
+    "onaylıyorum.",
+    0.999
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "ctrl-evet-onay-standard-b": {
+  "text": "Evet, onaylıyorum.",
+  "words": [
+   [
+    "Evet,",
+    0.999
+   ],
+   [
+    "onaylıyorum.",
+    0.999
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "ctrl-evet-onay-wavenet-c": {
+  "text": "Evet, onaylıyorum.",
+  "words": [
+   [
+    "Evet,",
+    0.999
+   ],
+   [
+    "onaylıyorum.",
+    0.998
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "ctrl-evet-onay-wavenet-e": {
+  "text": "Evet, onaylıyorum.",
+  "words": [
+   [
+    "Evet,",
+    0.998
+   ],
+   [
+    "onaylıyorum.",
+    0.999
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "ctrl-evet-standard-a": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.926
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "ctrl-evet-standard-b": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.943
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "ctrl-evet-wavenet-c": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.928
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "ctrl-evet-wavenet-e": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.951
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "ctrl-hayir-standard-a": {
+  "text": "Hayır.",
+  "words": [
+   [
+    "Hayır.",
+    0.989
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "ctrl-hayir-standard-b": {
+  "text": "Hayır.",
+  "words": [
+   [
+    "Hayır.",
+    0.986
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "ctrl-hayir-wavenet-c": {
+  "text": "Hayır.",
+  "words": [
+   [
+    "Hayır.",
+    0.989
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "ctrl-hayir-wavenet-e": {
+  "text": "Hayır.",
+  "words": [
+   [
+    "Hayır.",
+    0.99
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "ctrl-olur-standard-a": {
+  "text": "Olur.",
+  "words": [
+   [
+    "Olur.",
+    0.976
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "ctrl-olur-standard-b": {
+  "text": "Olur.",
+  "words": [
+   [
+    "Olur.",
+    0.99
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "ctrl-olur-wavenet-c": {
+  "text": "Olur.",
+  "words": [
+   [
+    "Olur.",
+    0.991
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "ctrl-olur-wavenet-e": {
+  "text": "Olur.",
+  "words": [
+   [
+    "Olur.",
+    0.991
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "ctrl-tamam-standard-a": {
+  "text": "Tamam.",
+  "words": [
+   [
+    "Tamam.",
+    0.981
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "ctrl-tamam-standard-b": {
+  "text": "Tamam.",
+  "words": [
+   [
+    "Tamam.",
+    0.977
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "ctrl-tamam-wavenet-c": {
+  "text": "Tamam.",
+  "words": [
+   [
+    "Tamam.",
+    0.979
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "ctrl-tamam-wavenet-e": {
+  "text": "Tamam.",
+  "words": [
+   [
+    "Tamam.",
+    0.977
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "env-breathing-1-30709-A-23": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-breathing-2-50774-A-23": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-breathing-2-54961-A-23": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-breathing-2-82455-A-23": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-breathing-2-95567-A-23": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-breathing-3-112557-A-23": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.195
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "env-breathing-3-144128-A-23": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-breathing-4-207116-A-23": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-breathing-5-233260-A-23": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-breathing-5-238492-A-23": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-can_opening-1-41615-A-34": {
+  "text": "no no no no no no no.",
+  "words": [
+   [
+    "no",
+    0.011
+   ],
+   [
+    "no",
+    0.021
+   ],
+   [
+    "no",
+    0.039
+   ],
+   [
+    "no",
+    0.014
+   ],
+   [
+    "no",
+    0.019
+   ],
+   [
+    "no",
+    0.025
+   ],
+   [
+    "no.",
+    0.035
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-can_opening-2-144031-A-34": {
+  "text": "Aktar.",
+  "words": [
+   [
+    "Aktar.",
+    0.008
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-can_opening-2-81112-A-34": {
+  "text": "nokta com.",
+  "words": [
+   [
+    "nokta",
+    0.009
+   ],
+   [
+    "com.",
+    0.008
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-can_opening-2-81190-A-34": {
+  "text": "nokta com.",
+  "words": [
+   [
+    "nokta",
+    0.011
+   ],
+   [
+    "com.",
+    0.007
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-can_opening-3-147342-A-34": {
+  "text": "t.",
+  "words": [
+   [
+    "t.",
+    0.009
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-can_opening-3-148932-A-34": {
+  "text": "Aktar.",
+  "words": [
+   [
+    "Aktar.",
+    0.017
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-can_opening-4-215635-A-34": {
+  "text": "no no nokta nokta com.",
+  "words": [
+   [
+    "no",
+    0.042
+   ],
+   [
+    "no",
+    0.045
+   ],
+   [
+    "nokta",
+    0.103
+   ],
+   [
+    "nokta",
+    0.015
+   ],
+   [
+    "com.",
+    0.01
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-can_opening-5-236299-A-34": {
+  "text": "A nokta com.",
+  "words": [
+   [
+    "A",
+    0.065
+   ],
+   [
+    "nokta",
+    0.011
+   ],
+   [
+    "com.",
+    0.007
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-can_opening-5-244327-A-34": {
+  "text": "n n nokta tr.",
+  "words": [
+   [
+    "n",
+    0.011
+   ],
+   [
+    "n",
+    0.029
+   ],
+   [
+    "nokta",
+    0.017
+   ],
+   [
+    "tr.",
+    0.017
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-can_opening-5-250753-A-34": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-car_horn-1-19026-A-43": {
+  "text": "B B.",
+  "words": [
+   [
+    "B",
+    0.476
+   ],
+   [
+    "B.",
+    0.629
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "env-car_horn-1-28808-A-43": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-car_horn-2-100648-A-43": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-car_horn-2-125520-A-43": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-car_horn-3-145577-A-43": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-car_horn-3-146697-A-43": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-car_horn-3-153057-A-43": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-car_horn-3-155234-A-43": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-car_horn-5-179863-A-43": {
+  "text": "M M.",
+  "words": [
+   [
+    "M",
+    0.245
+   ],
+   [
+    "M.",
+    0.34
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "env-car_horn-5-180156-A-43": {
+  "text": "Birileri var.",
+  "words": [
+   [
+    "Birileri",
+    0.063
+   ],
+   [
+    "var.",
+    0.036
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-clock_tick-1-48413-A-38": {
+  "text": "no no no no no no.",
+  "words": [
+   [
+    "no",
+    0.026
+   ],
+   [
+    "no",
+    0.023
+   ],
+   [
+    "no",
+    0.027
+   ],
+   [
+    "no",
+    0.033
+   ],
+   [
+    "no",
+    0.031
+   ],
+   [
+    "no.",
+    0.033
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-clock_tick-1-62850-A-38": {
+  "text": "nokta com.",
+  "words": [
+   [
+    "nokta",
+    0.018
+   ],
+   [
+    "com.",
+    0.023
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-clock_tick-2-131943-A-38": {
+  "text": "Dört dört dört dört dört dört dört dört dört dört dört dört.",
+  "words": [
+   [
+    "Dört",
+    0.014
+   ],
+   [
+    "dört",
+    0.622
+   ],
+   [
+    "dört",
+    0.661
+   ],
+   [
+    "dört",
+    0.356
+   ],
+   [
+    "dört",
+    0.687
+   ],
+   [
+    "dört",
+    0.607
+   ],
+   [
+    "dört",
+    0.673
+   ],
+   [
+    "dört",
+    0.473
+   ],
+   [
+    "dört",
+    0.345
+   ],
+   [
+    "dört",
+    0.58
+   ],
+   [
+    "dört",
+    0.327
+   ],
+   [
+    "dört.",
+    0.575
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "env-clock_tick-2-141584-A-38": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-clock_tick-3-142593-A-38": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-clock_tick-3-150363-A-38": {
+  "text": "Tamam, tamam, tamam.",
+  "words": [
+   [
+    "Tamam,",
+    0.304
+   ],
+   [
+    "tamam,",
+    0.191
+   ],
+   [
+    "tamam.",
+    0.306
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "env-clock_tick-5-208624-A-38": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-clock_tick-5-209698-A-38": {
+  "text": "An .",
+  "words": [
+   [
+    "An.",
+    0.013
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-clock_tick-5-209833-A-38": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-clock_tick-5-210571-A-38": {
+  "text": "As a nokta com.",
+  "words": [
+   [
+    "As",
+    0.011
+   ],
+   [
+    "a",
+    0.022
+   ],
+   [
+    "nokta",
+    0.018
+   ],
+   [
+    "com.",
+    0.037
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-coughing-1-19111-A-24": {
+  "text": "nokta com.",
+  "words": [
+   [
+    "nokta",
+    0.012
+   ],
+   [
+    "com.",
+    0.012
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-coughing-1-58792-A-24": {
+  "text": "We were.",
+  "words": [
+   [
+    "We",
+    0.051
+   ],
+   [
+    "were.",
+    0.032
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-coughing-2-98676-A-24": {
+  "text": "t.",
+  "words": [
+   [
+    "t.",
+    0.014
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-coughing-3-151212-A-24": {
+  "text": "t.",
+  "words": [
+   [
+    "t.",
+    0.01
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-coughing-3-151213-A-24": {
+  "text": "Evet, nokta.",
+  "words": [
+   [
+    "Evet,",
+    0.144
+   ],
+   [
+    "nokta.",
+    0.012
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-coughing-4-154443-A-24": {
+  "text": "Evet .",
+  "words": [
+   [
+    "Evet.",
+    0.269
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "env-coughing-4-171396-A-24": {
+  "text": "V V V V.",
+  "words": [
+   [
+    "V",
+    0.225
+   ],
+   [
+    "V",
+    0.475
+   ],
+   [
+    "V",
+    0.192
+   ],
+   [
+    "V.",
+    0.21
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "env-coughing-5-178997-A-24": {
+  "text": "Hmm.",
+  "words": [
+   [
+    "Hmm.",
+    0.058
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-coughing-5-184871-A-24": {
+  "text": "..",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-coughing-5-251489-A-24": {
+  "text": "A nokta nokta com.",
+  "words": [
+   [
+    "A",
+    0.098
+   ],
+   [
+    "nokta",
+    0.011
+   ],
+   [
+    "nokta",
+    0.02
+   ],
+   [
+    "com.",
+    0.058
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-crying_baby-1-187207-A-20": {
+  "text": "Oh.",
+  "words": [
+   [
+    "Oh.",
+    0.027
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-crying_baby-1-60997-B-20": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-crying_baby-3-151081-B-20": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-crying_baby-3-152007-C-20": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-crying_baby-3-152007-E-20": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-crying_baby-4-167077-B-20": {
+  "text": "Eee.",
+  "words": [
+   [
+    "Eee.",
+    0.023
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-crying_baby-4-185575-A-20": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-crying_baby-4-59579-A-20": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-crying_baby-5-198411-A-20": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-crying_baby-5-198411-F-20": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.057
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-dog-1-100032-A-0": {
+  "text": "nokta com.",
+  "words": [
+   [
+    "nokta",
+    0.012
+   ],
+   [
+    "com.",
+    0.006
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-dog-1-97392-A-0": {
+  "text": "A nokta.",
+  "words": [
+   [
+    "A",
+    0.051
+   ],
+   [
+    "nokta.",
+    0.008
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-dog-3-136288-A-0": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-dog-3-144028-A-0": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-dog-3-163459-A-0": {
+  "text": "nokta nokta com.",
+  "words": [
+   [
+    "nokta",
+    0.009
+   ],
+   [
+    "nokta",
+    0.018
+   ],
+   [
+    "com.",
+    0.016
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-dog-3-180977-A-0": {
+  "text": "Not t.",
+  "words": [
+   [
+    "Not",
+    0.071
+   ],
+   [
+    "t.",
+    0.109
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-dog-4-183992-A-0": {
+  "text": "Yazdım.",
+  "words": [
+   [
+    "Yazdım.",
+    0.044
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-dog-4-191687-A-0": {
+  "text": "V V H V H.",
+  "words": [
+   [
+    "V",
+    0.155
+   ],
+   [
+    "V",
+    0.3
+   ],
+   [
+    "H",
+    0.212
+   ],
+   [
+    "V",
+    0.367
+   ],
+   [
+    "H.",
+    0.232
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "env-dog-4-199261-A-0": {
+  "text": "hırsızsın.",
+  "words": [
+   [
+    "hırsızsın.",
+    0.08
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-dog-4-207124-A-0": {
+  "text": "R R dört R V.",
+  "words": [
+   [
+    "R",
+    0.063
+   ],
+   [
+    "R",
+    0.339
+   ],
+   [
+    "dört",
+    0.396
+   ],
+   [
+    "R",
+    0.3
+   ],
+   [
+    "V.",
+    0.092
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "env-door_wood_creaks-1-51805-B-33": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-door_wood_creaks-1-51805-G-33": {
+  "text": "Ah.",
+  "words": [
+   [
+    "Ah.",
+    0.11
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-door_wood_creaks-2-70344-A-33": {
+  "text": "no no.",
+  "words": [
+   [
+    "no",
+    0.012
+   ],
+   [
+    "no.",
+    0.013
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-door_wood_creaks-2-7321-A-33": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-door_wood_creaks-3-103401-A-33": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.077
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-door_wood_creaks-4-108352-A-33": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-door_wood_creaks-4-160036-B-33": {
+  "text": "Tamam, tamam.",
+  "words": [
+   [
+    "Tamam,",
+    0.222
+   ],
+   [
+    "tamam.",
+    0.204
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "env-door_wood_creaks-5-161270-B-33": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-door_wood_creaks-5-173568-A-33": {
+  "text": "not.",
+  "words": [
+   [
+    "not.",
+    0.008
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-door_wood_creaks-5-187444-A-33": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-door_wood_knock-1-52290-A-30": {
+  "text": "nokta.",
+  "words": [
+   [
+    "nokta.",
+    0.015
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-door_wood_knock-2-118625-A-30": {
+  "text": "Antak.",
+  "words": [
+   [
+    "Antak.",
+    0.009
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-door_wood_knock-3-144510-A-30": {
+  "text": "Antarkti.",
+  "words": [
+   [
+    "Antarkti.",
+    0.007
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-door_wood_knock-3-151089-A-30": {
+  "text": "As nokta com.",
+  "words": [
+   [
+    "As",
+    0.012
+   ],
+   [
+    "nokta",
+    0.009
+   ],
+   [
+    "com.",
+    0.008
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-door_wood_knock-3-180147-A-30": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-door_wood_knock-4-187284-A-30": {
+  "text": "t.",
+  "words": [
+   [
+    "t.",
+    0.01
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-door_wood_knock-4-188878-A-30": {
+  "text": "At t.",
+  "words": [
+   [
+    "At",
+    0.011
+   ],
+   [
+    "t.",
+    0.009
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-door_wood_knock-5-235644-A-30": {
+  "text": "nokta nokta com.",
+  "words": [
+   [
+    "nokta",
+    0.015
+   ],
+   [
+    "nokta",
+    0.014
+   ],
+   [
+    "com.",
+    0.012
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-door_wood_knock-5-250026-A-30": {
+  "text": "no no.",
+  "words": [
+   [
+    "no",
+    0.012
+   ],
+   [
+    "no.",
+    0.007
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-door_wood_knock-5-251426-B-30": {
+  "text": "As t.",
+  "words": [
+   [
+    "As",
+    0.013
+   ],
+   [
+    "t.",
+    0.017
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-drinking_sipping-1-17295-A-29": {
+  "text": "t.",
+  "words": [
+   [
+    "t.",
+    0.009
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-drinking_sipping-1-37226-A-29": {
+  "text": "nokta com.",
+  "words": [
+   [
+    "nokta",
+    0.014
+   ],
+   [
+    "com.",
+    0.007
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-drinking_sipping-3-133977-A-29": {
+  "text": "Antark.",
+  "words": [
+   [
+    "Antark.",
+    0.009
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-drinking_sipping-3-144259-A-29": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-drinking_sipping-3-145387-A-29": {
+  "text": "Yeah. Yeah. Yeah. Yeah.",
+  "words": [
+   [
+    "Yeah.",
+    0.08
+   ],
+   [
+    "Yeah.",
+    0.078
+   ],
+   [
+    "Yeah.",
+    0.202
+   ],
+   [
+    "Yeah.",
+    0.235
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "env-drinking_sipping-3-185456-A-29": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-drinking_sipping-4-188191-C-29": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-drinking_sipping-4-188595-A-29": {
+  "text": "no no no no.",
+  "words": [
+   [
+    "no",
+    0.015
+   ],
+   [
+    "no",
+    0.018
+   ],
+   [
+    "no",
+    0.019
+   ],
+   [
+    "no.",
+    0.015
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-drinking_sipping-4-194808-A-29": {
+  "text": "Antark.",
+  "words": [
+   [
+    "Antark.",
+    0.007
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-drinking_sipping-4-210593-A-29": {
+  "text": "t.",
+  "words": [
+   [
+    "t.",
+    0.01
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-engine-1-18527-B-44": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-engine-1-50454-A-44": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-engine-2-78651-A-44": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-engine-3-115382-A-44": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-engine-3-119455-A-44": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-engine-3-141240-B-44": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-engine-4-186940-A-44": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-engine-4-186962-A-44": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-engine-5-240671-A-44": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-engine-5-243773-A-44": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-footsteps-1-155858-C-25": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-footsteps-2-209473-A-25": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-footsteps-2-209477-A-25": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-footsteps-2-209478-A-25": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-footsteps-3-94343-A-25": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-footsteps-4-194981-A-25": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-footsteps-4-198962-A-25": {
+  "text": "A nokta.",
+  "words": [
+   [
+    "A",
+    0.09
+   ],
+   [
+    "nokta.",
+    0.013
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-footsteps-5-234855-A-25": {
+  "text": "no no.",
+  "words": [
+   [
+    "no",
+    0.016
+   ],
+   [
+    "no.",
+    0.014
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-footsteps-5-244310-A-25": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-footsteps-5-263490-A-25": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-keyboard_typing-1-79711-A-32": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-keyboard_typing-2-109316-A-32": {
+  "text": "no no.",
+  "words": [
+   [
+    "no",
+    0.016
+   ],
+   [
+    "no.",
+    0.014
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-keyboard_typing-2-118459-B-32": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-keyboard_typing-3-144106-A-32": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-keyboard_typing-3-154781-A-32": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-keyboard_typing-3-155570-A-32": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-keyboard_typing-4-158653-A-32": {
+  "text": "n n n no.",
+  "words": [
+   [
+    "n",
+    0.015
+   ],
+   [
+    "n",
+    0.013
+   ],
+   [
+    "n",
+    0.019
+   ],
+   [
+    "no.",
+    0.015
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-keyboard_typing-4-177243-A-32": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-keyboard_typing-4-185613-A-32": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-keyboard_typing-5-205090-A-32": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-mouse_click-1-97793-A-31": {
+  "text": "n n n n nokta com.",
+  "words": [
+   [
+    "n",
+    0.016
+   ],
+   [
+    "n",
+    0.023
+   ],
+   [
+    "n",
+    0.028
+   ],
+   [
+    "n",
+    0.039
+   ],
+   [
+    "nokta",
+    0.026
+   ],
+   [
+    "com.",
+    0.007
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-mouse_click-2-146877-B-31": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-mouse_click-2-152964-A-31": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-mouse_click-2-153388-A-31": {
+  "text": "t.",
+  "words": [
+   [
+    "t.",
+    0.01
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-mouse_click-2-154688-A-31": {
+  "text": "no no no no.",
+  "words": [
+   [
+    "no",
+    0.01
+   ],
+   [
+    "no",
+    0.018
+   ],
+   [
+    "no",
+    0.019
+   ],
+   [
+    "no.",
+    0.028
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-mouse_click-3-155556-A-31": {
+  "text": "Ortak nokta.",
+  "words": [
+   [
+    "Ortak",
+    0.011
+   ],
+   [
+    "nokta.",
+    0.01
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-mouse_click-3-158056-A-31": {
+  "text": "no no.",
+  "words": [
+   [
+    "no",
+    0.01
+   ],
+   [
+    "no.",
+    0.009
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-mouse_click-3-172179-A-31": {
+  "text": "no no no no no.",
+  "words": [
+   [
+    "no",
+    0.02
+   ],
+   [
+    "no",
+    0.019
+   ],
+   [
+    "no",
+    0.019
+   ],
+   [
+    "no",
+    0.022
+   ],
+   [
+    "no.",
+    0.027
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-mouse_click-5-223103-A-31": {
+  "text": "no no no.",
+  "words": [
+   [
+    "no",
+    0.012
+   ],
+   [
+    "no",
+    0.019
+   ],
+   [
+    "no.",
+    0.014
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-mouse_click-5-238926-A-31": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-pouring_water-1-51433-A-17": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-pouring_water-1-67152-A-17": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-pouring_water-2-102414-D-17": {
+  "text": "L.",
+  "words": [
+   [
+    "L.",
+    0.053
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-pouring_water-2-102414-F-17": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-pouring_water-2-102414-G-17": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-pouring_water-3-142349-A-17": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-pouring_water-3-145719-A-17": {
+  "text": "Tekrar.",
+  "words": [
+   [
+    "Tekrar.",
+    0.015
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-pouring_water-3-149448-A-17": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-pouring_water-4-187504-B-17": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-pouring_water-5-212736-A-17": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-rain-1-63871-A-10": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-rain-2-117625-A-10": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-rain-2-81731-A-10": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-rain-3-140774-A-10": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-rain-3-143929-A-10": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-rain-4-177250-A-10": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-rain-4-180380-A-10": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-rain-5-181766-A-10": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-rain-5-198321-A-10": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-rain-5-203739-A-10": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-siren-1-31482-A-42": {
+  "text": "V T.",
+  "words": [
+   [
+    "V",
+    0.056
+   ],
+   [
+    "T.",
+    0.086
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-siren-2-43806-A-42": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-siren-3-51376-A-42": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-siren-3-58772-A-42": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-siren-4-102871-A-42": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-siren-4-111671-A-42": {
+  "text": "t.",
+  "words": [
+   [
+    "t.",
+    0.009
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-siren-4-90014-B-42": {
+  "text": "A.",
+  "words": [
+   [
+    "A.",
+    0.054
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-siren-5-117120-A-42": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.056
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-siren-5-133989-B-42": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-siren-5-184323-A-42": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-sneezing-2-93030-A-21": {
+  "text": "Tamam.",
+  "words": [
+   [
+    "Tamam.",
+    0.114
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-sneezing-3-142605-A-21": {
+  "text": "no no no no no no no.",
+  "words": [
+   [
+    "no",
+    0.01
+   ],
+   [
+    "no",
+    0.03
+   ],
+   [
+    "no",
+    0.037
+   ],
+   [
+    "no",
+    0.012
+   ],
+   [
+    "no",
+    0.04
+   ],
+   [
+    "no",
+    0.087
+   ],
+   [
+    "no.",
+    0.017
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-sneezing-3-144692-A-21": {
+  "text": "And you you? And this you.",
+  "words": [
+   [
+    "And",
+    0.055
+   ],
+   [
+    "you",
+    0.412
+   ],
+   [
+    "you?",
+    0.113
+   ],
+   [
+    "And",
+    0.062
+   ],
+   [
+    "this",
+    0.096
+   ],
+   [
+    "you.",
+    0.261
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "env-sneezing-4-156843-A-21": {
+  "text": "t.",
+  "words": [
+   [
+    "t.",
+    0.012
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-sneezing-4-157297-A-21": {
+  "text": "Evet, Özcan.",
+  "words": [
+   [
+    "Evet,",
+    0.09
+   ],
+   [
+    "Özcan.",
+    0.094
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-sneezing-5-187979-A-21": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-sneezing-5-220026-A-21": {
+  "text": "En .",
+  "words": [
+   [
+    "En.",
+    0.02
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-sneezing-5-220027-A-21": {
+  "text": "Ekledim.",
+  "words": [
+   [
+    "Ekledim.",
+    0.139
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-sneezing-5-221518-A-21": {
+  "text": "mm.",
+  "words": [
+   [
+    "mm.",
+    0.296
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "env-sneezing-5-221593-A-21": {
+  "text": "nokta com.",
+  "words": [
+   [
+    "nokta",
+    0.013
+   ],
+   [
+    "com.",
+    0.012
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-snoring-2-114609-B-28": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-snoring-2-117330-A-28": {
+  "text": "O.",
+  "words": [
+   [
+    "O.",
+    0.155
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "env-snoring-2-52001-B-28": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-snoring-2-80313-A-28": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-snoring-3-130998-A-28": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-snoring-3-151557-B-28": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-snoring-4-180337-A-28": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-snoring-4-183882-B-28": {
+  "text": "E.",
+  "words": [
+   [
+    "E.",
+    0.047
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-snoring-4-184237-A-28": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-snoring-5-233312-A-28": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-vacuum_cleaner-1-100210-A-36": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-vacuum_cleaner-1-79236-A-36": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-vacuum_cleaner-3-152020-A-36": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-vacuum_cleaner-4-172733-A-36": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-vacuum_cleaner-4-172736-B-36": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-vacuum_cleaner-4-181999-A-36": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-vacuum_cleaner-5-182007-A-36": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-vacuum_cleaner-5-182010-A-36": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-vacuum_cleaner-5-182012-A-36": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-vacuum_cleaner-5-188365-A-36": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-washing_machine-1-23996-A-35": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-washing_machine-2-102567-C-35": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-washing_machine-2-102567-D-35": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-washing_machine-2-121909-A-35": {
+  "text": "N dokuz.",
+  "words": [
+   [
+    "N",
+    0.01
+   ],
+   [
+    "dokuz.",
+    0.135
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-washing_machine-3-182710-A-35": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-washing_machine-4-218199-C-35": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-washing_machine-4-218199-G-35": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.056
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-washing_machine-5-141683-A-35": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-washing_machine-5-223810-A-35": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-washing_machine-5-238021-A-35": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-wind-1-51035-A-16": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-wind-1-51036-A-16": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-wind-1-51037-A-16": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-wind-2-104952-B-16": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-wind-2-109371-A-16": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-wind-3-117504-A-16": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-wind-3-134699-A-16": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-wind-3-134699-C-16": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-wind-4-163608-B-16": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "env-wind-4-163609-B-16": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "silence-floor-03s": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "silence-floor-05s": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "silence-floor-08s": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "silence-floor-10s": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "silence-floor-12s": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "silence-floor-15s": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "silence-zero-03s": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "silence-zero-05s": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "silence-zero-08s": {
+  "text": "no no no no no.",
+  "words": [
+   [
+    "no",
+    0.01
+   ],
+   [
+    "no",
+    0.009
+   ],
+   [
+    "no",
+    0.01
+   ],
+   [
+    "no",
+    0.01
+   ],
+   [
+    "no.",
+    0.013
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "silence-zero-10s": {
+  "text": "no no no no no no.",
+  "words": [
+   [
+    "no",
+    0.009
+   ],
+   [
+    "no",
+    0.009
+   ],
+   [
+    "no",
+    0.009
+   ],
+   [
+    "no",
+    0.009
+   ],
+   [
+    "no",
+    0.011
+   ],
+   [
+    "no.",
+    0.01
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "silence-zero-12s": {
+  "text": "no no no no no no no no.",
+  "words": [
+   [
+    "no",
+    0.008
+   ],
+   [
+    "no",
+    0.008
+   ],
+   [
+    "no",
+    0.009
+   ],
+   [
+    "no",
+    0.008
+   ],
+   [
+    "no",
+    0.009
+   ],
+   [
+    "no",
+    0.009
+   ],
+   [
+    "no",
+    0.011
+   ],
+   [
+    "no.",
+    0.011
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "silence-zero-15s": {
+  "text": "no no no no no no no no no.",
+  "words": [
+   [
+    "no",
+    0.007
+   ],
+   [
+    "no",
+    0.007
+   ],
+   [
+    "no",
+    0.007
+   ],
+   [
+    "no",
+    0.006
+   ],
+   [
+    "no",
+    0.007
+   ],
+   [
+    "no",
+    0.008
+   ],
+   [
+    "no",
+    0.008
+   ],
+   [
+    "no",
+    0.008
+   ],
+   [
+    "no.",
+    0.009
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-cough-f0229": {
+  "text": "Kalk.",
+  "words": [
+   [
+    "Kalk.",
+    0.07
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-cough-f0258": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-cough-f0859": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.095
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-cough-f0872": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-cough-f0922": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-cough-f1089": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-cough-f1292": {
+  "text": "Dutrin, götürün.",
+  "words": [
+   [
+    "Dutrin,",
+    0.105
+   ],
+   [
+    "götürün.",
+    0.17
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-cough-f1388": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-cough-f1525": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-cough-f1680": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.128
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-cough-f1945": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.067
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-cough-f2414": {
+  "text": "h nokta com.",
+  "words": [
+   [
+    "h",
+    0.146
+   ],
+   [
+    "nokta",
+    0.011
+   ],
+   [
+    "com.",
+    0.013
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-cough-f2443": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-cough-f3055": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.048
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-cough-f3256": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.102
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-cough-m0428": {
+  "text": "Tam tam.",
+  "words": [
+   [
+    "Tam",
+    0.667
+   ],
+   [
+    "tam.",
+    0.509
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-cough-m0456": {
+  "text": "not.",
+  "words": [
+   [
+    "not.",
+    0.013
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-cough-m0832": {
+  "text": "A.",
+  "words": [
+   [
+    "A.",
+    0.038
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-cough-m0882": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-cough-m1025": {
+  "text": "t.",
+  "words": [
+   [
+    "t.",
+    0.01
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-cough-m1072": {
+  "text": "Ah.",
+  "words": [
+   [
+    "Ah.",
+    0.025
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-cough-m1439": {
+  "text": "I I.",
+  "words": [
+   [
+    "I",
+    0.231
+   ],
+   [
+    "I.",
+    0.211
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-cough-m1524": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-cough-m1598": {
+  "text": "Kalk..",
+  "words": [
+   [
+    "Kalk..",
+    0.051
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-cough-m2021": {
+  "text": "t.",
+  "words": [
+   [
+    "t.",
+    0.009
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-cough-m2532": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-cough-m2581": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.157
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-cough-m2721": {
+  "text": "Ah.",
+  "words": [
+   [
+    "Ah.",
+    0.079
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-cough-m3058": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.077
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-cough-m3129": {
+  "text": "Hı hı.",
+  "words": [
+   [
+    "Hı",
+    0.081
+   ],
+   [
+    "hı.",
+    0.093
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-laughter-f0298": {
+  "text": "S S T.",
+  "words": [
+   [
+    "S",
+    0.559
+   ],
+   [
+    "S",
+    0.273
+   ],
+   [
+    "T.",
+    0.224
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-laughter-f0516": {
+  "text": "Kara, kara.",
+  "words": [
+   [
+    "Kara,",
+    0.043
+   ],
+   [
+    "kara.",
+    0.055
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-laughter-f0597": {
+  "text": "H.",
+  "words": [
+   [
+    "H.",
+    0.203
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-laughter-f1111": {
+  "text": "H.",
+  "words": [
+   [
+    "H.",
+    0.059
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-laughter-f1184": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-laughter-f1300": {
+  "text": "H.",
+  "words": [
+   [
+    "H.",
+    0.083
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-laughter-f1309": {
+  "text": "Sabah.",
+  "words": [
+   [
+    "Sabah.",
+    0.062
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-laughter-f1799": {
+  "text": "Hahahahahahahahahahahahahahahahahaha.",
+  "words": [
+   [
+    "Hahahahahahahahahahahahahahahahahaha.",
+    0.165
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-laughter-f1807": {
+  "text": "R E C H T.",
+  "words": [
+   [
+    "R",
+    0.069
+   ],
+   [
+    "E",
+    0.07
+   ],
+   [
+    "C",
+    0.513
+   ],
+   [
+    "H",
+    0.122
+   ],
+   [
+    "T.",
+    0.248
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-laughter-f2092": {
+  "text": "A dokuz dört sekiz dokuz.",
+  "words": [
+   [
+    "A",
+    0.134
+   ],
+   [
+    "dokuz",
+    0.098
+   ],
+   [
+    "dört",
+    0.123
+   ],
+   [
+    "sekiz",
+    0.091
+   ],
+   [
+    "dokuz.",
+    0.113
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-laughter-f2609": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-laughter-f2777": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-laughter-f3081": {
+  "text": "K sekiz sekiz sekiz.",
+  "words": [
+   [
+    "K",
+    0.078
+   ],
+   [
+    "sekiz",
+    0.069
+   ],
+   [
+    "sekiz",
+    0.147
+   ],
+   [
+    "sekiz.",
+    0.303
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-laughter-f3301": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-laughter-f3308": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-laughter-m0011": {
+  "text": "fırsatası.",
+  "words": [
+   [
+    "fırsatası.",
+    0.025
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-laughter-m0563": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-laughter-m0677": {
+  "text": "Hahaha.",
+  "words": [
+   [
+    "Hahaha.",
+    0.202
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-laughter-m0940": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-laughter-m0967": {
+  "text": "H.",
+  "words": [
+   [
+    "H.",
+    0.143
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-laughter-m1066": {
+  "text": "Son sınıf nüfusu, S P sekiz sekiz.",
+  "words": [
+   [
+    "Son",
+    0.025
+   ],
+   [
+    "sınıf",
+    0.48
+   ],
+   [
+    "nüfusu,",
+    0.097
+   ],
+   [
+    "S",
+    0.3
+   ],
+   [
+    "P",
+    0.311
+   ],
+   [
+    "sekiz",
+    0.173
+   ],
+   [
+    "sekiz.",
+    0.33
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-laughter-m1109": {
+  "text": "Bu teknikte bir iş için gitti.",
+  "words": [
+   [
+    "Bu",
+    0.065
+   ],
+   [
+    "teknikte",
+    0.094
+   ],
+   [
+    "bir",
+    0.061
+   ],
+   [
+    "iş",
+    0.095
+   ],
+   [
+    "için",
+    0.161
+   ],
+   [
+    "gitti.",
+    0.329
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-laughter-m1946": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-laughter-m2000": {
+  "text": "K K sekiz sekiz sekiz.",
+  "words": [
+   [
+    "K",
+    0.07
+   ],
+   [
+    "K",
+    0.267
+   ],
+   [
+    "sekiz",
+    0.104
+   ],
+   [
+    "sekiz",
+    0.1
+   ],
+   [
+    "sekiz.",
+    0.749
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-laughter-m2193": {
+  "text": "Sert noktası.",
+  "words": [
+   [
+    "Sert",
+    0.205
+   ],
+   [
+    "noktası.",
+    0.091
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-laughter-m2519": {
+  "text": "Harf harf.",
+  "words": [
+   [
+    "Harf",
+    0.099
+   ],
+   [
+    "harf.",
+    0.05
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-laughter-m2875": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.083
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-laughter-m3092": {
+  "text": "Susa hassas hatta patlattı.",
+  "words": [
+   [
+    "Susa",
+    0.143
+   ],
+   [
+    "hassas",
+    0.092
+   ],
+   [
+    "hatta",
+    0.184
+   ],
+   [
+    "patlattı.",
+    0.126
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-laughter-m3120": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-laughter-m3226": {
+  "text": "Hayır. Evet.",
+  "words": [
+   [
+    "Hayır.",
+    0.602
+   ],
+   [
+    "Evet.",
+    0.221
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-sigh-f0128": {
+  "text": "Oh.",
+  "words": [
+   [
+    "Oh.",
+    0.047
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sigh-f0253": {
+  "text": "t.",
+  "words": [
+   [
+    "t.",
+    0.009
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sigh-f0320": {
+  "text": "Oh.",
+  "words": [
+   [
+    "Oh.",
+    0.039
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sigh-f0327": {
+  "text": "Alt.",
+  "words": [
+   [
+    "Alt.",
+    0.018
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sigh-f0381": {
+  "text": "A.",
+  "words": [
+   [
+    "A.",
+    0.057
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sigh-f0448": {
+  "text": "N A N, down records come?",
+  "words": [
+   [
+    "N",
+    0.041
+   ],
+   [
+    "A",
+    0.614
+   ],
+   [
+    "N,",
+    0.366
+   ],
+   [
+    "down",
+    0.446
+   ],
+   [
+    "records",
+    0.034
+   ],
+   [
+    "come?",
+    0.108
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-sigh-f0513": {
+  "text": "A.",
+  "words": [
+   [
+    "A.",
+    0.1
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sigh-f0671": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.137
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sigh-f0752": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sigh-f1104": {
+  "text": "A nokta nokta com.",
+  "words": [
+   [
+    "A",
+    0.059
+   ],
+   [
+    "nokta",
+    0.008
+   ],
+   [
+    "nokta",
+    0.015
+   ],
+   [
+    "com.",
+    0.014
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sigh-f1246": {
+  "text": "Hayır.",
+  "words": [
+   [
+    "Hayır.",
+    0.239
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-sigh-f2054": {
+  "text": "Hıh.",
+  "words": [
+   [
+    "Hıh.",
+    0.023
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sigh-f2398": {
+  "text": "no no.",
+  "words": [
+   [
+    "no",
+    0.013
+   ],
+   [
+    "no.",
+    0.01
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sigh-f3044": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sigh-f3239": {
+  "text": "Oh",
+  "words": [
+   [
+    "Oh",
+    0.135
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sigh-m0046": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sigh-m0466": {
+  "text": "L L.",
+  "words": [
+   [
+    "L",
+    0.255
+   ],
+   [
+    "L.",
+    0.048
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-sigh-m0904": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sigh-m1151": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.118
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sigh-m1729": {
+  "text": "Haa.",
+  "words": [
+   [
+    "Haa.",
+    0.08
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sigh-m1948": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sigh-m2053": {
+  "text": "Hayır.",
+  "words": [
+   [
+    "Hayır.",
+    0.047
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sigh-m2256": {
+  "text": "Hıh.",
+  "words": [
+   [
+    "Hıh.",
+    0.153
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-sigh-m2444": {
+  "text": "Ah.",
+  "words": [
+   [
+    "Ah.",
+    0.236
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-sigh-m2477": {
+  "text": "Evet .",
+  "words": [
+   [
+    "Evet.",
+    0.177
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-sigh-m2479": {
+  "text": "Yene var demurlar.",
+  "words": [
+   [
+    "Yene",
+    0.13
+   ],
+   [
+    "var",
+    0.44
+   ],
+   [
+    "demurlar.",
+    0.064
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-sigh-m2600": {
+  "text": "A.",
+  "words": [
+   [
+    "A.",
+    0.051
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sigh-m2955": {
+  "text": "O.",
+  "words": [
+   [
+    "O.",
+    0.123
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sigh-m3150": {
+  "text": "Ah.",
+  "words": [
+   [
+    "Ah.",
+    0.077
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sigh-m3325": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sneeze-f0179": {
+  "text": "Y.",
+  "words": [
+   [
+    "Y.",
+    0.196
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-sneeze-f0619": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sneeze-f0651": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sneeze-f0678": {
+  "text": "t.",
+  "words": [
+   [
+    "t.",
+    0.191
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-sneeze-f0969": {
+  "text": "That now.",
+  "words": [
+   [
+    "That",
+    0.092
+   ],
+   [
+    "now.",
+    0.082
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sneeze-f1189": {
+  "text": "t.",
+  "words": [
+   [
+    "t.",
+    0.013
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sneeze-f1380": {
+  "text": "It.",
+  "words": [
+   [
+    "It.",
+    0.128
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sneeze-f1517": {
+  "text": "t.",
+  "words": [
+   [
+    "t.",
+    0.009
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sneeze-f1685": {
+  "text": "Hepta.",
+  "words": [
+   [
+    "Hepta.",
+    0.076
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sneeze-f1857": {
+  "text": "t.",
+  "words": [
+   [
+    "t.",
+    0.023
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sneeze-f1947": {
+  "text": "Peki.",
+  "words": [
+   [
+    "Peki.",
+    0.07
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sneeze-f2259": {
+  "text": "Peki.",
+  "words": [
+   [
+    "Peki.",
+    0.127
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sneeze-f2322": {
+  "text": "Hayır, yok.",
+  "words": [
+   [
+    "Hayır,",
+    0.069
+   ],
+   [
+    "yok.",
+    0.504
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-sneeze-f2365": {
+  "text": "Peki.",
+  "words": [
+   [
+    "Peki.",
+    0.629
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-sneeze-f2380": {
+  "text": "Oh.",
+  "words": [
+   [
+    "Oh.",
+    0.093
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sneeze-m0256": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sneeze-m0260": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.133
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sneeze-m0297": {
+  "text": "t.",
+  "words": [
+   [
+    "t.",
+    0.01
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sneeze-m0361": {
+  "text": "t.",
+  "words": [
+   [
+    "t.",
+    0.012
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sneeze-m0490": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.922
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-sneeze-m0987": {
+  "text": "çay.",
+  "words": [
+   [
+    "çay.",
+    0.032
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sneeze-m1206": {
+  "text": "O ne?",
+  "words": [
+   [
+    "O",
+    0.767
+   ],
+   [
+    "ne?",
+    0.232
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-sneeze-m1296": {
+  "text": "t.",
+  "words": [
+   [
+    "t.",
+    0.013
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sneeze-m1564": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.098
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sneeze-m2555": {
+  "text": "Peki.",
+  "words": [
+   [
+    "Peki.",
+    0.13
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sneeze-m2571": {
+  "text": "Aç.",
+  "words": [
+   [
+    "Aç.",
+    0.228
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-sneeze-m2582": {
+  "text": "Yani.",
+  "words": [
+   [
+    "Yani.",
+    0.563
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-sneeze-m2820": {
+  "text": "Peki.",
+  "words": [
+   [
+    "Peki.",
+    0.896
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-sneeze-m3267": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sneeze-m3354": {
+  "text": "Hatt.",
+  "words": [
+   [
+    "Hatt.",
+    0.222
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-sniff-f0125": {
+  "text": "Olur.",
+  "words": [
+   [
+    "Olur.",
+    0.193
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-sniff-f0134": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sniff-f0513": {
+  "text": "geldi.",
+  "words": [
+   [
+    "geldi.",
+    0.308
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-sniff-f0581": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sniff-f0692": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sniff-f0974": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sniff-f1020": {
+  "text": "O.",
+  "words": [
+   [
+    "O.",
+    0.119
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sniff-f1070": {
+  "text": "T E P E.",
+  "words": [
+   [
+    "T",
+    0.062
+   ],
+   [
+    "E",
+    0.157
+   ],
+   [
+    "P",
+    0.089
+   ],
+   [
+    "E.",
+    0.144
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-sniff-f1236": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sniff-f1414": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sniff-f2168": {
+  "text": "Efekti.",
+  "words": [
+   [
+    "Efekti.",
+    0.049
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sniff-f2169": {
+  "text": "Hayır, tamam.",
+  "words": [
+   [
+    "Hayır,",
+    0.641
+   ],
+   [
+    "tamam.",
+    0.088
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-sniff-f2400": {
+  "text": "H H.",
+  "words": [
+   [
+    "H",
+    0.26
+   ],
+   [
+    "H.",
+    0.239
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-sniff-f2714": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sniff-f3054": {
+  "text": "beş üç beş üç.",
+  "words": [
+   [
+    "beş",
+    0.349
+   ],
+   [
+    "üç",
+    0.383
+   ],
+   [
+    "beş",
+    0.206
+   ],
+   [
+    "üç.",
+    0.235
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-sniff-m0049": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sniff-m0129": {
+  "text": "O.",
+  "words": [
+   [
+    "O.",
+    0.19
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-sniff-m0372": {
+  "text": "Şey.",
+  "words": [
+   [
+    "Şey.",
+    0.12
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sniff-m0376": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sniff-m0542": {
+  "text": "H H.",
+  "words": [
+   [
+    "H",
+    0.491
+   ],
+   [
+    "H.",
+    0.291
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-sniff-m0898": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sniff-m0904": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sniff-m0935": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sniff-m0943": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sniff-m1065": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sniff-m2053": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sniff-m2158": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sniff-m2212": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sniff-m2361": {
+  "text": "Ş.",
+  "words": [
+   [
+    "Ş.",
+    0.084
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-sniff-m2457": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-throatclearing-f0028": {
+  "text": "Bitti.",
+  "words": [
+   [
+    "Bitti.",
+    0.078
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-throatclearing-f0116": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-throatclearing-f0384": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-throatclearing-f0649": {
+  "text": "gitti.",
+  "words": [
+   [
+    "gitti.",
+    0.045
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-throatclearing-f0800": {
+  "text": "H.",
+  "words": [
+   [
+    "H.",
+    0.227
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-throatclearing-f1048": {
+  "text": "Etikette, E.",
+  "words": [
+   [
+    "Etikette,",
+    0.054
+   ],
+   [
+    "E.",
+    0.276
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-throatclearing-f1361": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-throatclearing-f1680": {
+  "text": "Tipik değil.",
+  "words": [
+   [
+    "Tipik",
+    0.043
+   ],
+   [
+    "değil.",
+    0.259
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-throatclearing-f1771": {
+  "text": "Kalkın...",
+  "words": [
+   [
+    "Kalkın...",
+    0.083
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-throatclearing-f2450": {
+  "text": "Ö.",
+  "words": [
+   [
+    "Ö.",
+    0.154
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-throatclearing-f2686": {
+  "text": "Atalım. Hatırlayın.",
+  "words": [
+   [
+    "Atalım.",
+    0.073
+   ],
+   [
+    "Hatırlayın.",
+    0.078
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-throatclearing-f2942": {
+  "text": "Değil.",
+  "words": [
+   [
+    "Değil.",
+    0.109
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-throatclearing-f3001": {
+  "text": "A.",
+  "words": [
+   [
+    "A.",
+    0.135
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-throatclearing-f3111": {
+  "text": "..",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-throatclearing-f3156": {
+  "text": "Evet. E.",
+  "words": [
+   [
+    "Evet.",
+    0.139
+   ],
+   [
+    "E.",
+    0.102
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-throatclearing-m0263": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-throatclearing-m0341": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-throatclearing-m0446": {
+  "text": "Tadı. Deppedi Bey, epey.",
+  "words": [
+   [
+    "Tadı.",
+    0.248
+   ],
+   [
+    "Deppedi",
+    0.144
+   ],
+   [
+    "Bey,",
+    0.194
+   ],
+   [
+    "epey.",
+    0.362
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-throatclearing-m0452": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.135
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-throatclearing-m0459": {
+  "text": "A.",
+  "words": [
+   [
+    "A.",
+    0.124
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-throatclearing-m0586": {
+  "text": "",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-throatclearing-m0798": {
+  "text": "P P.",
+  "words": [
+   [
+    "P",
+    0.515
+   ],
+   [
+    "P.",
+    0.495
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-throatclearing-m0861": {
+  "text": "...",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-throatclearing-m1471": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-throatclearing-m1905": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-throatclearing-m1950": {
+  "text": "Hayır, hayır.",
+  "words": [
+   [
+    "Hayır,",
+    0.037
+   ],
+   [
+    "hayır.",
+    0.031
+   ]
+  ],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-throatclearing-m2052": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-throatclearing-m2473": {
+  "text": "E N A N, E N E R A.",
+  "words": [
+   [
+    "E",
+    0.197
+   ],
+   [
+    "N",
+    0.262
+   ],
+   [
+    "A",
+    0.053
+   ],
+   [
+    "N,",
+    0.168
+   ],
+   [
+    "E",
+    0.143
+   ],
+   [
+    "N",
+    0.55
+   ],
+   [
+    "E",
+    0.267
+   ],
+   [
+    "R",
+    0.053
+   ],
+   [
+    "A.",
+    0.198
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ },
+ "vocal-throatclearing-m2708": {
+  "text": ".",
+  "words": [],
+  "conf": null,
+  "no_speech": true
+ },
+ "vocal-throatclearing-m2759": {
+  "text": "Tamam.",
+  "words": [
+   [
+    "Tamam.",
+    0.178
+   ]
+  ],
+  "conf": null,
+  "no_speech": false
+ }
+}

@@ -1,0 +1,13786 @@
+{
+ "ctrl-bir-saniye-standard-a": {
+  "text": "Bir saniye.",
+  "words": [
+   [
+    "Bir",
+    0.86962890625
+   ],
+   [
+    "saniye.",
+    0.9833984375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.3522949144244194
+ },
+ "ctrl-bir-saniye-standard-b": {
+  "text": "Bir saniye.",
+  "words": [
+   [
+    "Bir",
+    0.81884765625
+   ],
+   [
+    "saniye.",
+    0.9641927083333334
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.3486328125
+ },
+ "ctrl-bir-saniye-wavenet-c": {
+  "text": "Bir saniye.",
+  "words": [
+   [
+    "Bir",
+    0.84814453125
+   ],
+   [
+    "saniye.",
+    0.9910481770833334
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.30078125
+ },
+ "ctrl-bir-saniye-wavenet-e": {
+  "text": "Bir saniye.",
+  "words": [
+   [
+    "Bir",
+    0.8388671875
+   ],
+   [
+    "saniye.",
+    0.9620768229166666
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.3408203162252903
+ },
+ "ctrl-cough+evet-standard-a": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.88671875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.44453125
+ },
+ "ctrl-cough+evet-standard-b": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.97509765625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.3333984375
+ },
+ "ctrl-cough+evet-wavenet-c": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.96533203125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.378125
+ },
+ "ctrl-cough+hayir-standard-a": {
+  "text": "Hayır.",
+  "words": [
+   [
+    "Hayır.",
+    0.904296875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.49453125
+ },
+ "ctrl-cough+hayir-standard-b": {
+  "text": "Hayır.",
+  "words": [
+   [
+    "Hayır.",
+    0.74951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.3716796875
+ },
+ "ctrl-cough+hayir-wavenet-c": {
+  "text": "Hayır",
+  "words": [
+   [
+    "Hayır",
+    0.72900390625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.5869140475988388
+ },
+ "ctrl-cough+tamam-standard-a": {
+  "text": "Tamam.",
+  "words": [
+   [
+    "Tamam.",
+    0.95654296875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.430078125
+ },
+ "ctrl-cough+tamam-standard-b": {
+  "text": "Tamam.",
+  "words": [
+   [
+    "Tamam.",
+    0.91064453125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.3560546875
+ },
+ "ctrl-evet-onay-standard-a": {
+  "text": "Evet, onaylıyorum.",
+  "words": [
+   [
+    "Evet,",
+    0.98291015625
+   ],
+   [
+    "onaylıyorum.",
+    0.99853515625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.2349609464406967
+ },
+ "ctrl-evet-onay-standard-b": {
+  "text": "Evet onaylıyorum.",
+  "words": [
+   [
+    "Evet",
+    0.97265625
+   ],
+   [
+    "onaylıyorum.",
+    0.8853759765625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.2719184027777778
+ },
+ "ctrl-evet-onay-wavenet-c": {
+  "text": "Evet, onaylıyorum.",
+  "words": [
+   [
+    "Evet,",
+    0.98095703125
+   ],
+   [
+    "onaylıyorum.",
+    0.9981689453125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.19277343302965164
+ },
+ "ctrl-evet-onay-wavenet-e": {
+  "text": "Evet, onaylıyorum.",
+  "words": [
+   [
+    "Evet,",
+    0.98095703125
+   ],
+   [
+    "onaylıyorum.",
+    0.998779296875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.17714843899011612
+ },
+ "ctrl-evet-standard-a": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.994140625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.53203125
+ },
+ "ctrl-evet-standard-b": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.982421875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.4453125
+ },
+ "ctrl-evet-wavenet-c": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.99365234375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.498046875
+ },
+ "ctrl-evet-wavenet-e": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.98681640625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.4546875
+ },
+ "ctrl-hayir-standard-a": {
+  "text": "Hayır.",
+  "words": [
+   [
+    "Hayır.",
+    0.52392578125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.64296875
+ },
+ "ctrl-hayir-standard-b": {
+  "text": "Hayır.",
+  "words": [
+   [
+    "Hayır.",
+    0.98583984375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.44140625
+ },
+ "ctrl-hayir-wavenet-c": {
+  "text": "Hayır.",
+  "words": [
+   [
+    "Hayır.",
+    0.994140625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.3341796875
+ },
+ "ctrl-hayir-wavenet-e": {
+  "text": "Hayır.",
+  "words": [
+   [
+    "Hayır.",
+    0.9775390625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.4453125
+ },
+ "ctrl-olur-standard-a": {
+  "text": "Olur.",
+  "words": [
+   [
+    "Olur.",
+    0.973388671875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.4137369741996129
+ },
+ "ctrl-olur-standard-b": {
+  "text": "Olur.",
+  "words": [
+   [
+    "Olur.",
+    0.929931640625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.3369140625
+ },
+ "ctrl-olur-wavenet-c": {
+  "text": "Olur.",
+  "words": [
+   [
+    "Olur.",
+    0.984619140625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.3118489682674408
+ },
+ "ctrl-olur-wavenet-e": {
+  "text": "Olur.",
+  "words": [
+   [
+    "Olur.",
+    0.972412109375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.07946777467926343
+ },
+ "ctrl-tamam-standard-a": {
+  "text": "Tamam.",
+  "words": [
+   [
+    "Tamam.",
+    0.98681640625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.47421875
+ },
+ "ctrl-tamam-standard-b": {
+  "text": "Tamam.",
+  "words": [
+   [
+    "Tamam.",
+    0.974609375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.450390625
+ },
+ "ctrl-tamam-wavenet-c": {
+  "text": "Tamam.",
+  "words": [
+   [
+    "Tamam.",
+    0.97509765625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.488671875
+ },
+ "ctrl-tamam-wavenet-e": {
+  "text": "Tamam.",
+  "words": [
+   [
+    "Tamam.",
+    0.98779296875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.44453125
+ },
+ "env-breathing-1-30709-A-23": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.778472900390625
+   ],
+   [
+    "M",
+    0.99609375
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.3863636472008445
+ },
+ "env-breathing-2-50774-A-23": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.884765625
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.09428266774524342
+ },
+ "env-breathing-2-54961-A-23": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.890380859375
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.0740411945364692
+ },
+ "env-breathing-2-82455-A-23": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8681640625
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.10759942910887978
+ },
+ "env-breathing-2-95567-A-23": {
+  "text": "Çeviri ve Altyazı M.K.",
+  "words": [
+   [
+    "Çeviri",
+    0.6187947591145834
+   ],
+   [
+    "ve",
+    0.96533203125
+   ],
+   [
+    "Altyazı",
+    0.9844970703125
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.998291015625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.30130209525426227
+ },
+ "env-breathing-3-112557-A-23": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.803863525390625
+   ],
+   [
+    "M",
+    0.99609375
+   ],
+   [
+    ".K.",
+    0.999267578125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1993963122367859
+ },
+ "env-breathing-3-144128-A-23": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8028564453125
+   ],
+   [
+    "M",
+    0.9970703125
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1878551190549677
+ },
+ "env-breathing-4-207116-A-23": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.85986328125
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.107421875
+ },
+ "env-breathing-5-233260-A-23": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8419189453125
+   ],
+   [
+    "M",
+    0.9970703125
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.16077770428224045
+ },
+ "env-breathing-5-238492-A-23": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.9033203125
+   ],
+   [
+    "M",
+    0.9990234375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.07270951840010556
+ },
+ "env-can_opening-1-41615-A-34": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8846435546875
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.08589311079545454
+ },
+ "env-can_opening-2-144031-A-34": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.88818359375
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.09077592329545454
+ },
+ "env-can_opening-2-81112-A-34": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.89501953125
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.09454900568181818
+ },
+ "env-can_opening-2-81190-A-34": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.822265625
+   ],
+   [
+    "M",
+    0.9990234375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.25372868234461005
+ },
+ "env-can_opening-3-147342-A-34": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8270263671875
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.13370028950951315
+ },
+ "env-can_opening-3-148932-A-34": {
+  "text": "Okay.",
+  "words": [
+   [
+    "Okay.",
+    0.1597900390625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.65625
+ },
+ "env-can_opening-4-215635-A-34": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.84588623046875
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.10395951569080353
+ },
+ "env-can_opening-5-236299-A-34": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.878662109375
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1408025622367859
+ },
+ "env-can_opening-5-244327-A-34": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8414306640625
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.12961647727272727
+ },
+ "env-can_opening-5-250753-A-34": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8988037109375
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.0740411945364692
+ },
+ "env-car_horn-1-19026-A-43": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.9029541015625
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.09987571022727272
+ },
+ "env-car_horn-1-28808-A-43": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8988037109375
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.12659801678224045
+ },
+ "env-car_horn-2-100648-A-43": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.885009765625
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.10014204816384749
+ },
+ "env-car_horn-2-125520-A-43": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8270263671875
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999267578125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.14222300865433432
+ },
+ "env-car_horn-3-145577-A-43": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.9041748046875
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.07612748579545454
+ },
+ "env-car_horn-3-146697-A-43": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8809814453125
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1091086661273783
+ },
+ "env-car_horn-3-153057-A-43": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.888427734375
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.07328657941384749
+ },
+ "env-car_horn-3-155234-A-43": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.89794921875
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1919389177452434
+ },
+ "env-car_horn-5-179863-A-43": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.84619140625
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.15562855384566568
+ },
+ "env-car_horn-5-180156-A-43": {
+  "text": "İzlediğiniz için teşekkür ederim.",
+  "words": [
+   [
+    "İzlediğiniz",
+    0.8249267578125
+   ],
+   [
+    "için",
+    0.99609375
+   ],
+   [
+    "teşekkür",
+    0.99853515625
+   ],
+   [
+    "ederim.",
+    0.8916015625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1665852889418602
+ },
+ "env-clock_tick-1-48413-A-38": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8857421875
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.11337002569978888
+ },
+ "env-clock_tick-1-62850-A-38": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8385009765625
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1497691734270616
+ },
+ "env-clock_tick-2-131943-A-38": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.89794921875
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.10005326433615251
+ },
+ "env-clock_tick-2-141584-A-38": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.86212158203125
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.14683948321775955
+ },
+ "env-clock_tick-3-142593-A-38": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8909912109375
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.08345170454545454
+ },
+ "env-clock_tick-3-150363-A-38": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8638916015625
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1090198890729384
+ },
+ "env-clock_tick-5-208624-A-38": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8370361328125
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.14763849702748386
+ },
+ "env-clock_tick-5-209698-A-38": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.87078857421875
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1033380695364692
+ },
+ "env-clock_tick-5-209833-A-38": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.87005615234375
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.09135298430919647
+ },
+ "env-clock_tick-5-210571-A-38": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.83782958984375
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.11487925594503229
+ },
+ "env-coughing-1-19111-A-24": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8570556640625
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999267578125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1742720197547566
+ },
+ "env-coughing-1-58792-A-24": {
+  "text": "ÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖ",
+  "words": [
+   [
+    "ÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖ",
+    0.9891116565653026
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.023993055820465087
+ },
+ "env-coughing-2-98676-A-24": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.82916259765625
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.20312500270930203
+ },
+ "env-coughing-3-151212-A-24": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.78204345703125
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.3400213068181818
+ },
+ "env-coughing-3-151213-A-24": {
+  "text": "Ahem, ahem.",
+  "words": [
+   [
+    "Ahem,",
+    0.376129150390625
+   ],
+   [
+    "ahem.",
+    0.98291015625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.8923611111111112
+ },
+ "env-coughing-4-154443-A-24": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.81878662109375
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.24236505681818182
+ },
+ "env-coughing-4-171396-A-24": {
+  "text": "Hıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıh Altyazı M.K.",
+  "words": [
+   [
+    "Hıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıh",
+    0.9712538099075112
+   ],
+   [
+    "Altyazı",
+    0.85260009765625
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1123046875
+ },
+ "env-coughing-5-178997-A-24": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.82330322265625
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.998779296875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.2524857900359414
+ },
+ "env-coughing-5-184871-A-24": {
+  "text": "Hıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıh",
+  "words": [
+   [
+    "Hıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıh",
+    0.9592846241767097
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.0672222254011366
+ },
+ "env-coughing-5-251489-A-24": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.82537841796875
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999267578125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.19353693181818182
+ },
+ "env-crying_baby-1-187207-A-20": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.6252212524414062
+   ],
+   [
+    "M",
+    0.98193359375
+   ],
+   [
+    ".K.",
+    0.995849609375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.5660511146892201
+ },
+ "env-crying_baby-1-60997-B-20": {
+  "text": "Ooooooooooooooooooooooooooooooooooooooooooooooooooo",
+  "words": [
+   [
+    "Ooooooooooooooooooooooooooooooooooooooooooooooooooo",
+    0.4533146449497768
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.9273897058823529
+ },
+ "env-crying_baby-3-151081-B-20": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.78057861328125
+   ],
+   [
+    "M",
+    0.99609375
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.35884234038266266
+ },
+ "env-crying_baby-3-152007-C-20": {
+  "text": "Hıııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııı",
+  "words": [
+   [
+    "Hıııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııııı",
+    0.8705356944691051
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.16708896698446962
+ },
+ "env-crying_baby-3-152007-E-20": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.7533721923828125
+   ],
+   [
+    "M",
+    0.99560546875
+   ],
+   [
+    ".K.",
+    0.999267578125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.4449573972008445
+ },
+ "env-crying_baby-4-167077-B-20": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.7088165283203125
+   ],
+   [
+    "M",
+    0.99267578125
+   ],
+   [
+    ".K.",
+    0.99609375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.5252130465074019
+ },
+ "env-crying_baby-4-185575-A-20": {
+  "text": "Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah! Ah!",
+  "words": [
+   [
+    "Ah!",
+    0.0246734619140625
+   ],
+   [
+    "Ah!",
+    0.71923828125
+   ],
+   [
+    "Ah!",
+    0.8759765625
+   ],
+   [
+    "Ah!",
+    0.919921875
+   ],
+   [
+    "Ah!",
+    0.93408203125
+   ],
+   [
+    "Ah!",
+    0.939453125
+   ],
+   [
+    "Ah!",
+    0.94140625
+   ],
+   [
+    "Ah!",
+    0.93994140625
+   ],
+   [
+    "Ah!",
+    0.93994140625
+   ],
+   [
+    "Ah!",
+    0.9384765625
+   ],
+   [
+    "Ah!",
+    0.9404296875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.530625
+ },
+ "env-crying_baby-4-59579-A-20": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.84954833984375
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.16299716450951315
+ },
+ "env-crying_baby-5-198411-A-20": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.7442245483398438
+   ],
+   [
+    "M",
+    0.99267578125
+   ],
+   [
+    ".K.",
+    0.99853515625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.4900568181818182
+ },
+ "env-crying_baby-5-198411-F-20": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.784759521484375
+   ],
+   [
+    "M",
+    0.99658203125
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.2620738744735718
+ },
+ "env-dog-1-100032-A-0": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.86614990234375
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.08584871888160706
+ },
+ "env-dog-1-97392-A-0": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.81964111328125
+   ],
+   [
+    "M",
+    0.9970703125
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.19904119047251614
+ },
+ "env-dog-3-136288-A-0": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.81884765625
+   ],
+   [
+    "M",
+    0.9970703125
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.18288352272727273
+ },
+ "env-dog-3-144028-A-0": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.796539306640625
+   ],
+   [
+    "M",
+    0.99560546875
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.30468751083720813
+ },
+ "env-dog-3-163459-A-0": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.877197265625
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.13769531791860407
+ },
+ "env-dog-3-180977-A-0": {
+  "text": "Çeviri ve Altyazı M.K.",
+  "words": [
+   [
+    "Çeviri",
+    0.4573160807291667
+   ],
+   [
+    "ve",
+    0.94580078125
+   ],
+   [
+    "Altyazı",
+    0.9759521484375
+   ],
+   [
+    "M",
+    0.98828125
+   ],
+   [
+    ".K.",
+    0.994384765625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.382031246026357
+ },
+ "env-dog-4-183992-A-0": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.79150390625
+   ],
+   [
+    "M",
+    0.99560546875
+   ],
+   [
+    ".K.",
+    0.999267578125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.23739346049048685
+ },
+ "env-dog-4-191687-A-0": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.7855224609375
+   ],
+   [
+    "M",
+    0.99560546875
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.26349430734461005
+ },
+ "env-dog-4-199261-A-0": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.790771484375
+   ],
+   [
+    "M",
+    0.99462890625
+   ],
+   [
+    ".K.",
+    0.999267578125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.28515626083720813
+ },
+ "env-dog-4-207124-A-0": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.82720947265625
+   ],
+   [
+    "M",
+    0.99658203125
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.22958097132769498
+ },
+ "env-door_wood_creaks-1-51805-B-33": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.787567138671875
+   ],
+   [
+    "M",
+    0.9970703125
+   ],
+   [
+    ".K.",
+    0.999267578125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.2475141937082464
+ },
+ "env-door_wood_creaks-1-51805-G-33": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.793731689453125
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.997314453125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.3156960281458768
+ },
+ "env-door_wood_creaks-2-70344-A-33": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.88134765625
+   ],
+   [
+    "M",
+    0.9990234375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.08367365056818182
+ },
+ "env-door_wood_creaks-2-7321-A-33": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8475341796875
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.10839843614534898
+ },
+ "env-door_wood_creaks-3-103401-A-33": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.9197998046875
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.10404829274524342
+ },
+ "env-door_wood_creaks-4-108352-A-33": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8812255859375
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.10555752976374193
+ },
+ "env-door_wood_creaks-4-160036-B-33": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.84100341796875
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1912286877632141
+ },
+ "env-door_wood_creaks-5-161270-B-33": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.887939453125
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.17613635821775955
+ },
+ "env-door_wood_creaks-5-173568-A-33": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.86865234375
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.15278764746405862
+ },
+ "env-door_wood_creaks-5-187444-A-33": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.85382080078125
+   ],
+   [
+    "M",
+    0.9970703125
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.2643820914355191
+ },
+ "env-door_wood_knock-1-52290-A-30": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8184814453125
+   ],
+   [
+    "M",
+    0.9951171875
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.15589489178224045
+ },
+ "env-door_wood_knock-2-118625-A-30": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.87158203125
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.12357954274524342
+ },
+ "env-door_wood_knock-3-144510-A-30": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.80035400390625
+   ],
+   [
+    "M",
+    0.99658203125
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.20969459956342523
+ },
+ "env-door_wood_knock-3-151089-A-30": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.80902099609375
+   ],
+   [
+    "M",
+    0.99609375
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.2049005708911202
+ },
+ "env-door_wood_knock-3-180147-A-30": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.79364013671875
+   ],
+   [
+    "M",
+    0.99658203125
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1976207440549677
+ },
+ "env-door_wood_knock-4-187284-A-30": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.806610107421875
+   ],
+   [
+    "M",
+    0.994140625
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1742720197547566
+ },
+ "env-door_wood_knock-4-188878-A-30": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.795654296875
+   ],
+   [
+    "M",
+    0.994140625
+   ],
+   [
+    ".K.",
+    0.999267578125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.2270951731638475
+ },
+ "env-door_wood_knock-5-235644-A-30": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.7742919921875
+   ],
+   [
+    "M",
+    0.98974609375
+   ],
+   [
+    ".K.",
+    0.998779296875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.26349430734461005
+ },
+ "env-door_wood_knock-5-250026-A-30": {
+  "text": "İzlediğiniz için teşekkür ederim.",
+  "words": [
+   [
+    "İzlediğiniz",
+    0.76531982421875
+   ],
+   [
+    "için",
+    0.9931640625
+   ],
+   [
+    "teşekkür",
+    0.99755859375
+   ],
+   [
+    "ederim.",
+    0.95068359375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.3297526141007741
+ },
+ "env-door_wood_knock-5-251426-B-30": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.784210205078125
+   ],
+   [
+    "M",
+    0.99462890625
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.21768465638160706
+ },
+ "env-drinking_sipping-1-17295-A-29": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.86602783203125
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1171875
+ },
+ "env-drinking_sipping-1-37226-A-29": {
+  "text": "abone ol",
+  "words": [
+   [
+    "abone",
+    0.535614013671875
+   ],
+   [
+    "ol",
+    0.98779296875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.5891927083333334
+ },
+ "env-drinking_sipping-3-133977-A-29": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.85174560546875
+   ],
+   [
+    "M",
+    0.9990234375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.17675781791860407
+ },
+ "env-drinking_sipping-3-144259-A-29": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.756317138671875
+   ],
+   [
+    "M",
+    0.99462890625
+   ],
+   [
+    ".K.",
+    0.999267578125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.3354048187082464
+ },
+ "env-drinking_sipping-3-145387-A-29": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.81121826171875
+   ],
+   [
+    "M",
+    0.99658203125
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.23064629598097366
+ },
+ "env-drinking_sipping-3-185456-A-29": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.78131103515625
+   ],
+   [
+    "M",
+    0.9951171875
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.34960936416279187
+ },
+ "env-drinking_sipping-4-188191-C-29": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.780303955078125
+   ],
+   [
+    "M",
+    0.99365234375
+   ],
+   [
+    ".K.",
+    0.9990234375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.3501420400359414
+ },
+ "env-drinking_sipping-4-188595-A-29": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8538818359375
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.13876065611839294
+ },
+ "env-drinking_sipping-4-194808-A-29": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.834716796875
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.13361150568181818
+ },
+ "env-drinking_sipping-4-210593-A-29": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.797698974609375
+   ],
+   [
+    "M",
+    0.99658203125
+   ],
+   [
+    ".K.",
+    0.999267578125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.2572798187082464
+ },
+ "env-engine-1-18527-B-44": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.82904052734375
+   ],
+   [
+    "M",
+    0.9970703125
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.15669389204545456
+ },
+ "env-engine-1-50454-A-44": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8958740234375
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.06813742897727272
+ },
+ "env-engine-2-78651-A-44": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.9002685546875
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.08198685944080353
+ },
+ "env-engine-3-115382-A-44": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8912353515625
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.15127840367230502
+ },
+ "env-engine-3-119455-A-44": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.85968017578125
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1441761309450323
+ },
+ "env-engine-3-141240-B-44": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.880859375
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.13378905979069797
+ },
+ "env-engine-4-186940-A-44": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8681640625
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.08163174444978888
+ },
+ "env-engine-4-186962-A-44": {
+  "text": "Teşekkürler.",
+  "words": [
+   [
+    "Teşekkürler.",
+    0.5966084798177084
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.7873884098870414
+ },
+ "env-engine-5-240671-A-44": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.893310546875
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.17844460227272727
+ },
+ "env-engine-5-243773-A-44": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.908203125
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.13210227543657477
+ },
+ "env-footsteps-1-155858-C-25": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8233642578125
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.2278054031458768
+ },
+ "env-footsteps-2-209473-A-25": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.791473388671875
+   ],
+   [
+    "M",
+    0.99462890625
+   ],
+   [
+    ".K.",
+    0.999267578125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1871448890729384
+ },
+ "env-footsteps-2-209477-A-25": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8106689453125
+   ],
+   [
+    "M",
+    0.9951171875
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1448863609270616
+ },
+ "env-footsteps-2-209478-A-25": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.77471923828125
+   ],
+   [
+    "M",
+    0.9921875
+   ],
+   [
+    ".K.",
+    0.9990234375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.21200284361839294
+ },
+ "env-footsteps-3-94343-A-25": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.82952880859375
+   ],
+   [
+    "M",
+    0.9970703125
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.2450284090909091
+ },
+ "env-footsteps-4-194981-A-25": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.82598876953125
+   ],
+   [
+    "M",
+    0.9970703125
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.14772726730866867
+ },
+ "env-footsteps-4-198962-A-25": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.773651123046875
+   ],
+   [
+    "M",
+    0.9912109375
+   ],
+   [
+    ".K.",
+    0.9990234375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.2247869291088798
+ },
+ "env-footsteps-5-234855-A-25": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8629150390625
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.10759942910887978
+ },
+ "env-footsteps-5-244310-A-25": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.874267578125
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.14106888662685046
+ },
+ "env-footsteps-5-263490-A-25": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8936767578125
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.10546875270930203
+ },
+ "env-keyboard_typing-1-79711-A-32": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8555908203125
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.11976206844503229
+ },
+ "env-keyboard_typing-2-109316-A-32": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.86767578125
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1685014231638475
+ },
+ "env-keyboard_typing-2-118459-B-32": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.877197265625
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.10857599702748386
+ },
+ "env-keyboard_typing-3-144106-A-32": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8782958984375
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.0919744304635308
+ },
+ "env-keyboard_typing-3-154781-A-32": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8876953125
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.09552556682716716
+ },
+ "env-keyboard_typing-3-155570-A-32": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.80718994140625
+   ],
+   [
+    "M",
+    0.9970703125
+   ],
+   [
+    ".K.",
+    0.999267578125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.2697087959809737
+ },
+ "env-keyboard_typing-4-158653-A-32": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.86376953125
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.09730113500898535
+ },
+ "env-keyboard_typing-4-177243-A-32": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.87176513671875
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.11186079545454546
+ },
+ "env-keyboard_typing-4-185613-A-32": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.846435546875
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.15269886363636365
+ },
+ "env-keyboard_typing-5-205090-A-32": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8851318359375
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.12189275839112022
+ },
+ "env-mouse_click-1-97793-A-31": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8909912109375
+   ],
+   [
+    "M",
+    0.9990234375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.0813210213726217
+ },
+ "env-mouse_click-2-146877-B-31": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.83056640625
+   ],
+   [
+    "M",
+    0.9970703125
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1594460281458768
+ },
+ "env-mouse_click-2-152964-A-31": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.89453125
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.07990056818181818
+ },
+ "env-mouse_click-2-153388-A-31": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.888671875
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.06929155100475658
+ },
+ "env-mouse_click-2-154688-A-31": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8924560546875
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.07985617626797069
+ },
+ "env-mouse_click-3-155556-A-31": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.9066162109375
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.07040128111839294
+ },
+ "env-mouse_click-3-158056-A-31": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8690185546875
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.09077592329545454
+ },
+ "env-mouse_click-3-172179-A-31": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.9000244140625
+   ],
+   [
+    "M",
+    0.9990234375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.08753551000898535
+ },
+ "env-mouse_click-5-223103-A-31": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.908935546875
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.07208806547251614
+ },
+ "env-mouse_click-5-238926-A-31": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.88232421875
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.0813210213726217
+ },
+ "env-pouring_water-1-51433-A-17": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.9066162109375
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.0837624276226217
+ },
+ "env-pouring_water-1-67152-A-17": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.9180908203125
+   ],
+   [
+    "M",
+    0.9990234375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.058726918968287384
+ },
+ "env-pouring_water-2-102414-D-17": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.87890625
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.09907670319080353
+ },
+ "env-pouring_water-2-102414-F-17": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.86962890625
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.09960937229069797
+ },
+ "env-pouring_water-2-102414-G-17": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.90625
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.06680575284090909
+ },
+ "env-pouring_water-3-142349-A-17": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.785980224609375
+   ],
+   [
+    "M",
+    0.99462890625
+   ],
+   [
+    ".K.",
+    0.999267578125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.27148436416279187
+ },
+ "env-pouring_water-3-145719-A-17": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.831787109375
+   ],
+   [
+    "M",
+    0.9970703125
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.19424716180021112
+ },
+ "env-pouring_water-3-149448-A-17": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.84918212890625
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.12446732683615251
+ },
+ "env-pouring_water-4-187504-B-17": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.91357421875
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.06645063784989444
+ },
+ "env-pouring_water-5-212736-A-17": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.876953125
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.15110084956342523
+ },
+ "env-rain-1-63871-A-10": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8843994140625
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.10795454409989444
+ },
+ "env-rain-2-117625-A-10": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.880126953125
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.10466974567283284
+ },
+ "env-rain-2-81731-A-10": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8741455078125
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.08034446022727272
+ },
+ "env-rain-3-140774-A-10": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.797515869140625
+   ],
+   [
+    "M",
+    0.99658203125
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.2858664772727273
+ },
+ "env-rain-3-143929-A-10": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8909912109375
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.17622514204545456
+ },
+ "env-rain-4-177250-A-10": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8814697265625
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.11257102543657477
+ },
+ "env-rain-4-180380-A-10": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8843994140625
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.11736505410887978
+ },
+ "env-rain-5-181766-A-10": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.87042236328125
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.10591264475475658
+ },
+ "env-rain-5-198321-A-10": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8770751953125
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1880326731638475
+ },
+ "env-rain-5-203739-A-10": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8602294921875
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.09650212797251614
+ },
+ "env-siren-1-31482-A-42": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.798797607421875
+   ],
+   [
+    "M",
+    0.99658203125
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.2270951731638475
+ },
+ "env-siren-2-43806-A-42": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.82293701171875
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.22070313041860407
+ },
+ "env-siren-3-51376-A-42": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.9014892578125
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.08531604978171262
+ },
+ "env-siren-3-58772-A-42": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.9173583984375
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.06973544305021112
+ },
+ "env-siren-4-102871-A-42": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8804931640625
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.09339488365433433
+ },
+ "env-siren-4-111671-A-42": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.89990234375
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.07075638933615251
+ },
+ "env-siren-4-90014-B-42": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.90966796875
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.07044566625898535
+ },
+ "env-siren-5-117120-A-42": {
+  "text": "MÜZİK",
+  "words": [
+   [
+    "MÜZİK",
+    0.521197509765625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.93310546875
+ },
+ "env-siren-5-133989-B-42": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8951416015625
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.10946378111839294
+ },
+ "env-siren-5-184323-A-42": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8843994140625
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.08003373715010556
+ },
+ "env-sneezing-2-93030-A-21": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.6823196411132812
+   ],
+   [
+    "M",
+    0.98583984375
+   ],
+   [
+    ".K.",
+    0.997802734375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.40660511363636365
+ },
+ "env-sneezing-3-142605-A-21": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.76593017578125
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999267578125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.37890623916279187
+ },
+ "env-sneezing-3-144692-A-21": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.6840057373046875
+   ],
+   [
+    "M",
+    0.85546875
+   ],
+   [
+    ".K.",
+    0.99365234375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.6193181601437655
+ },
+ "env-sneezing-4-156843-A-21": {
+  "text": "abone ol",
+  "words": [
+   [
+    "abone",
+    0.5382080078125
+   ],
+   [
+    "ol",
+    0.9912109375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.685546894868215
+ },
+ "env-sneezing-4-157297-A-21": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.7506103515625
+   ],
+   [
+    "M",
+    0.9951171875
+   ],
+   [
+    ".K.",
+    0.998779296875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.4794034090909091
+ },
+ "env-sneezing-5-187979-A-21": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8203125
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.21182528950951315
+ },
+ "env-sneezing-5-220026-A-21": {
+  "text": "Teşekkürler.",
+  "words": [
+   [
+    "Teşekkürler.",
+    0.5571390787760416
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.8158482313156128
+ },
+ "env-sneezing-5-220027-A-21": {
+  "text": "İyiyim.",
+  "words": [
+   [
+    "İyiyim.",
+    0.2623291015625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -1.0133928230830602
+ },
+ "env-sneezing-5-221518-A-21": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.7655181884765625
+   ],
+   [
+    "M",
+    0.9970703125
+   ],
+   [
+    ".K.",
+    0.999267578125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.32581676136363635
+ },
+ "env-sneezing-5-221593-A-21": {
+  "text": "Pah!",
+  "words": [
+   [
+    "Pah!",
+    0.16597747802734375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -1.0820312301317851
+ },
+ "env-snoring-2-114609-B-28": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.882568359375
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.11869673024524342
+ },
+ "env-snoring-2-117330-A-28": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.78338623046875
+   ],
+   [
+    "M",
+    0.99609375
+   ],
+   [
+    ".K.",
+    0.998291015625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.23330964825370096
+ },
+ "env-snoring-2-52001-B-28": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.900146484375
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.2066761390729384
+ },
+ "env-snoring-2-80313-A-28": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.787200927734375
+   ],
+   [
+    "M",
+    0.99658203125
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.3181818127632141
+ },
+ "env-snoring-3-130998-A-28": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.82000732421875
+   ],
+   [
+    "M",
+    0.99658203125
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.14763849702748386
+ },
+ "env-snoring-3-151557-B-28": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.83660888671875
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.15500710769133133
+ },
+ "env-snoring-4-180337-A-28": {
+  "text": "Huuu",
+  "words": [
+   [
+    "Huuu",
+    0.4437662760416667
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -1.00000003973643
+ },
+ "env-snoring-4-183882-B-28": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.7580184936523438
+   ],
+   [
+    "M",
+    0.99560546875
+   ],
+   [
+    ".K.",
+    0.998046875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.5056817965074019
+ },
+ "env-snoring-4-184237-A-28": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8751220703125
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.10537996888160706
+ },
+ "env-snoring-5-233312-A-28": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8275146484375
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.9990234375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.16894531520930203
+ },
+ "env-vacuum_cleaner-1-100210-A-36": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8773193359375
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.24112216450951315
+ },
+ "env-vacuum_cleaner-1-79236-A-36": {
+  "text": "İzlediğiniz için teşekkür ederim.",
+  "words": [
+   [
+    "İzlediğiniz",
+    0.80462646484375
+   ],
+   [
+    "için",
+    0.99609375
+   ],
+   [
+    "teşekkür",
+    0.99853515625
+   ],
+   [
+    "ederim.",
+    0.8720703125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.4781901091337204
+ },
+ "env-vacuum_cleaner-3-152020-A-36": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.9205322265625
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.08979936215010556
+ },
+ "env-vacuum_cleaner-4-172733-A-36": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.87158203125
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1976207440549677
+ },
+ "env-vacuum_cleaner-4-172736-B-36": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.85772705078125
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.11416903950951317
+ },
+ "env-vacuum_cleaner-4-181999-A-36": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8756103515625
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.17302911389957776
+ },
+ "env-vacuum_cleaner-5-182007-A-36": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8765869140625
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1944247159090909
+ },
+ "env-vacuum_cleaner-5-182010-A-36": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.86688232421875
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.19140625541860407
+ },
+ "env-vacuum_cleaner-5-182012-A-36": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.86529541015625
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.22105823863636365
+ },
+ "env-vacuum_cleaner-5-188365-A-36": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8892822265625
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1846590909090909
+ },
+ "env-washing_machine-1-23996-A-35": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.863525390625
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1309481534090909
+ },
+ "env-washing_machine-2-102567-C-35": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.87286376953125
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.21946022456342523
+ },
+ "env-washing_machine-2-102567-D-35": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.810455322265625
+   ],
+   [
+    "M",
+    0.99658203125
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.31445313583720813
+ },
+ "env-washing_machine-2-121909-A-35": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.9105224609375
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1774680343541232
+ },
+ "env-washing_machine-3-182710-A-35": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.895751953125
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.18288352272727273
+ },
+ "env-washing_machine-4-218199-C-35": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.86712646484375
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.21661931818181818
+ },
+ "env-washing_machine-4-218199-G-35": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.86370849609375
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.19815340638160706
+ },
+ "env-washing_machine-5-141683-A-35": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.878173828125
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1693004234270616
+ },
+ "env-washing_machine-5-223810-A-35": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.86175537109375
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.09730113500898535
+ },
+ "env-washing_machine-5-238021-A-35": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.906005859375
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.17587003382769498
+ },
+ "env-wind-1-51035-A-16": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.86395263671875
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.17959872430021112
+ },
+ "env-wind-1-51036-A-16": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8577880859375
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.12899503111839294
+ },
+ "env-wind-1-51037-A-16": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8743896484375
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.11807528409090909
+ },
+ "env-wind-2-104952-B-16": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.888427734375
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.2223011309450323
+ },
+ "env-wind-2-109371-A-16": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8846435546875
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1742720197547566
+ },
+ "env-wind-3-117504-A-16": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.85076904296875
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1466619291088798
+ },
+ "env-wind-3-134699-A-16": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.878173828125
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.13307882980866867
+ },
+ "env-wind-3-134699-C-16": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8818359375
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1604225825179707
+ },
+ "env-wind-4-163608-B-16": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.84326171875
+   ],
+   [
+    "M",
+    0.9970703125
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.224609375
+ },
+ "env-wind-4-163609-B-16": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8238525390625
+   ],
+   [
+    "M",
+    0.9970703125
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.14861505139957776
+ },
+ "silence-floor-03s": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.890380859375
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.0676047598773783
+ },
+ "silence-floor-05s": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.86785888671875
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.08087712932716716
+ },
+ "silence-floor-08s": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.851318359375
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.08882280100475658
+ },
+ "silence-floor-10s": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.84332275390625
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.09561434388160706
+ },
+ "silence-floor-12s": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.85052490234375
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.09206320751797069
+ },
+ "silence-floor-15s": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8533935546875
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.09006569331342523
+ },
+ "silence-zero-03s": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.903076171875
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.06112393330443989
+ },
+ "silence-zero-05s": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.898681640625
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.06352095441384749
+ },
+ "silence-zero-08s": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.895751953125
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    1.0
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.06538529965010556
+ },
+ "silence-zero-10s": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8907470703125
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    1.0
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.06906960498202931
+ },
+ "silence-zero-12s": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.89111328125
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    1.0
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.07044566625898535
+ },
+ "silence-zero-15s": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8927001953125
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    1.0
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.07035688920454546
+ },
+ "vocal-cough-f0229": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.79205322265625
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.9990234375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.3229758414355191
+ },
+ "vocal-cough-f0258": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.79791259765625
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.2375710281458768
+ },
+ "vocal-cough-f0859": {
+  "text": "İzlediğiniz için teşekkür ederim.",
+  "words": [
+   [
+    "İzlediğiniz",
+    0.772998046875
+   ],
+   [
+    "için",
+    0.994140625
+   ],
+   [
+    "teşekkür",
+    0.99853515625
+   ],
+   [
+    "ederim.",
+    0.88037109375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.3165690004825592
+ },
+ "vocal-cough-f0872": {
+  "text": "Hıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıh",
+  "words": [
+   [
+    "Hıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıh",
+    0.9742125096342489
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.04499999894036187
+ },
+ "vocal-cough-f0922": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.7821044921875
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999267578125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.26651279492811725
+ },
+ "vocal-cough-f1089": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.768463134765625
+   ],
+   [
+    "M",
+    0.99609375
+   ],
+   [
+    ".K.",
+    0.9990234375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.2986505627632141
+ },
+ "vocal-cough-f1292": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.764404296875
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.9990234375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.40056819265538995
+ },
+ "vocal-cough-f1388": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.7718658447265625
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.999267578125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.33185368234461005
+ },
+ "vocal-cough-f1525": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.800201416015625
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.18945311958139593
+ },
+ "vocal-cough-f1680": {
+  "text": "Çeviri ve Altyazı M.K.",
+  "words": [
+   [
+    "Çeviri",
+    0.5432535807291666
+   ],
+   [
+    "ve",
+    0.96435546875
+   ],
+   [
+    "Altyazı",
+    0.9842529296875
+   ],
+   [
+    "M",
+    0.9970703125
+   ],
+   [
+    ".K.",
+    0.997802734375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.321874996026357
+ },
+ "vocal-cough-f1945": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.77374267578125
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.998779296875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.3352272781458768
+ },
+ "vocal-cough-f2414": {
+  "text": "abone ol",
+  "words": [
+   [
+    "abone",
+    0.53692626953125
+   ],
+   [
+    "ol",
+    0.99267578125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.8001302182674408
+ },
+ "vocal-cough-f2443": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.7481536865234375
+   ],
+   [
+    "M",
+    0.99267578125
+   ],
+   [
+    ".K.",
+    0.998046875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.36754261363636365
+ },
+ "vocal-cough-f3055": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.788299560546875
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.25284089825370093
+ },
+ "vocal-cough-f3256": {
+  "text": "Ahem, ahem.",
+  "words": [
+   [
+    "Ahem,",
+    0.495849609375
+   ],
+   [
+    "ahem.",
+    0.818359375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.8654513888888888
+ },
+ "vocal-cough-m0428": {
+  "text": "Ahem, ahem.",
+  "words": [
+   [
+    "Ahem,",
+    0.32977294921875
+   ],
+   [
+    "ahem.",
+    0.99072265625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.6953125
+ },
+ "vocal-cough-m0456": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.7724151611328125
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.297762778672305
+ },
+ "vocal-cough-m0832": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.7634124755859375
+   ],
+   [
+    "M",
+    0.9970703125
+   ],
+   [
+    ".K.",
+    0.998291015625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.30166902325370093
+ },
+ "vocal-cough-m0882": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.793060302734375
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.20862926136363635
+ },
+ "vocal-cough-m1025": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.83447265625
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.15633878382769498
+ },
+ "vocal-cough-m1072": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.76727294921875
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.3190695968541232
+ },
+ "vocal-cough-m1439": {
+  "text": "Hıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıh",
+  "words": [
+   [
+    "Hıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıh",
+    0.9669012916462304
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.05645833492279053
+ },
+ "vocal-cough-m1524": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.767730712890625
+   ],
+   [
+    "M",
+    0.99658203125
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.2823153409090909
+ },
+ "vocal-cough-m1598": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.809539794921875
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.998779296875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.21271307360042224
+ },
+ "vocal-cough-m2021": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.822998046875
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999267578125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.14923651110042224
+ },
+ "vocal-cough-m2532": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.788116455078125
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999267578125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.27148436416279187
+ },
+ "vocal-cough-m2581": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.788726806640625
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.24538351730866867
+ },
+ "vocal-cough-m2721": {
+  "text": "Hı hı hı hı",
+  "words": [
+   [
+    "Hı",
+    0.39215087890625
+   ],
+   [
+    "hı",
+    0.833251953125
+   ],
+   [
+    "hı",
+    0.993408203125
+   ],
+   [
+    "hı",
+    0.940673828125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.5422585118900646
+ },
+ "vocal-cough-m3058": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.81097412109375
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.21022727543657477
+ },
+ "vocal-cough-m3129": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.77606201171875
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.9990234375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.30326705087314954
+ },
+ "vocal-laughter-f0298": {
+  "text": "Ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha Altyazı M.K.",
+  "words": [
+   [
+    "Ha",
+    0.04522705078125
+   ],
+   [
+    "ha",
+    0.94482421875
+   ],
+   [
+    "ha",
+    0.9755859375
+   ],
+   [
+    "ha",
+    0.8662109375
+   ],
+   [
+    "ha",
+    0.80322265625
+   ],
+   [
+    "ha",
+    0.759765625
+   ],
+   [
+    "ha",
+    0.73095703125
+   ],
+   [
+    "ha",
+    0.72314453125
+   ],
+   [
+    "ha",
+    0.73876953125
+   ],
+   [
+    "ha",
+    0.77587890625
+   ],
+   [
+    "ha",
+    0.8134765625
+   ],
+   [
+    "ha",
+    0.8466796875
+   ],
+   [
+    "ha",
+    0.8818359375
+   ],
+   [
+    "ha",
+    0.8994140625
+   ],
+   [
+    "ha",
+    0.916015625
+   ],
+   [
+    "ha",
+    0.92919921875
+   ],
+   [
+    "ha",
+    0.9384765625
+   ],
+   [
+    "ha",
+    0.94482421875
+   ],
+   [
+    "ha",
+    0.95263671875
+   ],
+   [
+    "ha",
+    0.95947265625
+   ],
+   [
+    "ha",
+    0.9638671875
+   ],
+   [
+    "ha",
+    0.96923828125
+   ],
+   [
+    "ha",
+    0.97314453125
+   ],
+   [
+    "ha",
+    0.97607421875
+   ],
+   [
+    "ha",
+    0.978515625
+   ],
+   [
+    "ha",
+    0.98095703125
+   ],
+   [
+    "ha",
+    0.98291015625
+   ],
+   [
+    "ha",
+    0.984375
+   ],
+   [
+    "ha",
+    0.986328125
+   ],
+   [
+    "ha",
+    0.98779296875
+   ],
+   [
+    "ha",
+    0.9892578125
+   ],
+   [
+    "ha",
+    0.98974609375
+   ],
+   [
+    "ha",
+    0.99072265625
+   ],
+   [
+    "ha",
+    0.99169921875
+   ],
+   [
+    "ha",
+    0.9921875
+   ],
+   [
+    "ha",
+    0.99267578125
+   ],
+   [
+    "ha",
+    0.99267578125
+   ],
+   [
+    "ha",
+    0.99365234375
+   ],
+   [
+    "ha",
+    0.994140625
+   ],
+   [
+    "ha",
+    0.994140625
+   ],
+   [
+    "ha",
+    0.99462890625
+   ],
+   [
+    "ha",
+    0.99462890625
+   ],
+   [
+    "ha",
+    0.9951171875
+   ],
+   [
+    "ha",
+    0.9951171875
+   ],
+   [
+    "ha",
+    0.99560546875
+   ],
+   [
+    "ha",
+    0.99560546875
+   ],
+   [
+    "ha",
+    0.99609375
+   ],
+   [
+    "ha",
+    0.99609375
+   ],
+   [
+    "ha",
+    0.99609375
+   ],
+   [
+    "ha",
+    0.99658203125
+   ],
+   [
+    "ha",
+    0.99658203125
+   ],
+   [
+    "ha",
+    0.99658203125
+   ],
+   [
+    "ha",
+    0.99658203125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "Altyazı",
+    0.86346435546875
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.09170809930021112
+ },
+ "vocal-laughter-f0516": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.725799560546875
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.9990234375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.307528403672305
+ },
+ "vocal-laughter-f0597": {
+  "text": "Ha ha ha ha ha ha ha ha ha ha ha ha ha.",
+  "words": [
+   [
+    "Ha",
+    0.094482421875
+   ],
+   [
+    "ha",
+    0.94189453125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.9580078125
+   ],
+   [
+    "ha",
+    0.92236328125
+   ],
+   [
+    "ha",
+    0.91357421875
+   ],
+   [
+    "ha",
+    0.908203125
+   ],
+   [
+    "ha",
+    0.89599609375
+   ],
+   [
+    "ha",
+    0.86474609375
+   ],
+   [
+    "ha",
+    0.81396484375
+   ],
+   [
+    "ha",
+    0.7529296875
+   ],
+   [
+    "ha",
+    0.71142578125
+   ],
+   [
+    "ha.",
+    0.69970703125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.5500919117647058
+ },
+ "vocal-laughter-f1111": {
+  "text": "Hıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıh Altyazı M.K.",
+  "words": [
+   [
+    "Hıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıhıh",
+    0.9691040312762752
+   ],
+   [
+    "Altyazı",
+    0.82867431640625
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.16814630139957776
+ },
+ "vocal-laughter-f1184": {
+  "text": "Ha ha ha ha",
+  "words": [
+   [
+    "Ha",
+    0.1048583984375
+   ],
+   [
+    "ha",
+    0.90478515625
+   ],
+   [
+    "ha",
+    0.978515625
+   ],
+   [
+    "ha",
+    0.79248046875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.9776785714285714
+ },
+ "vocal-laughter-f1300": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.76483154296875
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.9990234375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.4296875
+ },
+ "vocal-laughter-f1309": {
+  "text": "Ha ha ha.",
+  "words": [
+   [
+    "Ha",
+    0.221923828125
+   ],
+   [
+    "ha",
+    0.90771484375
+   ],
+   [
+    "ha.",
+    0.998046875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.5546875170298985
+ },
+ "vocal-laughter-f1799": {
+  "text": "Ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha",
+  "words": [
+   [
+    "Ha",
+    0.061798095703125
+   ],
+   [
+    "ha",
+    0.91748046875
+   ],
+   [
+    "ha",
+    0.994140625
+   ],
+   [
+    "ha",
+    0.96337890625
+   ],
+   [
+    "ha",
+    0.92626953125
+   ],
+   [
+    "ha",
+    0.86767578125
+   ],
+   [
+    "ha",
+    0.73876953125
+   ],
+   [
+    "ha",
+    0.69140625
+   ],
+   [
+    "ha",
+    0.77734375
+   ],
+   [
+    "ha",
+    0.87890625
+   ],
+   [
+    "ha",
+    0.923828125
+   ],
+   [
+    "ha",
+    0.9365234375
+   ],
+   [
+    "ha",
+    0.93896484375
+   ],
+   [
+    "ha",
+    0.927734375
+   ],
+   [
+    "ha",
+    0.91259765625
+   ],
+   [
+    "ha",
+    0.8935546875
+   ],
+   [
+    "ha",
+    0.87060546875
+   ],
+   [
+    "ha",
+    0.8515625
+   ],
+   [
+    "ha",
+    0.8369140625
+   ],
+   [
+    "ha",
+    0.82763671875
+   ],
+   [
+    "ha",
+    0.82177734375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.4697265736758709
+ },
+ "vocal-laughter-f1807": {
+  "text": "Ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha Altyazı M.K.",
+  "words": [
+   [
+    "Ha",
+    0.05133056640625
+   ],
+   [
+    "ha",
+    0.91455078125
+   ],
+   [
+    "ha",
+    0.98486328125
+   ],
+   [
+    "ha",
+    0.92138671875
+   ],
+   [
+    "ha",
+    0.8896484375
+   ],
+   [
+    "ha",
+    0.859375
+   ],
+   [
+    "ha",
+    0.81103515625
+   ],
+   [
+    "ha",
+    0.7548828125
+   ],
+   [
+    "ha",
+    0.71923828125
+   ],
+   [
+    "ha",
+    0.72265625
+   ],
+   [
+    "ha",
+    0.75048828125
+   ],
+   [
+    "ha",
+    0.791015625
+   ],
+   [
+    "ha",
+    0.83544921875
+   ],
+   [
+    "ha",
+    0.861328125
+   ],
+   [
+    "ha",
+    0.88427734375
+   ],
+   [
+    "ha",
+    0.900390625
+   ],
+   [
+    "ha",
+    0.9111328125
+   ],
+   [
+    "ha",
+    0.91943359375
+   ],
+   [
+    "ha",
+    0.9267578125
+   ],
+   [
+    "ha",
+    0.935546875
+   ],
+   [
+    "ha",
+    0.93994140625
+   ],
+   [
+    "ha",
+    0.94580078125
+   ],
+   [
+    "ha",
+    0.95068359375
+   ],
+   [
+    "ha",
+    0.95654296875
+   ],
+   [
+    "ha",
+    0.96044921875
+   ],
+   [
+    "ha",
+    0.96337890625
+   ],
+   [
+    "ha",
+    0.9677734375
+   ],
+   [
+    "ha",
+    0.9697265625
+   ],
+   [
+    "ha",
+    0.9736328125
+   ],
+   [
+    "ha",
+    0.97607421875
+   ],
+   [
+    "ha",
+    0.97900390625
+   ],
+   [
+    "ha",
+    0.98046875
+   ],
+   [
+    "ha",
+    0.98193359375
+   ],
+   [
+    "ha",
+    0.98388671875
+   ],
+   [
+    "ha",
+    0.98486328125
+   ],
+   [
+    "ha",
+    0.98583984375
+   ],
+   [
+    "ha",
+    0.98681640625
+   ],
+   [
+    "ha",
+    0.98779296875
+   ],
+   [
+    "ha",
+    0.9892578125
+   ],
+   [
+    "ha",
+    0.98974609375
+   ],
+   [
+    "ha",
+    0.990234375
+   ],
+   [
+    "ha",
+    0.99072265625
+   ],
+   [
+    "ha",
+    0.9912109375
+   ],
+   [
+    "ha",
+    0.99169921875
+   ],
+   [
+    "ha",
+    0.9921875
+   ],
+   [
+    "ha",
+    0.99267578125
+   ],
+   [
+    "ha",
+    0.9931640625
+   ],
+   [
+    "ha",
+    0.99365234375
+   ],
+   [
+    "ha",
+    0.99365234375
+   ],
+   [
+    "ha",
+    0.994140625
+   ],
+   [
+    "ha",
+    0.994140625
+   ],
+   [
+    "ha",
+    0.994140625
+   ],
+   [
+    "ha",
+    0.99462890625
+   ],
+   [
+    "ha",
+    0.9951171875
+   ],
+   [
+    "ha",
+    0.9951171875
+   ],
+   [
+    "ha",
+    0.9951171875
+   ],
+   [
+    "ha",
+    0.99560546875
+   ],
+   [
+    "ha",
+    0.99560546875
+   ],
+   [
+    "ha",
+    0.99560546875
+   ],
+   [
+    "ha",
+    0.99560546875
+   ],
+   [
+    "ha",
+    0.99609375
+   ],
+   [
+    "ha",
+    0.99609375
+   ],
+   [
+    "ha",
+    0.99609375
+   ],
+   [
+    "ha",
+    0.99658203125
+   ],
+   [
+    "ha",
+    0.99658203125
+   ],
+   [
+    "ha",
+    0.99658203125
+   ],
+   [
+    "ha",
+    0.99658203125
+   ],
+   [
+    "ha",
+    0.99658203125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "Altyazı",
+    0.7705535888671875
+   ],
+   [
+    "M",
+    0.99658203125
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.4509943181818182
+ },
+ "vocal-laughter-f2092": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.86004638671875
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1058238609270616
+ },
+ "vocal-laughter-f2609": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.7559967041015625
+   ],
+   [
+    "M",
+    0.99658203125
+   ],
+   [
+    ".K.",
+    0.998779296875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.4879261146892201
+ },
+ "vocal-laughter-f2777": {
+  "text": "Ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha",
+  "words": [
+   [
+    "Ha",
+    0.0745849609375
+   ],
+   [
+    "ha",
+    0.93896484375
+   ],
+   [
+    "ha",
+    0.98974609375
+   ],
+   [
+    "ha",
+    0.9072265625
+   ],
+   [
+    "ha",
+    0.828125
+   ],
+   [
+    "ha",
+    0.7353515625
+   ],
+   [
+    "ha",
+    0.673828125
+   ],
+   [
+    "ha",
+    0.68115234375
+   ],
+   [
+    "ha",
+    0.7265625
+   ],
+   [
+    "ha",
+    0.7841796875
+   ],
+   [
+    "ha",
+    0.83251953125
+   ],
+   [
+    "ha",
+    0.8671875
+   ],
+   [
+    "ha",
+    0.89794921875
+   ],
+   [
+    "ha",
+    0.90966796875
+   ],
+   [
+    "ha",
+    0.91748046875
+   ],
+   [
+    "ha",
+    0.923828125
+   ],
+   [
+    "ha",
+    0.92578125
+   ],
+   [
+    "ha",
+    0.92822265625
+   ],
+   [
+    "ha",
+    0.931640625
+   ],
+   [
+    "ha",
+    0.93896484375
+   ],
+   [
+    "ha",
+    0.94189453125
+   ],
+   [
+    "ha",
+    0.947265625
+   ],
+   [
+    "ha",
+    0.9521484375
+   ],
+   [
+    "ha",
+    0.95751953125
+   ],
+   [
+    "ha",
+    0.9609375
+   ],
+   [
+    "ha",
+    0.96435546875
+   ],
+   [
+    "ha",
+    0.96826171875
+   ],
+   [
+    "ha",
+    0.97021484375
+   ],
+   [
+    "ha",
+    0.97314453125
+   ],
+   [
+    "ha",
+    0.97607421875
+   ],
+   [
+    "ha",
+    0.978515625
+   ],
+   [
+    "ha",
+    0.97998046875
+   ],
+   [
+    "ha",
+    0.98095703125
+   ],
+   [
+    "ha",
+    0.98291015625
+   ],
+   [
+    "ha",
+    0.98388671875
+   ],
+   [
+    "ha",
+    0.98486328125
+   ],
+   [
+    "ha",
+    0.9853515625
+   ],
+   [
+    "ha",
+    0.98681640625
+   ],
+   [
+    "ha",
+    0.98779296875
+   ],
+   [
+    "ha",
+    0.98828125
+   ],
+   [
+    "ha",
+    0.9892578125
+   ],
+   [
+    "ha",
+    0.98974609375
+   ],
+   [
+    "ha",
+    0.990234375
+   ],
+   [
+    "ha",
+    0.99072265625
+   ],
+   [
+    "ha",
+    0.9912109375
+   ],
+   [
+    "ha",
+    0.99169921875
+   ],
+   [
+    "ha",
+    0.9921875
+   ],
+   [
+    "ha",
+    0.9921875
+   ],
+   [
+    "ha",
+    0.99267578125
+   ],
+   [
+    "ha",
+    0.9931640625
+   ],
+   [
+    "ha",
+    0.9931640625
+   ],
+   [
+    "ha",
+    0.99365234375
+   ],
+   [
+    "ha",
+    0.99365234375
+   ],
+   [
+    "ha",
+    0.994140625
+   ],
+   [
+    "ha",
+    0.994140625
+   ],
+   [
+    "ha",
+    0.99462890625
+   ],
+   [
+    "ha",
+    0.99462890625
+   ],
+   [
+    "ha",
+    0.9951171875
+   ],
+   [
+    "ha",
+    0.9951171875
+   ],
+   [
+    "ha",
+    0.9951171875
+   ],
+   [
+    "ha",
+    0.99560546875
+   ],
+   [
+    "ha",
+    0.99560546875
+   ],
+   [
+    "ha",
+    0.99560546875
+   ],
+   [
+    "ha",
+    0.99609375
+   ],
+   [
+    "ha",
+    0.99609375
+   ],
+   [
+    "ha",
+    0.99609375
+   ],
+   [
+    "ha",
+    0.99609375
+   ],
+   [
+    "ha",
+    0.99658203125
+   ],
+   [
+    "ha",
+    0.99658203125
+   ],
+   [
+    "ha",
+    0.99658203125
+   ],
+   [
+    "ha",
+    0.99658203125
+   ],
+   [
+    "ha",
+    0.99658203125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.040451389418707955
+ },
+ "vocal-laughter-f3081": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.7514114379882812
+   ],
+   [
+    "M",
+    0.9970703125
+   ],
+   [
+    ".K.",
+    0.998291015625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.39311078461733734
+ },
+ "vocal-laughter-f3301": {
+  "text": "Ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha",
+  "words": [
+   [
+    "Ha",
+    0.08209228515625
+   ],
+   [
+    "ha",
+    0.884765625
+   ],
+   [
+    "ha",
+    0.8671875
+   ],
+   [
+    "ha",
+    0.7509765625
+   ],
+   [
+    "ha",
+    0.74560546875
+   ],
+   [
+    "ha",
+    0.82275390625
+   ],
+   [
+    "ha",
+    0.888671875
+   ],
+   [
+    "ha",
+    0.9208984375
+   ],
+   [
+    "ha",
+    0.9345703125
+   ],
+   [
+    "ha",
+    0.943359375
+   ],
+   [
+    "ha",
+    0.94775390625
+   ],
+   [
+    "ha",
+    0.94970703125
+   ],
+   [
+    "ha",
+    0.95263671875
+   ],
+   [
+    "ha",
+    0.95263671875
+   ],
+   [
+    "ha",
+    0.95263671875
+   ],
+   [
+    "ha",
+    0.95361328125
+   ],
+   [
+    "ha",
+    0.953125
+   ],
+   [
+    "ha",
+    0.95166015625
+   ],
+   [
+    "ha",
+    0.953125
+   ],
+   [
+    "ha",
+    0.95458984375
+   ],
+   [
+    "ha",
+    0.9541015625
+   ],
+   [
+    "ha",
+    0.95654296875
+   ],
+   [
+    "ha",
+    0.95751953125
+   ],
+   [
+    "ha",
+    0.96044921875
+   ],
+   [
+    "ha",
+    0.9619140625
+   ],
+   [
+    "ha",
+    0.9638671875
+   ],
+   [
+    "ha",
+    0.96630859375
+   ],
+   [
+    "ha",
+    0.96826171875
+   ],
+   [
+    "ha",
+    0.97119140625
+   ],
+   [
+    "ha",
+    0.97314453125
+   ],
+   [
+    "ha",
+    0.9755859375
+   ],
+   [
+    "ha",
+    0.9775390625
+   ],
+   [
+    "ha",
+    0.978515625
+   ],
+   [
+    "ha",
+    0.98046875
+   ],
+   [
+    "ha",
+    0.9814453125
+   ],
+   [
+    "ha",
+    0.98291015625
+   ],
+   [
+    "ha",
+    0.9833984375
+   ],
+   [
+    "ha",
+    0.98486328125
+   ],
+   [
+    "ha",
+    0.986328125
+   ],
+   [
+    "ha",
+    0.98681640625
+   ],
+   [
+    "ha",
+    0.9873046875
+   ],
+   [
+    "ha",
+    0.98828125
+   ],
+   [
+    "ha",
+    0.98876953125
+   ],
+   [
+    "ha",
+    0.9892578125
+   ],
+   [
+    "ha",
+    0.98974609375
+   ],
+   [
+    "ha",
+    0.99072265625
+   ],
+   [
+    "ha",
+    0.9912109375
+   ],
+   [
+    "ha",
+    0.9912109375
+   ],
+   [
+    "ha",
+    0.99169921875
+   ],
+   [
+    "ha",
+    0.9921875
+   ],
+   [
+    "ha",
+    0.99267578125
+   ],
+   [
+    "ha",
+    0.99267578125
+   ],
+   [
+    "ha",
+    0.9931640625
+   ],
+   [
+    "ha",
+    0.99365234375
+   ],
+   [
+    "ha",
+    0.99365234375
+   ],
+   [
+    "ha",
+    0.994140625
+   ],
+   [
+    "ha",
+    0.994140625
+   ],
+   [
+    "ha",
+    0.99462890625
+   ],
+   [
+    "ha",
+    0.99462890625
+   ],
+   [
+    "ha",
+    0.99462890625
+   ],
+   [
+    "ha",
+    0.9951171875
+   ],
+   [
+    "ha",
+    0.9951171875
+   ],
+   [
+    "ha",
+    0.99560546875
+   ],
+   [
+    "ha",
+    0.99560546875
+   ],
+   [
+    "ha",
+    0.99609375
+   ],
+   [
+    "ha",
+    0.99609375
+   ],
+   [
+    "ha",
+    0.99609375
+   ],
+   [
+    "ha",
+    0.99609375
+   ],
+   [
+    "ha",
+    0.99658203125
+   ],
+   [
+    "ha",
+    0.99658203125
+   ],
+   [
+    "ha",
+    0.99658203125
+   ],
+   [
+    "ha",
+    0.99658203125
+   ],
+   [
+    "ha",
+    0.99658203125
+   ],
+   [
+    "ha",
+    0.99658203125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.03505208174387614
+ },
+ "vocal-laughter-f3308": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.7625808715820312
+   ],
+   [
+    "M",
+    0.9970703125
+   ],
+   [
+    ".K.",
+    0.9990234375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.34463779492811725
+ },
+ "vocal-laughter-m0011": {
+  "text": "Ha ha ha ha ha ha ha ha.",
+  "words": [
+   [
+    "Ha",
+    0.141357421875
+   ],
+   [
+    "ha",
+    0.89990234375
+   ],
+   [
+    "ha",
+    0.99560546875
+   ],
+   [
+    "ha",
+    0.9482421875
+   ],
+   [
+    "ha",
+    0.91162109375
+   ],
+   [
+    "ha",
+    0.87841796875
+   ],
+   [
+    "ha",
+    0.70751953125
+   ],
+   [
+    "ha.",
+    0.495361328125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.649088516831398
+ },
+ "vocal-laughter-m0563": {
+  "text": "Ha ha ha ha ha ha.",
+  "words": [
+   [
+    "Ha",
+    0.054443359375
+   ],
+   [
+    "ha",
+    0.89306640625
+   ],
+   [
+    "ha",
+    0.966796875
+   ],
+   [
+    "ha",
+    0.779296875
+   ],
+   [
+    "ha",
+    0.69921875
+   ],
+   [
+    "ha.",
+    0.634765625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.8242187440395355
+ },
+ "vocal-laughter-m0677": {
+  "text": "Ha ha ha!",
+  "words": [
+   [
+    "Ha",
+    0.2244873046875
+   ],
+   [
+    "ha",
+    0.8974609375
+   ],
+   [
+    "ha!",
+    0.99853515625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.7059151615415301
+ },
+ "vocal-laughter-m0940": {
+  "text": "Ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha Altyazı M.K.",
+  "words": [
+   [
+    "Ha",
+    0.11138916015625
+   ],
+   [
+    "ha",
+    0.89599609375
+   ],
+   [
+    "ha",
+    0.99072265625
+   ],
+   [
+    "ha",
+    0.8955078125
+   ],
+   [
+    "ha",
+    0.83837890625
+   ],
+   [
+    "ha",
+    0.8232421875
+   ],
+   [
+    "ha",
+    0.82275390625
+   ],
+   [
+    "ha",
+    0.83447265625
+   ],
+   [
+    "ha",
+    0.8359375
+   ],
+   [
+    "ha",
+    0.83349609375
+   ],
+   [
+    "ha",
+    0.8203125
+   ],
+   [
+    "ha",
+    0.8134765625
+   ],
+   [
+    "ha",
+    0.826171875
+   ],
+   [
+    "ha",
+    0.8330078125
+   ],
+   [
+    "ha",
+    0.85107421875
+   ],
+   [
+    "ha",
+    0.87109375
+   ],
+   [
+    "ha",
+    0.8896484375
+   ],
+   [
+    "ha",
+    0.90625
+   ],
+   [
+    "ha",
+    0.92138671875
+   ],
+   [
+    "ha",
+    0.9365234375
+   ],
+   [
+    "ha",
+    0.9462890625
+   ],
+   [
+    "ha",
+    0.95556640625
+   ],
+   [
+    "ha",
+    0.96240234375
+   ],
+   [
+    "ha",
+    0.96923828125
+   ],
+   [
+    "ha",
+    0.97314453125
+   ],
+   [
+    "ha",
+    0.9765625
+   ],
+   [
+    "ha",
+    0.97998046875
+   ],
+   [
+    "ha",
+    0.98193359375
+   ],
+   [
+    "ha",
+    0.98486328125
+   ],
+   [
+    "ha",
+    0.98681640625
+   ],
+   [
+    "ha",
+    0.98828125
+   ],
+   [
+    "ha",
+    0.9892578125
+   ],
+   [
+    "ha",
+    0.990234375
+   ],
+   [
+    "ha",
+    0.9912109375
+   ],
+   [
+    "ha",
+    0.9921875
+   ],
+   [
+    "ha",
+    0.99267578125
+   ],
+   [
+    "ha",
+    0.9931640625
+   ],
+   [
+    "ha",
+    0.99365234375
+   ],
+   [
+    "ha",
+    0.99462890625
+   ],
+   [
+    "ha",
+    0.99462890625
+   ],
+   [
+    "ha",
+    0.9951171875
+   ],
+   [
+    "ha",
+    0.99560546875
+   ],
+   [
+    "ha",
+    0.99560546875
+   ],
+   [
+    "ha",
+    0.99609375
+   ],
+   [
+    "ha",
+    0.99609375
+   ],
+   [
+    "ha",
+    0.99658203125
+   ],
+   [
+    "ha",
+    0.99658203125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.9990234375
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "ha",
+    0.99951171875
+   ],
+   [
+    "Altyazı",
+    0.85101318359375
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1041370765729384
+ },
+ "vocal-laughter-m0967": {
+  "text": "Ha ha ha ha ha ha ha ha ha ha ha ha ha ha",
+  "words": [
+   [
+    "Ha",
+    0.0955810546875
+   ],
+   [
+    "ha",
+    0.919921875
+   ],
+   [
+    "ha",
+    0.92529296875
+   ],
+   [
+    "ha",
+    0.93896484375
+   ],
+   [
+    "ha",
+    0.888671875
+   ],
+   [
+    "ha",
+    0.85400390625
+   ],
+   [
+    "ha",
+    0.8544921875
+   ],
+   [
+    "ha",
+    0.8544921875
+   ],
+   [
+    "ha",
+    0.82958984375
+   ],
+   [
+    "ha",
+    0.798828125
+   ],
+   [
+    "ha",
+    0.7685546875
+   ],
+   [
+    "ha",
+    0.75634765625
+   ],
+   [
+    "ha",
+    0.76220703125
+   ],
+   [
+    "ha",
+    0.7646484375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.6075367647058824
+ },
+ "vocal-laughter-m1066": {
+  "text": "Ha ha ha ha ha, ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha",
+  "words": [
+   [
+    "Ha",
+    0.1990966796875
+   ],
+   [
+    "ha",
+    0.8515625
+   ],
+   [
+    "ha",
+    0.9892578125
+   ],
+   [
+    "ha",
+    0.93994140625
+   ],
+   [
+    "ha,",
+    0.76513671875
+   ],
+   [
+    "ha",
+    0.44970703125
+   ],
+   [
+    "ha",
+    0.93310546875
+   ],
+   [
+    "ha",
+    0.80908203125
+   ],
+   [
+    "ha",
+    0.371337890625
+   ],
+   [
+    "ha",
+    0.310791015625
+   ],
+   [
+    "ha",
+    0.44580078125
+   ],
+   [
+    "ha",
+    0.65087890625
+   ],
+   [
+    "ha",
+    0.77294921875
+   ],
+   [
+    "ha",
+    0.84326171875
+   ],
+   [
+    "ha",
+    0.88134765625
+   ],
+   [
+    "ha",
+    0.904296875
+   ],
+   [
+    "ha",
+    0.92041015625
+   ],
+   [
+    "ha",
+    0.9326171875
+   ],
+   [
+    "ha",
+    0.94482421875
+   ],
+   [
+    "ha",
+    0.95166015625
+   ],
+   [
+    "ha",
+    0.95947265625
+   ],
+   [
+    "ha",
+    0.96533203125
+   ],
+   [
+    "ha",
+    0.97021484375
+   ],
+   [
+    "ha",
+    0.9736328125
+   ],
+   [
+    "ha",
+    0.97607421875
+   ],
+   [
+    "ha",
+    0.97900390625
+   ],
+   [
+    "ha",
+    0.98046875
+   ],
+   [
+    "ha",
+    0.982421875
+   ],
+   [
+    "ha",
+    0.984375
+   ],
+   [
+    "ha",
+    0.98583984375
+   ],
+   [
+    "ha",
+    0.98681640625
+   ],
+   [
+    "ha",
+    0.9873046875
+   ],
+   [
+    "ha",
+    0.98828125
+   ],
+   [
+    "ha",
+    0.98876953125
+   ],
+   [
+    "ha",
+    0.98974609375
+   ],
+   [
+    "ha",
+    0.98974609375
+   ],
+   [
+    "ha",
+    0.99072265625
+   ],
+   [
+    "ha",
+    0.99169921875
+   ],
+   [
+    "ha",
+    0.99169921875
+   ],
+   [
+    "ha",
+    0.9921875
+   ],
+   [
+    "ha",
+    0.99267578125
+   ],
+   [
+    "ha",
+    0.9931640625
+   ],
+   [
+    "ha",
+    0.9931640625
+   ],
+   [
+    "ha",
+    0.99365234375
+   ],
+   [
+    "ha",
+    0.994140625
+   ],
+   [
+    "ha",
+    0.994140625
+   ],
+   [
+    "ha",
+    0.994140625
+   ],
+   [
+    "ha",
+    0.99462890625
+   ],
+   [
+    "ha",
+    0.99462890625
+   ],
+   [
+    "ha",
+    0.9951171875
+   ],
+   [
+    "ha",
+    0.9951171875
+   ],
+   [
+    "ha",
+    0.9951171875
+   ],
+   [
+    "ha",
+    0.99560546875
+   ],
+   [
+    "ha",
+    0.99560546875
+   ],
+   [
+    "ha",
+    0.99560546875
+   ],
+   [
+    "ha",
+    0.99609375
+   ],
+   [
+    "ha",
+    0.99609375
+   ],
+   [
+    "ha",
+    0.99609375
+   ],
+   [
+    "ha",
+    0.99609375
+   ],
+   [
+    "ha",
+    0.99609375
+   ],
+   [
+    "ha",
+    0.99658203125
+   ],
+   [
+    "ha",
+    0.99658203125
+   ],
+   [
+    "ha",
+    0.99658203125
+   ],
+   [
+    "ha",
+    0.99658203125
+   ],
+   [
+    "ha",
+    0.99658203125
+   ],
+   [
+    "ha",
+    0.99658203125
+   ],
+   [
+    "ha",
+    0.99658203125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.9970703125
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.99755859375
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.998046875
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.99853515625
+   ],
+   [
+    "ha",
+    0.9990234375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.14972015492506882
+ },
+ "vocal-laughter-m1109": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.84906005859375
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.13529829003594138
+ },
+ "vocal-laughter-m1946": {
+  "text": "Ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha",
+  "words": [
+   [
+    "Ha",
+    0.1185302734375
+   ],
+   [
+    "ha",
+    0.94140625
+   ],
+   [
+    "ha",
+    0.9951171875
+   ],
+   [
+    "ha",
+    0.95166015625
+   ],
+   [
+    "ha",
+    0.921875
+   ],
+   [
+    "ha",
+    0.88671875
+   ],
+   [
+    "ha",
+    0.8359375
+   ],
+   [
+    "ha",
+    0.80908203125
+   ],
+   [
+    "ha",
+    0.81689453125
+   ],
+   [
+    "ha",
+    0.85302734375
+   ],
+   [
+    "ha",
+    0.8857421875
+   ],
+   [
+    "ha",
+    0.90576171875
+   ],
+   [
+    "ha",
+    0.91943359375
+   ],
+   [
+    "ha",
+    0.9169921875
+   ],
+   [
+    "ha",
+    0.91455078125
+   ],
+   [
+    "ha",
+    0.90771484375
+   ],
+   [
+    "ha",
+    0.8984375
+   ],
+   [
+    "ha",
+    0.890625
+   ],
+   [
+    "ha",
+    0.88525390625
+   ],
+   [
+    "ha",
+    0.8837890625
+   ],
+   [
+    "ha",
+    0.880859375
+   ],
+   [
+    "ha",
+    0.88427734375
+   ],
+   [
+    "ha",
+    0.8876953125
+   ],
+   [
+    "ha",
+    0.89501953125
+   ],
+   [
+    "ha",
+    0.90087890625
+   ],
+   [
+    "ha",
+    0.908203125
+   ],
+   [
+    "ha",
+    0.91845703125
+   ],
+   [
+    "ha",
+    0.923828125
+   ],
+   [
+    "ha",
+    0.93359375
+   ],
+   [
+    "ha",
+    0.94140625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.38115530303030304
+ },
+ "vocal-laughter-m2000": {
+  "text": "Hehehehe",
+  "words": [
+   [
+    "Hehehehe",
+    0.5526529947916666
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.7675781349341074
+ },
+ "vocal-laughter-m2193": {
+  "text": "Teşekkürler.",
+  "words": [
+   [
+    "Teşekkürler.",
+    0.656494140625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.6333705527441842
+ },
+ "vocal-laughter-m2519": {
+  "text": "Ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha",
+  "words": [
+   [
+    "Ha",
+    0.216796875
+   ],
+   [
+    "ha",
+    0.81494140625
+   ],
+   [
+    "ha",
+    0.9873046875
+   ],
+   [
+    "ha",
+    0.759765625
+   ],
+   [
+    "ha",
+    0.5966796875
+   ],
+   [
+    "ha",
+    0.7490234375
+   ],
+   [
+    "ha",
+    0.8994140625
+   ],
+   [
+    "ha",
+    0.9404296875
+   ],
+   [
+    "ha",
+    0.94482421875
+   ],
+   [
+    "ha",
+    0.9375
+   ],
+   [
+    "ha",
+    0.92041015625
+   ],
+   [
+    "ha",
+    0.89794921875
+   ],
+   [
+    "ha",
+    0.87060546875
+   ],
+   [
+    "ha",
+    0.84228515625
+   ],
+   [
+    "ha",
+    0.8212890625
+   ],
+   [
+    "ha",
+    0.80908203125
+   ],
+   [
+    "ha",
+    0.80712890625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.3744140639901161
+ },
+ "vocal-laughter-m2875": {
+  "text": "Hıhıhı",
+  "words": [
+   [
+    "Hıhıhı",
+    0.620269775390625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.8528645833333334
+ },
+ "vocal-laughter-m3092": {
+  "text": "Hahahaha",
+  "words": [
+   [
+    "Hahahaha",
+    0.5015869140625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -1.01015625
+ },
+ "vocal-laughter-m3120": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.7545166015625
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.999267578125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.4840198972008445
+ },
+ "vocal-laughter-m3226": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.7412643432617188
+   ],
+   [
+    "M",
+    0.99560546875
+   ],
+   [
+    ".K.",
+    0.998779296875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.3913352164355191
+ },
+ "vocal-sigh-f0128": {
+  "text": "Sıfır.",
+  "words": [
+   [
+    "Sıfır.",
+    0.269134521484375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -1.0556640774011612
+ },
+ "vocal-sigh-f0253": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.83099365234375
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.13361150568181818
+ },
+ "vocal-sigh-f0320": {
+  "text": "abone ol",
+  "words": [
+   [
+    "abone",
+    0.503204345703125
+   ],
+   [
+    "ol",
+    0.98974609375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.9641927480697632
+ },
+ "vocal-sigh-f0327": {
+  "text": "abone ol",
+  "words": [
+   [
+    "abone",
+    0.5382080078125
+   ],
+   [
+    "ol",
+    0.98974609375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.8958333730697632
+ },
+ "vocal-sigh-f0381": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8494873046875
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1392933184450323
+ },
+ "vocal-sigh-f0448": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.7059478759765625
+   ],
+   [
+    "M",
+    0.986328125
+   ],
+   [
+    ".K.",
+    0.98388671875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.5241477489471436
+ },
+ "vocal-sigh-f0513": {
+  "text": "Ahhhh Ahhhh",
+  "words": [
+   [
+    "Ahhhh",
+    0.0993804931640625
+   ],
+   [
+    "Ahhhh",
+    0.42919921875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -1.2317708333333333
+ },
+ "vocal-sigh-f0671": {
+  "text": "Sıfır.",
+  "words": [
+   [
+    "Sıfır.",
+    0.3008575439453125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -1.0019531100988388
+ },
+ "vocal-sigh-f0752": {
+  "text": "Hımm",
+  "words": [
+   [
+    "Hımm",
+    0.3913777669270833
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.8567708730697632
+ },
+ "vocal-sigh-f1104": {
+  "text": "abone ol",
+  "words": [
+   [
+    "abone",
+    0.529022216796875
+   ],
+   [
+    "ol",
+    0.9892578125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.9733072916666666
+ },
+ "vocal-sigh-f1246": {
+  "text": "ahhh",
+  "words": [
+   [
+    "ahhh",
+    0.15740966796875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -1.14453125
+ },
+ "vocal-sigh-f2054": {
+  "text": "Hmm.",
+  "words": [
+   [
+    "Hmm.",
+    0.291259765625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.9671875
+ },
+ "vocal-sigh-f2398": {
+  "text": "abone ol",
+  "words": [
+   [
+    "abone",
+    0.53240966796875
+   ],
+   [
+    "ol",
+    0.98828125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.8541666467984518
+ },
+ "vocal-sigh-f3044": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.85595703125
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.12917258522727273
+ },
+ "vocal-sigh-f3239": {
+  "text": "Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh Altyazı M.K.",
+  "words": [
+   [
+    "Oh,",
+    0.0914306640625
+   ],
+   [
+    "oh,",
+    0.5498046875
+   ],
+   [
+    "oh,",
+    0.97509765625
+   ],
+   [
+    "oh,",
+    0.9755859375
+   ],
+   [
+    "oh,",
+    0.974609375
+   ],
+   [
+    "oh,",
+    0.978515625
+   ],
+   [
+    "oh,",
+    0.9833984375
+   ],
+   [
+    "oh,",
+    0.986328125
+   ],
+   [
+    "oh,",
+    0.9892578125
+   ],
+   [
+    "oh,",
+    0.990234375
+   ],
+   [
+    "oh,",
+    0.9912109375
+   ],
+   [
+    "oh,",
+    0.9921875
+   ],
+   [
+    "oh,",
+    0.9921875
+   ],
+   [
+    "oh,",
+    0.9921875
+   ],
+   [
+    "oh,",
+    0.9921875
+   ],
+   [
+    "oh,",
+    0.9921875
+   ],
+   [
+    "oh,",
+    0.99169921875
+   ],
+   [
+    "oh,",
+    0.99169921875
+   ],
+   [
+    "oh,",
+    0.99169921875
+   ],
+   [
+    "oh,",
+    0.99169921875
+   ],
+   [
+    "oh,",
+    0.99169921875
+   ],
+   [
+    "oh,",
+    0.9912109375
+   ],
+   [
+    "oh,",
+    0.9912109375
+   ],
+   [
+    "oh,",
+    0.9912109375
+   ],
+   [
+    "oh,",
+    0.9912109375
+   ],
+   [
+    "oh,",
+    0.99072265625
+   ],
+   [
+    "oh,",
+    0.99072265625
+   ],
+   [
+    "oh,",
+    0.9912109375
+   ],
+   [
+    "oh,",
+    0.99072265625
+   ],
+   [
+    "oh,",
+    0.99072265625
+   ],
+   [
+    "oh,",
+    0.9912109375
+   ],
+   [
+    "oh,",
+    0.9912109375
+   ],
+   [
+    "oh,",
+    0.99072265625
+   ],
+   [
+    "oh,",
+    0.99072265625
+   ],
+   [
+    "oh,",
+    0.9912109375
+   ],
+   [
+    "oh,",
+    0.99072265625
+   ],
+   [
+    "oh,",
+    0.9912109375
+   ],
+   [
+    "oh,",
+    0.9912109375
+   ],
+   [
+    "oh,",
+    0.9912109375
+   ],
+   [
+    "oh,",
+    0.9912109375
+   ],
+   [
+    "oh,",
+    0.9912109375
+   ],
+   [
+    "oh,",
+    0.9912109375
+   ],
+   [
+    "oh,",
+    0.9912109375
+   ],
+   [
+    "oh,",
+    0.9912109375
+   ],
+   [
+    "oh,",
+    0.9912109375
+   ],
+   [
+    "oh,",
+    0.99169921875
+   ],
+   [
+    "oh,",
+    0.9912109375
+   ],
+   [
+    "oh,",
+    0.9912109375
+   ],
+   [
+    "oh,",
+    0.99169921875
+   ],
+   [
+    "oh,",
+    0.99169921875
+   ],
+   [
+    "oh,",
+    0.99169921875
+   ],
+   [
+    "oh,",
+    0.99169921875
+   ],
+   [
+    "oh,",
+    0.99169921875
+   ],
+   [
+    "oh,",
+    0.99169921875
+   ],
+   [
+    "oh,",
+    0.99169921875
+   ],
+   [
+    "oh,",
+    0.99169921875
+   ],
+   [
+    "oh,",
+    0.99169921875
+   ],
+   [
+    "oh,",
+    0.99169921875
+   ],
+   [
+    "oh,",
+    0.9921875
+   ],
+   [
+    "oh,",
+    0.99169921875
+   ],
+   [
+    "oh,",
+    0.9921875
+   ],
+   [
+    "oh,",
+    0.9921875
+   ],
+   [
+    "oh,",
+    0.9921875
+   ],
+   [
+    "oh,",
+    0.9921875
+   ],
+   [
+    "oh,",
+    0.9921875
+   ],
+   [
+    "oh,",
+    0.99267578125
+   ],
+   [
+    "oh,",
+    0.9921875
+   ],
+   [
+    "oh,",
+    0.99267578125
+   ],
+   [
+    "oh,",
+    0.99267578125
+   ],
+   [
+    "oh,",
+    0.99267578125
+   ],
+   [
+    "oh,",
+    0.99267578125
+   ],
+   [
+    "oh,",
+    0.99267578125
+   ],
+   [
+    "oh,",
+    0.99267578125
+   ],
+   [
+    "oh,",
+    0.9931640625
+   ],
+   [
+    "oh,",
+    0.9931640625
+   ],
+   [
+    "oh,",
+    0.9931640625
+   ],
+   [
+    "oh,",
+    0.9931640625
+   ],
+   [
+    "oh,",
+    0.9931640625
+   ],
+   [
+    "oh,",
+    0.99365234375
+   ],
+   [
+    "oh,",
+    0.99365234375
+   ],
+   [
+    "oh,",
+    0.99365234375
+   ],
+   [
+    "oh,",
+    0.99365234375
+   ],
+   [
+    "oh,",
+    0.99365234375
+   ],
+   [
+    "oh,",
+    0.99365234375
+   ],
+   [
+    "oh,",
+    0.99365234375
+   ],
+   [
+    "oh,",
+    0.99365234375
+   ],
+   [
+    "oh,",
+    0.994140625
+   ],
+   [
+    "oh,",
+    0.994140625
+   ],
+   [
+    "oh,",
+    0.994140625
+   ],
+   [
+    "oh,",
+    0.994140625
+   ],
+   [
+    "oh,",
+    0.994140625
+   ],
+   [
+    "oh,",
+    0.994140625
+   ],
+   [
+    "oh,",
+    0.994140625
+   ],
+   [
+    "oh,",
+    0.99462890625
+   ],
+   [
+    "oh,",
+    0.99462890625
+   ],
+   [
+    "oh,",
+    0.99462890625
+   ],
+   [
+    "oh,",
+    0.99462890625
+   ],
+   [
+    "oh,",
+    0.99462890625
+   ],
+   [
+    "oh,",
+    0.99462890625
+   ],
+   [
+    "oh,",
+    0.99462890625
+   ],
+   [
+    "oh,",
+    0.99462890625
+   ],
+   [
+    "oh,",
+    0.99462890625
+   ],
+   [
+    "oh,",
+    0.99462890625
+   ],
+   [
+    "oh,",
+    0.9951171875
+   ],
+   [
+    "oh,",
+    0.9951171875
+   ],
+   [
+    "oh,",
+    0.99462890625
+   ],
+   [
+    "oh,",
+    0.9951171875
+   ],
+   [
+    "oh,",
+    0.9951171875
+   ],
+   [
+    "oh,",
+    0.9951171875
+   ],
+   [
+    "oh,",
+    0.9951171875
+   ],
+   [
+    "oh,",
+    0.9951171875
+   ],
+   [
+    "oh",
+    0.9951171875
+   ],
+   [
+    "Altyazı",
+    0.82000732421875
+   ],
+   [
+    "M",
+    0.9970703125
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.17365057360042224
+ },
+ "vocal-sigh-m0046": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.86474609375
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.12899503111839294
+ },
+ "vocal-sigh-m0466": {
+  "text": "La, la, la, la, la, la, la, la, la, la, la, la, la, la.",
+  "words": [
+   [
+    "La,",
+    0.488037109375
+   ],
+   [
+    "la,",
+    0.96923828125
+   ],
+   [
+    "la,",
+    0.99560546875
+   ],
+   [
+    "la,",
+    0.99365234375
+   ],
+   [
+    "la,",
+    0.99365234375
+   ],
+   [
+    "la,",
+    0.9921875
+   ],
+   [
+    "la,",
+    0.9912109375
+   ],
+   [
+    "la,",
+    0.99169921875
+   ],
+   [
+    "la,",
+    0.99267578125
+   ],
+   [
+    "la,",
+    0.99267578125
+   ],
+   [
+    "la,",
+    0.9931640625
+   ],
+   [
+    "la,",
+    0.99267578125
+   ],
+   [
+    "la,",
+    0.9921875
+   ],
+   [
+    "la.",
+    0.99169921875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.3145161174958752
+ },
+ "vocal-sigh-m0904": {
+  "text": "Aaaaah.",
+  "words": [
+   [
+    "Aaaaah.",
+    0.3681233723958333
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.9815847873687744
+ },
+ "vocal-sigh-m1151": {
+  "text": "abone ol",
+  "words": [
+   [
+    "abone",
+    0.4997711181640625
+   ],
+   [
+    "ol",
+    0.98876953125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -1.0904947916666667
+ },
+ "vocal-sigh-m1729": {
+  "text": "Haaa",
+  "words": [
+   [
+    "Haaa",
+    0.14752197265625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -1.0390625
+ },
+ "vocal-sigh-m1948": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.778717041015625
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.9990234375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.376065346327695
+ },
+ "vocal-sigh-m2053": {
+  "text": "Haaaah",
+  "words": [
+   [
+    "Haaaah",
+    0.2721150716145833
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -1.04882816473643
+ },
+ "vocal-sigh-m2256": {
+  "text": "Hmm.",
+  "words": [
+   [
+    "Hmm.",
+    0.81787109375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.5828125
+ },
+ "vocal-sigh-m2444": {
+  "text": "Ah...",
+  "words": [
+   [
+    "Ah...",
+    0.24078369140625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.9171875
+ },
+ "vocal-sigh-m2477": {
+  "text": "Sıvı",
+  "words": [
+   [
+    "Sıvı",
+    0.172454833984375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -1.2924107142857142
+ },
+ "vocal-sigh-m2479": {
+  "text": "yele yele maradzuu yıza yıza yıza yıza yıza yıza yıza",
+  "words": [
+   [
+    "yele",
+    0.248260498046875
+   ],
+   [
+    "yele",
+    0.6226806640625
+   ],
+   [
+    "maradzuu",
+    0.446746826171875
+   ],
+   [
+    "yıza",
+    0.15049235026041666
+   ],
+   [
+    "yıza",
+    0.7024739583333334
+   ],
+   [
+    "yıza",
+    0.8758138020833334
+   ],
+   [
+    "yıza",
+    0.9309895833333334
+   ],
+   [
+    "yıza",
+    0.9537760416666666
+   ],
+   [
+    "yıza",
+    0.9638671875
+   ],
+   [
+    "yıza",
+    0.96923828125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 5.960464477539062e-07,
+  "avg_logprob": -0.6601562555879354
+ },
+ "vocal-sigh-m2600": {
+  "text": "Sıfır.",
+  "words": [
+   [
+    "Sıfır.",
+    0.2691497802734375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -1.0429687350988388
+ },
+ "vocal-sigh-m2955": {
+  "text": "Ah, ah.",
+  "words": [
+   [
+    "Ah,",
+    0.0989990234375
+   ],
+   [
+    "ah.",
+    0.8447265625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.9514508587973458
+ },
+ "vocal-sigh-m3150": {
+  "text": "abone ol",
+  "words": [
+   [
+    "abone",
+    0.5124053955078125
+   ],
+   [
+    "ol",
+    0.99072265625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.9127603967984518
+ },
+ "vocal-sigh-m3325": {
+  "text": "abone ol",
+  "words": [
+   [
+    "abone",
+    0.527374267578125
+   ],
+   [
+    "ol",
+    0.9892578125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.8958333730697632
+ },
+ "vocal-sneeze-f0179": {
+  "text": "Çık!",
+  "words": [
+   [
+    "Çık!",
+    0.349609375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.8151041467984518
+ },
+ "vocal-sneeze-f0619": {
+  "text": "Hı hı",
+  "words": [
+   [
+    "Hı",
+    0.3438720703125
+   ],
+   [
+    "hı",
+    0.59820556640625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.8861606802259173
+ },
+ "vocal-sneeze-f0651": {
+  "text": "Açık!",
+  "words": [
+   [
+    "Açık!",
+    0.3033854166666667
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.7873884098870414
+ },
+ "vocal-sneeze-f0678": {
+  "text": "A-choo!",
+  "words": [
+   [
+    "A",
+    0.357421875
+   ],
+   [
+    "-choo!",
+    0.589599609375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.6918945387005806
+ },
+ "vocal-sneeze-f0969": {
+  "text": "Atın!",
+  "words": [
+   [
+    "Atın!",
+    0.4892578125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.6663411358992258
+ },
+ "vocal-sneeze-f1189": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.7577285766601562
+   ],
+   [
+    "M",
+    0.99560546875
+   ],
+   [
+    ".K.",
+    0.9990234375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.3196022727272727
+ },
+ "vocal-sneeze-f1380": {
+  "text": "A...",
+  "words": [
+   [
+    "A...",
+    0.14898681640625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -1.1
+ },
+ "vocal-sneeze-f1517": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.82598876953125
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.14506391503594138
+ },
+ "vocal-sneeze-f1685": {
+  "text": "Let's go!",
+  "words": [
+   [
+    "Let's",
+    0.5147247314453125
+   ],
+   [
+    "go!",
+    0.70263671875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.7578124829701015
+ },
+ "vocal-sneeze-f1857": {
+  "text": "abone ol",
+  "words": [
+   [
+    "abone",
+    0.517242431640625
+   ],
+   [
+    "ol",
+    0.97216796875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.7786458233992258
+ },
+ "vocal-sneeze-f1947": {
+  "text": "abone ol",
+  "words": [
+   [
+    "abone",
+    0.5113983154296875
+   ],
+   [
+    "ol",
+    0.98779296875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.8958333730697632
+ },
+ "vocal-sneeze-f2259": {
+  "text": "Ok.",
+  "words": [
+   [
+    "Ok.",
+    0.08526611328125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.98203125
+ },
+ "vocal-sneeze-f2322": {
+  "text": "Aşk",
+  "words": [
+   [
+    "Aşk",
+    0.197723388671875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -1.0651042064030964
+ },
+ "vocal-sneeze-f2365": {
+  "text": "Açık",
+  "words": [
+   [
+    "Açık",
+    0.5232747395833334
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.693359375
+ },
+ "vocal-sneeze-f2380": {
+  "text": "abone ol",
+  "words": [
+   [
+    "abone",
+    0.5119476318359375
+   ],
+   [
+    "ol",
+    0.99169921875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.9700520833333334
+ },
+ "vocal-sneeze-m0256": {
+  "text": "Çık",
+  "words": [
+   [
+    "Çık",
+    0.18426513671875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -1.02890625
+ },
+ "vocal-sneeze-m0260": {
+  "text": "abone ol",
+  "words": [
+   [
+    "abone",
+    0.5142974853515625
+   ],
+   [
+    "ol",
+    0.99169921875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -1.0091145833333333
+ },
+ "vocal-sneeze-m0297": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.7356338500976562
+   ],
+   [
+    "M",
+    0.9921875
+   ],
+   [
+    ".K.",
+    0.997314453125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.3041548349640586
+ },
+ "vocal-sneeze-m0361": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.84942626953125
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.11638849973678589
+ },
+ "vocal-sneeze-m0490": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.756591796875
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.9990234375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.38103694265538995
+ },
+ "vocal-sneeze-m0987": {
+  "text": "Fırçı!",
+  "words": [
+   [
+    "Fırçı!",
+    0.319427490234375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.8940430134534836
+ },
+ "vocal-sneeze-m1206": {
+  "text": "Adio",
+  "words": [
+   [
+    "Adio",
+    0.2604522705078125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -1.23828125
+ },
+ "vocal-sneeze-m1296": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.81134033203125
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1604225825179707
+ },
+ "vocal-sneeze-m1564": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8157958984375
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.19140625541860407
+ },
+ "vocal-sneeze-m2555": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.789154052734375
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.24698154492811722
+ },
+ "vocal-sneeze-m2571": {
+  "text": "Peki.",
+  "words": [
+   [
+    "Peki.",
+    0.03472900390625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -1.0640625
+ },
+ "vocal-sneeze-m2582": {
+  "text": "Hatsh!",
+  "words": [
+   [
+    "Hatsh!",
+    0.3801676432291667
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -1.0139509269169398
+ },
+ "vocal-sneeze-m2820": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.05206298828125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -1.065625
+ },
+ "vocal-sneeze-m3267": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.85479736328125
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.14115767045454544
+ },
+ "vocal-sneeze-m3354": {
+  "text": "Henk! Henk!",
+  "words": [
+   [
+    "Henk!",
+    0.421142578125
+   ],
+   [
+    "Henk!",
+    0.99658203125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.7387152777777778
+ },
+ "vocal-sniff-f0125": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8275146484375
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.2066761390729384
+ },
+ "vocal-sniff-f0134": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.81591796875
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.19584517587314954
+ },
+ "vocal-sniff-f0513": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8154296875
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.20862926136363635
+ },
+ "vocal-sniff-f0581": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8570556640625
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.12792969291860407
+ },
+ "vocal-sniff-f0692": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.819580078125
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.16068892045454544
+ },
+ "vocal-sniff-f0974": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8272705078125
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.15829190611839294
+ },
+ "vocal-sniff-f1020": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.83245849609375
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1547407697547566
+ },
+ "vocal-sniff-f1070": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.82421875
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.15731533819978888
+ },
+ "vocal-sniff-f1236": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8392333984375
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1400035484270616
+ },
+ "vocal-sniff-f1414": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8551025390625
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.13050426136363635
+ },
+ "vocal-sniff-f2168": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.2318115234375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.8355034722222222
+ },
+ "vocal-sniff-f2169": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.7701568603515625
+   ],
+   [
+    "M",
+    0.99658203125
+   ],
+   [
+    ".K.",
+    0.999267578125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.34055398269133136
+ },
+ "vocal-sniff-f2400": {
+  "text": "abone ol",
+  "words": [
+   [
+    "abone",
+    0.540435791015625
+   ],
+   [
+    "ol",
+    0.990234375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.8893229564030966
+ },
+ "vocal-sniff-f2714": {
+  "text": "Hırf! Hırf!",
+  "words": [
+   [
+    "Hırf!",
+    0.19940185546875
+   ],
+   [
+    "Hırf!",
+    0.98095703125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.750710205598311
+ },
+ "vocal-sniff-f3054": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8358154296875
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999267578125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.14044744047251614
+ },
+ "vocal-sniff-m0049": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.81427001953125
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1878551190549677
+ },
+ "vocal-sniff-m0129": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.81103515625
+   ],
+   [
+    "M",
+    0.99658203125
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.20472301678224045
+ },
+ "vocal-sniff-m0372": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.6863632202148438
+   ],
+   [
+    "M",
+    0.9951171875
+   ],
+   [
+    ".K.",
+    0.998291015625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.5621448972008445
+ },
+ "vocal-sniff-m0376": {
+  "text": "abone ol",
+  "words": [
+   [
+    "abone",
+    0.532318115234375
+   ],
+   [
+    "ol",
+    0.9892578125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.8385416865348816
+ },
+ "vocal-sniff-m0542": {
+  "text": "abone ol",
+  "words": [
+   [
+    "abone",
+    0.56298828125
+   ],
+   [
+    "ol",
+    0.9912109375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.8229166766007742
+ },
+ "vocal-sniff-m0898": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.854248046875
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1284623552452434
+ },
+ "vocal-sniff-m0904": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8489990234375
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1301491531458768
+ },
+ "vocal-sniff-m0935": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8564453125
+   ],
+   [
+    "M",
+    0.998046875
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1759588041088798
+ },
+ "vocal-sniff-m0943": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.83599853515625
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.15349786389957776
+ },
+ "vocal-sniff-m1065": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.804473876953125
+   ],
+   [
+    "M",
+    0.99658203125
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.2034801109270616
+ },
+ "vocal-sniff-m2053": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.85986328125
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.13405539772727273
+ },
+ "vocal-sniff-m2158": {
+  "text": "abone ol",
+  "words": [
+   [
+    "abone",
+    0.5421142578125
+   ],
+   [
+    "ol",
+    0.99169921875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.8138020833333334
+ },
+ "vocal-sniff-m2212": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.7750396728515625
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.2711292559450323
+ },
+ "vocal-sniff-m2361": {
+  "text": "Çık, çık, çık.",
+  "words": [
+   [
+    "Çık,",
+    0.744873046875
+   ],
+   [
+    "çık,",
+    0.94580078125
+   ],
+   [
+    "çık.",
+    0.977294921875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.4485677108168602
+ },
+ "vocal-sniff-m2457": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.803955078125
+   ],
+   [
+    "M",
+    0.99609375
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.19016334956342523
+ },
+ "vocal-throatclearing-f0028": {
+  "text": "Hı hı hı",
+  "words": [
+   [
+    "Hı",
+    0.198272705078125
+   ],
+   [
+    "hı",
+    0.76611328125
+   ],
+   [
+    "hı",
+    0.875244140625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.78515625
+ },
+ "vocal-throatclearing-f0116": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.86602783203125
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1310369372367859
+ },
+ "vocal-throatclearing-f0384": {
+  "text": "Sıkkım.",
+  "words": [
+   [
+    "Sıkkım.",
+    0.36766815185546875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -1.052734375
+ },
+ "vocal-throatclearing-f0649": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.794921875
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999267578125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.258877846327695
+ },
+ "vocal-throatclearing-f0800": {
+  "text": "Ahem, ahem.",
+  "words": [
+   [
+    "Ahem,",
+    0.249114990234375
+   ],
+   [
+    "ahem.",
+    0.98828125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.7795138888888888
+ },
+ "vocal-throatclearing-f1048": {
+  "text": "İzlediğiniz için teşekkür ederim.",
+  "words": [
+   [
+    "İzlediğiniz",
+    0.718505859375
+   ],
+   [
+    "için",
+    0.994140625
+   ],
+   [
+    "teşekkür",
+    0.998046875
+   ],
+   [
+    "ederim.",
+    0.83935546875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.451171875
+ },
+ "vocal-throatclearing-f1361": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.7692413330078125
+   ],
+   [
+    "M",
+    0.99365234375
+   ],
+   [
+    ".K.",
+    0.9990234375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.2750355005264282
+ },
+ "vocal-throatclearing-f1680": {
+  "text": "Hı hı hı",
+  "words": [
+   [
+    "Hı",
+    0.30682373046875
+   ],
+   [
+    "hı",
+    0.6705322265625
+   ],
+   [
+    "hı",
+    0.893310546875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.6883680555555556
+ },
+ "vocal-throatclearing-f1771": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.769866943359375
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.998291015625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.3785511309450323
+ },
+ "vocal-throatclearing-f2450": {
+  "text": "Oh, oh, oh, oh, oh, oh, oh, oh, oh.",
+  "words": [
+   [
+    "Oh,",
+    0.03167724609375
+   ],
+   [
+    "oh,",
+    0.8232421875
+   ],
+   [
+    "oh,",
+    0.98828125
+   ],
+   [
+    "oh,",
+    0.97900390625
+   ],
+   [
+    "oh,",
+    0.97021484375
+   ],
+   [
+    "oh,",
+    0.97119140625
+   ],
+   [
+    "oh,",
+    0.97900390625
+   ],
+   [
+    "oh,",
+    0.986328125
+   ],
+   [
+    "oh.",
+    0.99072265625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.47135415531340097
+ },
+ "vocal-throatclearing-f2686": {
+  "text": "İzlediğiniz için teşekkür ederim.",
+  "words": [
+   [
+    "İzlediğiniz",
+    0.71607666015625
+   ],
+   [
+    "için",
+    0.9931640625
+   ],
+   [
+    "teşekkür",
+    0.99853515625
+   ],
+   [
+    "ederim.",
+    0.86865234375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.4794921775658925
+ },
+ "vocal-throatclearing-f2942": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.759063720703125
+   ],
+   [
+    "M",
+    0.99560546875
+   ],
+   [
+    ".K.",
+    0.99853515625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.3567116368900646
+ },
+ "vocal-throatclearing-f3001": {
+  "text": "abone ol",
+  "words": [
+   [
+    "abone",
+    0.558837890625
+   ],
+   [
+    "ol",
+    0.99365234375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.8190104365348816
+ },
+ "vocal-throatclearing-f3111": {
+  "text": "İzlediğiniz için teşekkür ederim.",
+  "words": [
+   [
+    "İzlediğiniz",
+    0.721319580078125
+   ],
+   [
+    "için",
+    0.990234375
+   ],
+   [
+    "teşekkür",
+    0.99755859375
+   ],
+   [
+    "ederim.",
+    0.826171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.6210937450329462
+ },
+ "vocal-throatclearing-f3156": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.7757568359375
+   ],
+   [
+    "M",
+    0.9970703125
+   ],
+   [
+    ".K.",
+    0.9990234375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.27148436416279187
+ },
+ "vocal-throatclearing-m0263": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.798828125
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.22318891503594138
+ },
+ "vocal-throatclearing-m0341": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8565673828125
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.11416903950951317
+ },
+ "vocal-throatclearing-m0446": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.7591171264648438
+   ],
+   [
+    "M",
+    0.9970703125
+   ],
+   [
+    ".K.",
+    0.99853515625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.41264203461733734
+ },
+ "vocal-throatclearing-m0452": {
+  "text": "abone ol",
+  "words": [
+   [
+    "abone",
+    0.548797607421875
+   ],
+   [
+    "ol",
+    0.98681640625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.6894531349341074
+ },
+ "vocal-throatclearing-m0459": {
+  "text": "abone ol",
+  "words": [
+   [
+    "abone",
+    0.5275421142578125
+   ],
+   [
+    "ol",
+    0.9892578125
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.8424478769302368
+ },
+ "vocal-throatclearing-m0586": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8822021484375
+   ],
+   [
+    "M",
+    0.99853515625
+   ],
+   [
+    ".K.",
+    0.999755859375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.08398437364534898
+ },
+ "vocal-throatclearing-m0798": {
+  "text": "Ahem, ahem.",
+  "words": [
+   [
+    "Ahem,",
+    0.450347900390625
+   ],
+   [
+    "ahem.",
+    0.989013671875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.5750868055555556
+ },
+ "vocal-throatclearing-m0861": {
+  "text": "Evet.",
+  "words": [
+   [
+    "Evet.",
+    0.0321044921875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -1.0171875
+ },
+ "vocal-throatclearing-m1471": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.8052978515625
+   ],
+   [
+    "M",
+    0.99609375
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.17720170996405862
+ },
+ "vocal-throatclearing-m1905": {
+  "text": "abone ol",
+  "words": [
+   [
+    "abone",
+    0.557037353515625
+   ],
+   [
+    "ol",
+    0.98974609375
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.7415364682674408
+ },
+ "vocal-throatclearing-m1950": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.798583984375
+   ],
+   [
+    "M",
+    0.99658203125
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.3045099431818182
+ },
+ "vocal-throatclearing-m2052": {
+  "text": "abone ol",
+  "words": [
+   [
+    "abone",
+    0.55987548828125
+   ],
+   [
+    "ol",
+    0.994140625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.7382812599341074
+ },
+ "vocal-throatclearing-m2473": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.808624267578125
+   ],
+   [
+    "M",
+    0.99755859375
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.1781782643361525
+ },
+ "vocal-throatclearing-m2708": {
+  "text": "Altyazı M.K.",
+  "words": [
+   [
+    "Altyazı",
+    0.7718048095703125
+   ],
+   [
+    "M",
+    0.9970703125
+   ],
+   [
+    ".K.",
+    0.99951171875
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.28710936958139593
+ },
+ "vocal-throatclearing-m2759": {
+  "text": "Ahem.",
+  "words": [
+   [
+    "Ahem.",
+    0.668212890625
+   ]
+  ],
+  "conf": null,
+  "no_speech_prob": 0.0,
+  "avg_logprob": -0.5006510516007742
+ }
+}

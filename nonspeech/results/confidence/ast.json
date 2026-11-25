@@ -1,0 +1,7550 @@
+{
+ "ctrl-bir-saniye-standard-a": {
+  "speech": 0.8446,
+  "top": [
+   [
+    "Speech",
+    0.845
+   ],
+   [
+    "Grunt",
+    0.219
+   ],
+   [
+    "Cattle, bovinae",
+    0.075
+   ]
+  ]
+ },
+ "ctrl-bir-saniye-standard-b": {
+  "speech": 0.7849,
+  "top": [
+   [
+    "Speech",
+    0.785
+   ],
+   [
+    "Male speech, man speaking",
+    0.117
+   ],
+   [
+    "Sound effect",
+    0.049
+   ]
+  ]
+ },
+ "ctrl-bir-saniye-wavenet-c": {
+  "speech": 0.8461,
+  "top": [
+   [
+    "Speech",
+    0.846
+   ],
+   [
+    "Child speech, kid speaking",
+    0.154
+   ],
+   [
+    "Meow",
+    0.091
+   ]
+  ]
+ },
+ "ctrl-bir-saniye-wavenet-e": {
+  "speech": 0.8455,
+  "top": [
+   [
+    "Speech",
+    0.845
+   ],
+   [
+    "Male speech, man speaking",
+    0.127
+   ],
+   [
+    "Speech synthesizer",
+    0.047
+   ]
+  ]
+ },
+ "ctrl-cough+evet-standard-a": {
+  "speech": 0.7732,
+  "top": [
+   [
+    "Throat clearing",
+    0.827
+   ],
+   [
+    "Speech",
+    0.773
+   ],
+   [
+    "Fart",
+    0.161
+   ]
+  ]
+ },
+ "ctrl-cough+evet-standard-b": {
+  "speech": 0.7546,
+  "top": [
+   [
+    "Throat clearing",
+    0.923
+   ],
+   [
+    "Speech",
+    0.755
+   ],
+   [
+    "Chopping (food)",
+    0.391
+   ]
+  ]
+ },
+ "ctrl-cough+evet-wavenet-c": {
+  "speech": 0.747,
+  "top": [
+   [
+    "Throat clearing",
+    0.904
+   ],
+   [
+    "Speech",
+    0.747
+   ],
+   [
+    "Cough",
+    0.306
+   ]
+  ]
+ },
+ "ctrl-cough+hayir-standard-a": {
+  "speech": 0.8447,
+  "top": [
+   [
+    "Throat clearing",
+    0.872
+   ],
+   [
+    "Speech",
+    0.845
+   ],
+   [
+    "Sigh",
+    0.566
+   ]
+  ]
+ },
+ "ctrl-cough+hayir-standard-b": {
+  "speech": 0.8306,
+  "top": [
+   [
+    "Throat clearing",
+    0.84
+   ],
+   [
+    "Speech",
+    0.831
+   ],
+   [
+    "Cough",
+    0.276
+   ]
+  ]
+ },
+ "ctrl-cough+hayir-wavenet-c": {
+  "speech": 0.8162,
+  "top": [
+   [
+    "Throat clearing",
+    0.901
+   ],
+   [
+    "Speech",
+    0.816
+   ],
+   [
+    "Cough",
+    0.35
+   ]
+  ]
+ },
+ "ctrl-cough+tamam-standard-a": {
+  "speech": 0.8099,
+  "top": [
+   [
+    "Throat clearing",
+    0.917
+   ],
+   [
+    "Speech",
+    0.81
+   ],
+   [
+    "Grunt",
+    0.107
+   ]
+  ]
+ },
+ "ctrl-cough+tamam-standard-b": {
+  "speech": 0.8072,
+  "top": [
+   [
+    "Throat clearing",
+    0.831
+   ],
+   [
+    "Speech",
+    0.807
+   ],
+   [
+    "Gasp",
+    0.463
+   ]
+  ]
+ },
+ "ctrl-evet-onay-standard-a": {
+  "speech": 0.8537,
+  "top": [
+   [
+    "Speech",
+    0.854
+   ],
+   [
+    "Male speech, man speaking",
+    0.246
+   ],
+   [
+    "Throat clearing",
+    0.077
+   ]
+  ]
+ },
+ "ctrl-evet-onay-standard-b": {
+  "speech": 0.7991,
+  "top": [
+   [
+    "Speech",
+    0.799
+   ],
+   [
+    "Male speech, man speaking",
+    0.161
+   ],
+   [
+    "Quack",
+    0.039
+   ]
+  ]
+ },
+ "ctrl-evet-onay-wavenet-c": {
+  "speech": 0.8568,
+  "top": [
+   [
+    "Speech",
+    0.857
+   ],
+   [
+    "Male speech, man speaking",
+    0.103
+   ],
+   [
+    "Speech synthesizer",
+    0.067
+   ]
+  ]
+ },
+ "ctrl-evet-onay-wavenet-e": {
+  "speech": 0.7925,
+  "top": [
+   [
+    "Speech",
+    0.793
+   ],
+   [
+    "Male speech, man speaking",
+    0.204
+   ],
+   [
+    "Grunt",
+    0.05
+   ]
+  ]
+ },
+ "ctrl-evet-standard-a": {
+  "speech": 0.7065,
+  "top": [
+   [
+    "Speech",
+    0.707
+   ],
+   [
+    "Male speech, man speaking",
+    0.077
+   ],
+   [
+    "Throat clearing",
+    0.07
+   ]
+  ]
+ },
+ "ctrl-evet-standard-b": {
+  "speech": 0.7748,
+  "top": [
+   [
+    "Speech",
+    0.775
+   ],
+   [
+    "Male speech, man speaking",
+    0.116
+   ],
+   [
+    "Vehicle",
+    0.046
+   ]
+  ]
+ },
+ "ctrl-evet-wavenet-c": {
+  "speech": 0.783,
+  "top": [
+   [
+    "Speech",
+    0.783
+   ],
+   [
+    "Male speech, man speaking",
+    0.095
+   ],
+   [
+    "Grunt",
+    0.062
+   ]
+  ]
+ },
+ "ctrl-evet-wavenet-e": {
+  "speech": 0.7161,
+  "top": [
+   [
+    "Speech",
+    0.716
+   ],
+   [
+    "Male speech, man speaking",
+    0.13
+   ],
+   [
+    "Sound effect",
+    0.052
+   ]
+  ]
+ },
+ "ctrl-hayir-standard-a": {
+  "speech": 0.8687,
+  "top": [
+   [
+    "Speech",
+    0.869
+   ],
+   [
+    "Sigh",
+    0.552
+   ],
+   [
+    "Grunt",
+    0.252
+   ]
+  ]
+ },
+ "ctrl-hayir-standard-b": {
+  "speech": 0.8341,
+  "top": [
+   [
+    "Speech",
+    0.834
+   ],
+   [
+    "Male speech, man speaking",
+    0.218
+   ],
+   [
+    "Narration, monologue",
+    0.037
+   ]
+  ]
+ },
+ "ctrl-hayir-wavenet-c": {
+  "speech": 0.8428,
+  "top": [
+   [
+    "Speech",
+    0.843
+   ],
+   [
+    "Grunt",
+    0.059
+   ],
+   [
+    "Sound effect",
+    0.053
+   ]
+  ]
+ },
+ "ctrl-hayir-wavenet-e": {
+  "speech": 0.8309,
+  "top": [
+   [
+    "Speech",
+    0.831
+   ],
+   [
+    "Male speech, man speaking",
+    0.281
+   ],
+   [
+    "Speech synthesizer",
+    0.079
+   ]
+  ]
+ },
+ "ctrl-olur-standard-a": {
+  "speech": 0.8048,
+  "top": [
+   [
+    "Speech",
+    0.805
+   ],
+   [
+    "Male speech, man speaking",
+    0.124
+   ],
+   [
+    "Gasp",
+    0.044
+   ]
+  ]
+ },
+ "ctrl-olur-standard-b": {
+  "speech": 0.7992,
+  "top": [
+   [
+    "Speech",
+    0.799
+   ],
+   [
+    "Male speech, man speaking",
+    0.2
+   ],
+   [
+    "Grunt",
+    0.055
+   ]
+  ]
+ },
+ "ctrl-olur-wavenet-c": {
+  "speech": 0.8296,
+  "top": [
+   [
+    "Speech",
+    0.83
+   ],
+   [
+    "Male speech, man speaking",
+    0.064
+   ],
+   [
+    "Gasp",
+    0.061
+   ]
+  ]
+ },
+ "ctrl-olur-wavenet-e": {
+  "speech": 0.7731,
+  "top": [
+   [
+    "Speech",
+    0.773
+   ],
+   [
+    "Male speech, man speaking",
+    0.124
+   ],
+   [
+    "Sound effect",
+    0.036
+   ]
+  ]
+ },
+ "ctrl-tamam-standard-a": {
+  "speech": 0.8293,
+  "top": [
+   [
+    "Speech",
+    0.829
+   ],
+   [
+    "Grunt",
+    0.109
+   ],
+   [
+    "Sound effect",
+    0.062
+   ]
+  ]
+ },
+ "ctrl-tamam-standard-b": {
+  "speech": 0.7734,
+  "top": [
+   [
+    "Speech",
+    0.773
+   ],
+   [
+    "Male speech, man speaking",
+    0.182
+   ],
+   [
+    "Sound effect",
+    0.04
+   ]
+  ]
+ },
+ "ctrl-tamam-wavenet-c": {
+  "speech": 0.8484,
+  "top": [
+   [
+    "Speech",
+    0.848
+   ],
+   [
+    "Grunt",
+    0.143
+   ],
+   [
+    "Sound effect",
+    0.087
+   ]
+  ]
+ },
+ "ctrl-tamam-wavenet-e": {
+  "speech": 0.7213,
+  "top": [
+   [
+    "Speech",
+    0.721
+   ],
+   [
+    "Male speech, man speaking",
+    0.172
+   ],
+   [
+    "Sound effect",
+    0.031
+   ]
+  ]
+ },
+ "env-breathing-1-30709-A-23": {
+  "speech": 0.098,
+  "top": [
+   [
+    "Snort",
+    0.772
+   ],
+   [
+    "Gasp",
+    0.609
+   ],
+   [
+    "Sigh",
+    0.321
+   ]
+  ]
+ },
+ "env-breathing-2-50774-A-23": {
+  "speech": 0.0312,
+  "top": [
+   [
+    "Snort",
+    0.802
+   ],
+   [
+    "Gasp",
+    0.562
+   ],
+   [
+    "Silence",
+    0.175
+   ]
+  ]
+ },
+ "env-breathing-2-54961-A-23": {
+  "speech": 0.0927,
+  "top": [
+   [
+    "Snort",
+    0.73
+   ],
+   [
+    "Gasp",
+    0.589
+   ],
+   [
+    "Sigh",
+    0.321
+   ]
+  ]
+ },
+ "env-breathing-2-82455-A-23": {
+  "speech": 0.0975,
+  "top": [
+   [
+    "Gasp",
+    0.448
+   ],
+   [
+    "Snort",
+    0.287
+   ],
+   [
+    "Sound effect",
+    0.262
+   ]
+  ]
+ },
+ "env-breathing-2-95567-A-23": {
+  "speech": 0.0591,
+  "top": [
+   [
+    "Gasp",
+    0.73
+   ],
+   [
+    "Snort",
+    0.709
+   ],
+   [
+    "Sigh",
+    0.084
+   ]
+  ]
+ },
+ "env-breathing-3-112557-A-23": {
+  "speech": 0.0194,
+  "top": [
+   [
+    "Gasp",
+    0.815
+   ],
+   [
+    "Snort",
+    0.372
+   ],
+   [
+    "Sneeze",
+    0.092
+   ]
+  ]
+ },
+ "env-breathing-3-144128-A-23": {
+  "speech": 0.0596,
+  "top": [
+   [
+    "Snort",
+    0.588
+   ],
+   [
+    "Gasp",
+    0.472
+   ],
+   [
+    "Sigh",
+    0.372
+   ]
+  ]
+ },
+ "env-breathing-4-207116-A-23": {
+  "speech": 0.1303,
+  "top": [
+   [
+    "Snort",
+    0.64
+   ],
+   [
+    "Gasp",
+    0.5
+   ],
+   [
+    "Sound effect",
+    0.191
+   ]
+  ]
+ },
+ "env-breathing-5-233260-A-23": {
+  "speech": 0.0594,
+  "top": [
+   [
+    "Snort",
+    0.548
+   ],
+   [
+    "Gasp",
+    0.416
+   ],
+   [
+    "Sound effect",
+    0.174
+   ]
+  ]
+ },
+ "env-breathing-5-238492-A-23": {
+  "speech": 0.1018,
+  "top": [
+   [
+    "Snort",
+    0.663
+   ],
+   [
+    "Gasp",
+    0.495
+   ],
+   [
+    "Chopping (food)",
+    0.217
+   ]
+  ]
+ },
+ "env-can_opening-1-41615-A-34": {
+  "speech": 0.0595,
+  "top": [
+   [
+    "Finger snapping",
+    0.834
+   ],
+   [
+    "Silence",
+    0.175
+   ],
+   [
+    "Ping",
+    0.118
+   ]
+  ]
+ },
+ "env-can_opening-2-144031-A-34": {
+  "speech": 0.0416,
+  "top": [
+   [
+    "Silence",
+    0.175
+   ],
+   [
+    "Cap gun",
+    0.148
+   ],
+   [
+    "Music",
+    0.085
+   ]
+  ]
+ },
+ "env-can_opening-2-81112-A-34": {
+  "speech": 0.0809,
+  "top": [
+   [
+    "Biting",
+    0.182
+   ],
+   [
+    "Crunch",
+    0.181
+   ],
+   [
+    "Finger snapping",
+    0.109
+   ]
+  ]
+ },
+ "env-can_opening-2-81190-A-34": {
+  "speech": 0.1174,
+  "top": [
+   [
+    "Whip",
+    0.421
+   ],
+   [
+    "Silence",
+    0.175
+   ],
+   [
+    "Speech",
+    0.117
+   ]
+  ]
+ },
+ "env-can_opening-3-147342-A-34": {
+  "speech": 0.0632,
+  "top": [
+   [
+    "Silence",
+    0.175
+   ],
+   [
+    "Music",
+    0.085
+   ],
+   [
+    "Coin (dropping)",
+    0.077
+   ]
+  ]
+ },
+ "env-can_opening-3-148932-A-34": {
+  "speech": 0.0622,
+  "top": [
+   [
+    "Biting",
+    0.204
+   ],
+   [
+    "Silence",
+    0.175
+   ],
+   [
+    "Crunch",
+    0.102
+   ]
+  ]
+ },
+ "env-can_opening-4-215635-A-34": {
+  "speech": 0.0681,
+  "top": [
+   [
+    "Finger snapping",
+    0.969
+   ],
+   [
+    "Ping",
+    0.179
+   ],
+   [
+    "Silence",
+    0.175
+   ]
+  ]
+ },
+ "env-can_opening-5-236299-A-34": {
+  "speech": 0.0294,
+  "top": [
+   [
+    "Whip",
+    0.667
+   ],
+   [
+    "Silence",
+    0.175
+   ],
+   [
+    "Slap, smack",
+    0.111
+   ]
+  ]
+ },
+ "env-can_opening-5-244327-A-34": {
+  "speech": 0.0327,
+  "top": [
+   [
+    "Finger snapping",
+    0.941
+   ],
+   [
+    "Slap, smack",
+    0.21
+   ],
+   [
+    "Crunch",
+    0.15
+   ]
+  ]
+ },
+ "env-can_opening-5-250753-A-34": {
+  "speech": 0.2345,
+  "top": [
+   [
+    "Sigh",
+    0.372
+   ],
+   [
+    "Speech",
+    0.235
+   ],
+   [
+    "Sound effect",
+    0.196
+   ]
+  ]
+ },
+ "env-car_horn-1-19026-A-43": {
+  "speech": 0.066,
+  "top": [
+   [
+    "Vehicle horn, car horn, honking",
+    0.826
+   ],
+   [
+    "Bell",
+    0.223
+   ],
+   [
+    "Silence",
+    0.175
+   ]
+  ]
+ },
+ "env-car_horn-1-28808-A-43": {
+  "speech": 0.5473,
+  "top": [
+   [
+    "Music",
+    0.731
+   ],
+   [
+    "Vehicle horn, car horn, honking",
+    0.708
+   ],
+   [
+    "Speech",
+    0.547
+   ]
+  ]
+ },
+ "env-car_horn-2-100648-A-43": {
+  "speech": 0.2029,
+  "top": [
+   [
+    "Vehicle horn, car horn, honking",
+    0.608
+   ],
+   [
+    "Vehicle",
+    0.471
+   ],
+   [
+    "Music",
+    0.29
+   ]
+  ]
+ },
+ "env-car_horn-2-125520-A-43": {
+  "speech": 0.018,
+  "top": [
+   [
+    "Vehicle horn, car horn, honking",
+    0.878
+   ],
+   [
+    "Vehicle",
+    0.311
+   ],
+   [
+    "Air horn, truck horn",
+    0.183
+   ]
+  ]
+ },
+ "env-car_horn-3-145577-A-43": {
+  "speech": 0.0382,
+  "top": [
+   [
+    "Vehicle horn, car horn, honking",
+    0.846
+   ],
+   [
+    "Silence",
+    0.175
+   ],
+   [
+    "Air horn, truck horn",
+    0.141
+   ]
+  ]
+ },
+ "env-car_horn-3-146697-A-43": {
+  "speech": 0.1551,
+  "top": [
+   [
+    "Vehicle",
+    0.64
+   ],
+   [
+    "Train",
+    0.276
+   ],
+   [
+    "Vehicle horn, car horn, honking",
+    0.236
+   ]
+  ]
+ },
+ "env-car_horn-3-153057-A-43": {
+  "speech": 0.0295,
+  "top": [
+   [
+    "Vehicle horn, car horn, honking",
+    0.62
+   ],
+   [
+    "Clang",
+    0.248
+   ],
+   [
+    "Silence",
+    0.175
+   ]
+  ]
+ },
+ "env-car_horn-3-155234-A-43": {
+  "speech": 0.3451,
+  "top": [
+   [
+    "Vehicle horn, car horn, honking",
+    0.429
+   ],
+   [
+    "Vehicle",
+    0.414
+   ],
+   [
+    "Speech",
+    0.345
+   ]
+  ]
+ },
+ "env-car_horn-5-179863-A-43": {
+  "speech": 0.0583,
+  "top": [
+   [
+    "Vehicle horn, car horn, honking",
+    0.406
+   ],
+   [
+    "Beep, bleep",
+    0.309
+   ],
+   [
+    "Buzzer",
+    0.267
+   ]
+  ]
+ },
+ "env-car_horn-5-180156-A-43": {
+  "speech": 0.1517,
+  "top": [
+   [
+    "Vehicle horn, car horn, honking",
+    0.577
+   ],
+   [
+    "Vehicle",
+    0.406
+   ],
+   [
+    "Music",
+    0.349
+   ]
+  ]
+ },
+ "env-clock_tick-1-48413-A-38": {
+  "speech": 0.0226,
+  "top": [
+   [
+    "Tick-tock",
+    0.41
+   ],
+   [
+    "Tick",
+    0.254
+   ],
+   [
+    "Knock",
+    0.108
+   ]
+  ]
+ },
+ "env-clock_tick-1-62850-A-38": {
+  "speech": 0.0793,
+  "top": [
+   [
+    "Vehicle horn, car horn, honking",
+    0.863
+   ],
+   [
+    "Throat clearing",
+    0.324
+   ],
+   [
+    "Music",
+    0.207
+   ]
+  ]
+ },
+ "env-clock_tick-2-131943-A-38": {
+  "speech": 0.015,
+  "top": [
+   [
+    "Tick-tock",
+    0.252
+   ],
+   [
+    "Tick",
+    0.142
+   ],
+   [
+    "Cowbell",
+    0.09
+   ]
+  ]
+ },
+ "env-clock_tick-2-141584-A-38": {
+  "speech": 0.0428,
+  "top": [
+   [
+    "Tick-tock",
+    0.373
+   ],
+   [
+    "Tick",
+    0.339
+   ],
+   [
+    "Beep, bleep",
+    0.287
+   ]
+  ]
+ },
+ "env-clock_tick-3-142593-A-38": {
+  "speech": 0.0254,
+  "top": [
+   [
+    "Typing",
+    0.169
+   ],
+   [
+    "Coin (dropping)",
+    0.144
+   ],
+   [
+    "Computer keyboard",
+    0.132
+   ]
+  ]
+ },
+ "env-clock_tick-3-150363-A-38": {
+  "speech": 0.0567,
+  "top": [
+   [
+    "Tick-tock",
+    0.267
+   ],
+   [
+    "Chink, clink",
+    0.148
+   ],
+   [
+    "Tick",
+    0.113
+   ]
+  ]
+ },
+ "env-clock_tick-5-208624-A-38": {
+  "speech": 0.2849,
+  "top": [
+   [
+    "Speech",
+    0.285
+   ],
+   [
+    "Quack",
+    0.187
+   ],
+   [
+    "Duck",
+    0.093
+   ]
+  ]
+ },
+ "env-clock_tick-5-209698-A-38": {
+  "speech": 0.0745,
+  "top": [
+   [
+    "Tick-tock",
+    0.573
+   ],
+   [
+    "Music",
+    0.535
+   ],
+   [
+    "Tick",
+    0.468
+   ]
+  ]
+ },
+ "env-clock_tick-5-209833-A-38": {
+  "speech": 0.0171,
+  "top": [
+   [
+    "Tick-tock",
+    0.511
+   ],
+   [
+    "Tick",
+    0.327
+   ],
+   [
+    "Clock",
+    0.074
+   ]
+  ]
+ },
+ "env-clock_tick-5-210571-A-38": {
+  "speech": 0.0301,
+  "top": [
+   [
+    "Hiccup",
+    0.537
+   ],
+   [
+    "Tick-tock",
+    0.141
+   ],
+   [
+    "Tick",
+    0.133
+   ]
+  ]
+ },
+ "env-coughing-1-19111-A-24": {
+  "speech": 0.0492,
+  "top": [
+   [
+    "Throat clearing",
+    0.757
+   ],
+   [
+    "Silence",
+    0.175
+   ],
+   [
+    "Cough",
+    0.141
+   ]
+  ]
+ },
+ "env-coughing-1-58792-A-24": {
+  "speech": 0.1929,
+  "top": [
+   [
+    "Throat clearing",
+    0.75
+   ],
+   [
+    "Screaming",
+    0.355
+   ],
+   [
+    "Gasp",
+    0.238
+   ]
+  ]
+ },
+ "env-coughing-2-98676-A-24": {
+  "speech": 0.3751,
+  "top": [
+   [
+    "Throat clearing",
+    0.833
+   ],
+   [
+    "Speech",
+    0.375
+   ],
+   [
+    "Silence",
+    0.175
+   ]
+  ]
+ },
+ "env-coughing-3-151212-A-24": {
+  "speech": 0.0794,
+  "top": [
+   [
+    "Throat clearing",
+    0.775
+   ],
+   [
+    "Gasp",
+    0.33
+   ],
+   [
+    "Sigh",
+    0.188
+   ]
+  ]
+ },
+ "env-coughing-3-151213-A-24": {
+  "speech": 0.0505,
+  "top": [
+   [
+    "Throat clearing",
+    0.831
+   ],
+   [
+    "Silence",
+    0.175
+   ],
+   [
+    "Cough",
+    0.16
+   ]
+  ]
+ },
+ "env-coughing-4-154443-A-24": {
+  "speech": 0.0509,
+  "top": [
+   [
+    "Throat clearing",
+    0.388
+   ],
+   [
+    "Silence",
+    0.175
+   ],
+   [
+    "Gasp",
+    0.148
+   ]
+  ]
+ },
+ "env-coughing-4-171396-A-24": {
+  "speech": 0.3721,
+  "top": [
+   [
+    "Throat clearing",
+    0.839
+   ],
+   [
+    "Speech",
+    0.372
+   ],
+   [
+    "Bleat",
+    0.242
+   ]
+  ]
+ },
+ "env-coughing-5-178997-A-24": {
+  "speech": 0.6492,
+  "top": [
+   [
+    "Speech",
+    0.649
+   ],
+   [
+    "Throat clearing",
+    0.348
+   ],
+   [
+    "Caw",
+    0.344
+   ]
+  ]
+ },
+ "env-coughing-5-184871-A-24": {
+  "speech": 0.0679,
+  "top": [
+   [
+    "Throat clearing",
+    0.88
+   ],
+   [
+    "Gasp",
+    0.315
+   ],
+   [
+    "Cough",
+    0.182
+   ]
+  ]
+ },
+ "env-coughing-5-251489-A-24": {
+  "speech": 0.0773,
+  "top": [
+   [
+    "Throat clearing",
+    0.788
+   ],
+   [
+    "Gasp",
+    0.574
+   ],
+   [
+    "Cough",
+    0.182
+   ]
+  ]
+ },
+ "env-crying_baby-1-187207-A-20": {
+  "speech": 0.2371,
+  "top": [
+   [
+    "Baby cry, infant cry",
+    0.64
+   ],
+   [
+    "Wail, moan",
+    0.315
+   ],
+   [
+    "Speech",
+    0.237
+   ]
+  ]
+ },
+ "env-crying_baby-1-60997-B-20": {
+  "speech": 0.1127,
+  "top": [
+   [
+    "Baby cry, infant cry",
+    0.893
+   ],
+   [
+    "Whimper",
+    0.259
+   ],
+   [
+    "Meow",
+    0.237
+   ]
+  ]
+ },
+ "env-crying_baby-3-151081-B-20": {
+  "speech": 0.082,
+  "top": [
+   [
+    "Baby cry, infant cry",
+    0.788
+   ],
+   [
+    "Whimper",
+    0.43
+   ],
+   [
+    "Mosquito",
+    0.363
+   ]
+  ]
+ },
+ "env-crying_baby-3-152007-C-20": {
+  "speech": 0.2085,
+  "top": [
+   [
+    "Baby cry, infant cry",
+    0.795
+   ],
+   [
+    "Gasp",
+    0.743
+   ],
+   [
+    "Meow",
+    0.641
+   ]
+  ]
+ },
+ "env-crying_baby-3-152007-E-20": {
+  "speech": 0.1719,
+  "top": [
+   [
+    "Baby cry, infant cry",
+    0.797
+   ],
+   [
+    "Wail, moan",
+    0.405
+   ],
+   [
+    "Howl",
+    0.397
+   ]
+  ]
+ },
+ "env-crying_baby-4-167077-B-20": {
+  "speech": 0.1662,
+  "top": [
+   [
+    "Baby cry, infant cry",
+    0.835
+   ],
+   [
+    "Bleat",
+    0.456
+   ],
+   [
+    "Whimper",
+    0.419
+   ]
+  ]
+ },
+ "env-crying_baby-4-185575-A-20": {
+  "speech": 0.7913,
+  "top": [
+   [
+    "Speech",
+    0.791
+   ],
+   [
+    "Baby cry, infant cry",
+    0.709
+   ],
+   [
+    "Fly, housefly",
+    0.324
+   ]
+  ]
+ },
+ "env-crying_baby-4-59579-A-20": {
+  "speech": 0.0536,
+  "top": [
+   [
+    "Baby cry, infant cry",
+    0.866
+   ],
+   [
+    "Meow",
+    0.269
+   ],
+   [
+    "Whimper",
+    0.268
+   ]
+  ]
+ },
+ "env-crying_baby-5-198411-A-20": {
+  "speech": 0.3243,
+  "top": [
+   [
+    "Sheep",
+    0.68
+   ],
+   [
+    "Meow",
+    0.64
+   ],
+   [
+    "Bleat",
+    0.632
+   ]
+  ]
+ },
+ "env-crying_baby-5-198411-F-20": {
+  "speech": 0.7218,
+  "top": [
+   [
+    "Speech",
+    0.722
+   ],
+   [
+    "Baby cry, infant cry",
+    0.443
+   ],
+   [
+    "Whistling",
+    0.406
+   ]
+  ]
+ },
+ "env-dog-1-100032-A-0": {
+  "speech": 0.0819,
+  "top": [
+   [
+    "Dog",
+    0.445
+   ],
+   [
+    "Animal",
+    0.361
+   ],
+   [
+    "Domestic animals, pets",
+    0.327
+   ]
+  ]
+ },
+ "env-dog-1-97392-A-0": {
+  "speech": 0.0426,
+  "top": [
+   [
+    "Dog",
+    0.561
+   ],
+   [
+    "Animal",
+    0.554
+   ],
+   [
+    "Domestic animals, pets",
+    0.491
+   ]
+  ]
+ },
+ "env-dog-3-136288-A-0": {
+  "speech": 0.2909,
+  "top": [
+   [
+    "Bow-wow",
+    0.615
+   ],
+   [
+    "Animal",
+    0.525
+   ],
+   [
+    "Domestic animals, pets",
+    0.464
+   ]
+  ]
+ },
+ "env-dog-3-144028-A-0": {
+  "speech": 0.1257,
+  "top": [
+   [
+    "Animal",
+    0.644
+   ],
+   [
+    "Dog",
+    0.565
+   ],
+   [
+    "Bow-wow",
+    0.533
+   ]
+  ]
+ },
+ "env-dog-3-163459-A-0": {
+  "speech": 0.1452,
+  "top": [
+   [
+    "Animal",
+    0.317
+   ],
+   [
+    "Dog",
+    0.295
+   ],
+   [
+    "Bow-wow",
+    0.269
+   ]
+  ]
+ },
+ "env-dog-3-180977-A-0": {
+  "speech": 0.3263,
+  "top": [
+   [
+    "Animal",
+    0.617
+   ],
+   [
+    "Dog",
+    0.601
+   ],
+   [
+    "Domestic animals, pets",
+    0.548
+   ]
+  ]
+ },
+ "env-dog-4-183992-A-0": {
+  "speech": 0.1053,
+  "top": [
+   [
+    "Animal",
+    0.56
+   ],
+   [
+    "Dog",
+    0.506
+   ],
+   [
+    "Domestic animals, pets",
+    0.477
+   ]
+  ]
+ },
+ "env-dog-4-191687-A-0": {
+  "speech": 0.0929,
+  "top": [
+   [
+    "Bark",
+    0.51
+   ],
+   [
+    "Animal",
+    0.493
+   ],
+   [
+    "Dog",
+    0.476
+   ]
+  ]
+ },
+ "env-dog-4-199261-A-0": {
+  "speech": 0.2107,
+  "top": [
+   [
+    "Animal",
+    0.564
+   ],
+   [
+    "Dog",
+    0.528
+   ],
+   [
+    "Domestic animals, pets",
+    0.424
+   ]
+  ]
+ },
+ "env-dog-4-207124-A-0": {
+  "speech": 0.0872,
+  "top": [
+   [
+    "Animal",
+    0.643
+   ],
+   [
+    "Domestic animals, pets",
+    0.533
+   ],
+   [
+    "Dog",
+    0.532
+   ]
+  ]
+ },
+ "env-door_wood_creaks-1-51805-B-33": {
+  "speech": 0.2115,
+  "top": [
+   [
+    "Owl",
+    0.708
+   ],
+   [
+    "Whistling",
+    0.481
+   ],
+   [
+    "Animal",
+    0.343
+   ]
+  ]
+ },
+ "env-door_wood_creaks-1-51805-G-33": {
+  "speech": 0.0424,
+  "top": [
+   [
+    "Fart",
+    0.76
+   ],
+   [
+    "Mechanisms",
+    0.548
+   ],
+   [
+    "Creak",
+    0.508
+   ]
+  ]
+ },
+ "env-door_wood_creaks-2-70344-A-33": {
+  "speech": 0.0449,
+  "top": [
+   [
+    "Mechanisms",
+    0.627
+   ],
+   [
+    "Creak",
+    0.304
+   ],
+   [
+    "Coin (dropping)",
+    0.236
+   ]
+  ]
+ },
+ "env-door_wood_creaks-2-7321-A-33": {
+  "speech": 0.0445,
+  "top": [
+   [
+    "Door",
+    0.419
+   ],
+   [
+    "Music",
+    0.22
+   ],
+   [
+    "Power windows, electric windows",
+    0.128
+   ]
+  ]
+ },
+ "env-door_wood_creaks-3-103401-A-33": {
+  "speech": 0.1715,
+  "top": [
+   [
+    "Mechanisms",
+    0.564
+   ],
+   [
+    "Creak",
+    0.388
+   ],
+   [
+    "Caw",
+    0.285
+   ]
+  ]
+ },
+ "env-door_wood_creaks-4-108352-A-33": {
+  "speech": 0.0335,
+  "top": [
+   [
+    "Door",
+    0.611
+   ],
+   [
+    "Whistling",
+    0.316
+   ],
+   [
+    "Whistle",
+    0.229
+   ]
+  ]
+ },
+ "env-door_wood_creaks-4-160036-B-33": {
+  "speech": 0.7754,
+  "top": [
+   [
+    "Speech",
+    0.775
+   ],
+   [
+    "Fart",
+    0.666
+   ],
+   [
+    "Creak",
+    0.254
+   ]
+  ]
+ },
+ "env-door_wood_creaks-5-161270-B-33": {
+  "speech": 0.0395,
+  "top": [
+   [
+    "Animal",
+    0.182
+   ],
+   [
+    "Fart",
+    0.175
+   ],
+   [
+    "Domestic animals, pets",
+    0.152
+   ]
+  ]
+ },
+ "env-door_wood_creaks-5-173568-A-33": {
+  "speech": 0.0864,
+  "top": [
+   [
+    "Squeak",
+    0.617
+   ],
+   [
+    "Meow",
+    0.267
+   ],
+   [
+    "Cat",
+    0.195
+   ]
+  ]
+ },
+ "env-door_wood_creaks-5-187444-A-33": {
+  "speech": 0.0853,
+  "top": [
+   [
+    "Baby cry, infant cry",
+    0.755
+   ],
+   [
+    "Whimper",
+    0.244
+   ],
+   [
+    "Music",
+    0.237
+   ]
+  ]
+ },
+ "env-door_wood_knock-1-52290-A-30": {
+  "speech": 0.0697,
+  "top": [
+   [
+    "Knock",
+    0.288
+   ],
+   [
+    "Coin (dropping)",
+    0.281
+   ],
+   [
+    "Silence",
+    0.175
+   ]
+  ]
+ },
+ "env-door_wood_knock-2-118625-A-30": {
+  "speech": 0.0713,
+  "top": [
+   [
+    "Silence",
+    0.175
+   ],
+   [
+    "Bouncing",
+    0.106
+   ],
+   [
+    "Knock",
+    0.095
+   ]
+  ]
+ },
+ "env-door_wood_knock-3-144510-A-30": {
+  "speech": 0.0473,
+  "top": [
+   [
+    "Knock",
+    0.662
+   ],
+   [
+    "Silence",
+    0.175
+   ],
+   [
+    "Music",
+    0.085
+   ]
+  ]
+ },
+ "env-door_wood_knock-3-151089-A-30": {
+  "speech": 0.1277,
+  "top": [
+   [
+    "Chopping (food)",
+    0.28
+   ],
+   [
+    "Silence",
+    0.175
+   ],
+   [
+    "Speech",
+    0.128
+   ]
+  ]
+ },
+ "env-door_wood_knock-3-180147-A-30": {
+  "speech": 0.0834,
+  "top": [
+   [
+    "Knock",
+    0.941
+   ],
+   [
+    "Door",
+    0.329
+   ],
+   [
+    "Speech",
+    0.083
+   ]
+  ]
+ },
+ "env-door_wood_knock-4-187284-A-30": {
+  "speech": 0.0401,
+  "top": [
+   [
+    "Chopping (food)",
+    0.761
+   ],
+   [
+    "Whip",
+    0.257
+   ],
+   [
+    "Explosion",
+    0.142
+   ]
+  ]
+ },
+ "env-door_wood_knock-4-188878-A-30": {
+  "speech": 0.0916,
+  "top": [
+   [
+    "Knock",
+    0.335
+   ],
+   [
+    "Music",
+    0.1
+   ],
+   [
+    "Speech",
+    0.092
+   ]
+  ]
+ },
+ "env-door_wood_knock-5-235644-A-30": {
+  "speech": 0.0396,
+  "top": [
+   [
+    "Knock",
+    0.902
+   ],
+   [
+    "Chopping (food)",
+    0.406
+   ],
+   [
+    "Silence",
+    0.175
+   ]
+  ]
+ },
+ "env-door_wood_knock-5-250026-A-30": {
+  "speech": 0.0495,
+  "top": [
+   [
+    "Knock",
+    0.917
+   ],
+   [
+    "Chopping (food)",
+    0.139
+   ],
+   [
+    "Silence",
+    0.083
+   ]
+  ]
+ },
+ "env-door_wood_knock-5-251426-B-30": {
+  "speech": 0.0696,
+  "top": [
+   [
+    "Knock",
+    0.671
+   ],
+   [
+    "Chopping (food)",
+    0.251
+   ],
+   [
+    "Finger snapping",
+    0.123
+   ]
+  ]
+ },
+ "env-drinking_sipping-1-17295-A-29": {
+  "speech": 0.0751,
+  "top": [
+   [
+    "Stomach rumble",
+    0.829
+   ],
+   [
+    "Plop",
+    0.755
+   ],
+   [
+    "Sound effect",
+    0.168
+   ]
+  ]
+ },
+ "env-drinking_sipping-1-37226-A-29": {
+  "speech": 0.0525,
+  "top": [
+   [
+    "Gasp",
+    0.289
+   ],
+   [
+    "Silence",
+    0.175
+   ],
+   [
+    "Snort",
+    0.126
+   ]
+  ]
+ },
+ "env-drinking_sipping-3-133977-A-29": {
+  "speech": 0.0316,
+  "top": [
+   [
+    "Silence",
+    0.175
+   ],
+   [
+    "Drip",
+    0.145
+   ],
+   [
+    "Liquid",
+    0.128
+   ]
+  ]
+ },
+ "env-drinking_sipping-3-144259-A-29": {
+  "speech": 0.2302,
+  "top": [
+   [
+    "Speech",
+    0.23
+   ],
+   [
+    "Crunch",
+    0.217
+   ],
+   [
+    "Chewing, mastication",
+    0.139
+   ]
+  ]
+ },
+ "env-drinking_sipping-3-145387-A-29": {
+  "speech": 0.0554,
+  "top": [
+   [
+    "Stomach rumble",
+    0.389
+   ],
+   [
+    "Plop",
+    0.292
+   ],
+   [
+    "Crunch",
+    0.268
+   ]
+  ]
+ },
+ "env-drinking_sipping-3-185456-A-29": {
+  "speech": 0.4395,
+  "top": [
+   [
+    "Speech",
+    0.439
+   ],
+   [
+    "Biting",
+    0.26
+   ],
+   [
+    "Crack",
+    0.244
+   ]
+  ]
+ },
+ "env-drinking_sipping-4-188191-C-29": {
+  "speech": 0.1574,
+  "top": [
+   [
+    "Burping, eructation",
+    0.378
+   ],
+   [
+    "Stomach rumble",
+    0.311
+   ],
+   [
+    "Sound effect",
+    0.227
+   ]
+  ]
+ },
+ "env-drinking_sipping-4-188595-A-29": {
+  "speech": 0.1572,
+  "top": [
+   [
+    "Gasp",
+    0.343
+   ],
+   [
+    "Biting",
+    0.327
+   ],
+   [
+    "Snort",
+    0.27
+   ]
+  ]
+ },
+ "env-drinking_sipping-4-194808-A-29": {
+  "speech": 0.3786,
+  "top": [
+   [
+    "Throat clearing",
+    0.424
+   ],
+   [
+    "Speech",
+    0.379
+   ],
+   [
+    "Gasp",
+    0.309
+   ]
+  ]
+ },
+ "env-drinking_sipping-4-210593-A-29": {
+  "speech": 0.0434,
+  "top": [
+   [
+    "Biting",
+    0.438
+   ],
+   [
+    "Stomach rumble",
+    0.211
+   ],
+   [
+    "Crunch",
+    0.113
+   ]
+  ]
+ },
+ "env-engine-1-18527-B-44": {
+  "speech": 0.0562,
+  "top": [
+   [
+    "Train",
+    0.694
+   ],
+   [
+    "Rail transport",
+    0.579
+   ],
+   [
+    "Railroad car, train wagon",
+    0.491
+   ]
+  ]
+ },
+ "env-engine-1-50454-A-44": {
+  "speech": 0.0643,
+  "top": [
+   [
+    "Engine",
+    0.291
+   ],
+   [
+    "Vehicle",
+    0.197
+   ],
+   [
+    "Idling",
+    0.176
+   ]
+  ]
+ },
+ "env-engine-2-78651-A-44": {
+  "speech": 0.0317,
+  "top": [
+   [
+    "Chainsaw",
+    0.591
+   ],
+   [
+    "Tools",
+    0.2
+   ],
+   [
+    "Engine",
+    0.18
+   ]
+  ]
+ },
+ "env-engine-3-115382-A-44": {
+  "speech": 0.0554,
+  "top": [
+   [
+    "Vehicle",
+    0.398
+   ],
+   [
+    "Engine",
+    0.365
+   ],
+   [
+    "Accelerating, revving, vroom",
+    0.307
+   ]
+  ]
+ },
+ "env-engine-3-119455-A-44": {
+  "speech": 0.0607,
+  "top": [
+   [
+    "Engine",
+    0.416
+   ],
+   [
+    "Vehicle",
+    0.298
+   ],
+   [
+    "Idling",
+    0.276
+   ]
+  ]
+ },
+ "env-engine-3-141240-B-44": {
+  "speech": 0.0351,
+  "top": [
+   [
+    "Engine",
+    0.349
+   ],
+   [
+    "Vehicle",
+    0.304
+   ],
+   [
+    "Medium engine (mid frequency)",
+    0.248
+   ]
+  ]
+ },
+ "env-engine-4-186940-A-44": {
+  "speech": 0.0588,
+  "top": [
+   [
+    "Vehicle",
+    0.232
+   ],
+   [
+    "Silence",
+    0.175
+   ],
+   [
+    "Engine",
+    0.153
+   ]
+  ]
+ },
+ "env-engine-4-186962-A-44": {
+  "speech": 0.07,
+  "top": [
+   [
+    "Engine",
+    0.553
+   ],
+   [
+    "Vehicle",
+    0.304
+   ],
+   [
+    "Idling",
+    0.295
+   ]
+  ]
+ },
+ "env-engine-5-240671-A-44": {
+  "speech": 0.0548,
+  "top": [
+   [
+    "Vehicle",
+    0.423
+   ],
+   [
+    "Engine",
+    0.388
+   ],
+   [
+    "Idling",
+    0.243
+   ]
+  ]
+ },
+ "env-engine-5-243773-A-44": {
+  "speech": 0.0264,
+  "top": [
+   [
+    "Engine",
+    0.446
+   ],
+   [
+    "Idling",
+    0.327
+   ],
+   [
+    "Vehicle",
+    0.315
+   ]
+  ]
+ },
+ "env-footsteps-1-155858-C-25": {
+  "speech": 0.0434,
+  "top": [
+   [
+    "Ping",
+    0.17
+   ],
+   [
+    "Door",
+    0.092
+   ],
+   [
+    "Crackle",
+    0.091
+   ]
+  ]
+ },
+ "env-footsteps-2-209473-A-25": {
+  "speech": 0.0534,
+  "top": [
+   [
+    "Knock",
+    0.571
+   ],
+   [
+    "Door",
+    0.348
+   ],
+   [
+    "Bouncing",
+    0.316
+   ]
+  ]
+ },
+ "env-footsteps-2-209477-A-25": {
+  "speech": 0.0472,
+  "top": [
+   [
+    "Bouncing",
+    0.474
+   ],
+   [
+    "Ping",
+    0.133
+   ],
+   [
+    "Tap",
+    0.12
+   ]
+  ]
+ },
+ "env-footsteps-2-209478-A-25": {
+  "speech": 0.0298,
+  "top": [
+   [
+    "Bouncing",
+    0.303
+   ],
+   [
+    "Door",
+    0.26
+   ],
+   [
+    "Slam",
+    0.171
+   ]
+  ]
+ },
+ "env-footsteps-3-94343-A-25": {
+  "speech": 0.1027,
+  "top": [
+   [
+    "Crackle",
+    0.168
+   ],
+   [
+    "Walk, footsteps",
+    0.112
+   ],
+   [
+    "Speech",
+    0.103
+   ]
+  ]
+ },
+ "env-footsteps-4-194981-A-25": {
+  "speech": 0.049,
+  "top": [
+   [
+    "Walk, footsteps",
+    0.099
+   ],
+   [
+    "Fireworks",
+    0.072
+   ],
+   [
+    "Clip-clop",
+    0.065
+   ]
+  ]
+ },
+ "env-footsteps-4-198962-A-25": {
+  "speech": 0.0912,
+  "top": [
+   [
+    "Knock",
+    0.507
+   ],
+   [
+    "Door",
+    0.357
+   ],
+   [
+    "Tap",
+    0.106
+   ]
+  ]
+ },
+ "env-footsteps-5-234855-A-25": {
+  "speech": 0.09,
+  "top": [
+   [
+    "Scrape",
+    0.136
+   ],
+   [
+    "Zipper (clothing)",
+    0.128
+   ],
+   [
+    "Shuffle",
+    0.098
+   ]
+  ]
+ },
+ "env-footsteps-5-244310-A-25": {
+  "speech": 0.0376,
+  "top": [
+   [
+    "Crackle",
+    0.186
+   ],
+   [
+    "Crack",
+    0.093
+   ],
+   [
+    "Animal",
+    0.089
+   ]
+  ]
+ },
+ "env-footsteps-5-263490-A-25": {
+  "speech": 0.0874,
+  "top": [
+   [
+    "Clip-clop",
+    0.345
+   ],
+   [
+    "Sliding door",
+    0.214
+   ],
+   [
+    "Horse",
+    0.209
+   ]
+  ]
+ },
+ "env-keyboard_typing-1-79711-A-32": {
+  "speech": 0.0797,
+  "top": [
+   [
+    "Computer keyboard",
+    0.889
+   ],
+   [
+    "Typing",
+    0.869
+   ],
+   [
+    "Animal",
+    0.239
+   ]
+  ]
+ },
+ "env-keyboard_typing-2-109316-A-32": {
+  "speech": 0.038,
+  "top": [
+   [
+    "Computer keyboard",
+    0.605
+   ],
+   [
+    "Typing",
+    0.534
+   ],
+   [
+    "Coin (dropping)",
+    0.396
+   ]
+  ]
+ },
+ "env-keyboard_typing-2-118459-B-32": {
+  "speech": 0.0319,
+  "top": [
+   [
+    "Typewriter",
+    0.823
+   ],
+   [
+    "Typing",
+    0.687
+   ],
+   [
+    "Computer keyboard",
+    0.663
+   ]
+  ]
+ },
+ "env-keyboard_typing-3-144106-A-32": {
+  "speech": 0.028,
+  "top": [
+   [
+    "Typewriter",
+    0.652
+   ],
+   [
+    "Coin (dropping)",
+    0.58
+   ],
+   [
+    "Computer keyboard",
+    0.471
+   ]
+  ]
+ },
+ "env-keyboard_typing-3-154781-A-32": {
+  "speech": 0.0603,
+  "top": [
+   [
+    "Typing",
+    0.718
+   ],
+   [
+    "Computer keyboard",
+    0.569
+   ],
+   [
+    "Typewriter",
+    0.167
+   ]
+  ]
+ },
+ "env-keyboard_typing-3-155570-A-32": {
+  "speech": 0.0687,
+  "top": [
+   [
+    "Computer keyboard",
+    0.863
+   ],
+   [
+    "Typing",
+    0.776
+   ],
+   [
+    "Clip-clop",
+    0.184
+   ]
+  ]
+ },
+ "env-keyboard_typing-4-158653-A-32": {
+  "speech": 0.0477,
+  "top": [
+   [
+    "Computer keyboard",
+    0.87
+   ],
+   [
+    "Typing",
+    0.804
+   ],
+   [
+    "Coin (dropping)",
+    0.768
+   ]
+  ]
+ },
+ "env-keyboard_typing-4-177243-A-32": {
+  "speech": 0.0353,
+  "top": [
+   [
+    "Typing",
+    0.806
+   ],
+   [
+    "Computer keyboard",
+    0.789
+   ],
+   [
+    "Typewriter",
+    0.399
+   ]
+  ]
+ },
+ "env-keyboard_typing-4-185613-A-32": {
+  "speech": 0.2072,
+  "top": [
+   [
+    "Computer keyboard",
+    0.861
+   ],
+   [
+    "Typing",
+    0.84
+   ],
+   [
+    "Liquid",
+    0.336
+   ]
+  ]
+ },
+ "env-keyboard_typing-5-205090-A-32": {
+  "speech": 0.0445,
+  "top": [
+   [
+    "Knock",
+    0.208
+   ],
+   [
+    "Single-lens reflex camera",
+    0.147
+   ],
+   [
+    "Door",
+    0.126
+   ]
+  ]
+ },
+ "env-mouse_click-1-97793-A-31": {
+  "speech": 0.0571,
+  "top": [
+   [
+    "Silence",
+    0.175
+   ],
+   [
+    "Music",
+    0.085
+   ],
+   [
+    "Animal",
+    0.069
+   ]
+  ]
+ },
+ "env-mouse_click-2-146877-B-31": {
+  "speech": 0.0331,
+  "top": [
+   [
+    "Single-lens reflex camera",
+    0.304
+   ],
+   [
+    "Frog",
+    0.185
+   ],
+   [
+    "Biting",
+    0.115
+   ]
+  ]
+ },
+ "env-mouse_click-2-152964-A-31": {
+  "speech": 0.1134,
+  "top": [
+   [
+    "Silence",
+    0.175
+   ],
+   [
+    "Single-lens reflex camera",
+    0.156
+   ],
+   [
+    "Gasp",
+    0.117
+   ]
+  ]
+ },
+ "env-mouse_click-2-153388-A-31": {
+  "speech": 0.0294,
+  "top": [
+   [
+    "Silence",
+    0.175
+   ],
+   [
+    "Coin (dropping)",
+    0.108
+   ],
+   [
+    "Printer",
+    0.086
+   ]
+  ]
+ },
+ "env-mouse_click-2-154688-A-31": {
+  "speech": 0.0637,
+  "top": [
+   [
+    "Computer keyboard",
+    0.386
+   ],
+   [
+    "Typing",
+    0.295
+   ],
+   [
+    "Silence",
+    0.175
+   ]
+  ]
+ },
+ "env-mouse_click-3-155556-A-31": {
+  "speech": 0.0294,
+  "top": [
+   [
+    "Silence",
+    0.175
+   ],
+   [
+    "Computer keyboard",
+    0.166
+   ],
+   [
+    "Knock",
+    0.112
+   ]
+  ]
+ },
+ "env-mouse_click-3-158056-A-31": {
+  "speech": 0.1228,
+  "top": [
+   [
+    "Chop",
+    0.245
+   ],
+   [
+    "Crack",
+    0.174
+   ],
+   [
+    "Mechanisms",
+    0.169
+   ]
+  ]
+ },
+ "env-mouse_click-3-172179-A-31": {
+  "speech": 0.024,
+  "top": [
+   [
+    "Chopping (food)",
+    0.261
+   ],
+   [
+    "Mechanisms",
+    0.159
+   ],
+   [
+    "Knock",
+    0.149
+   ]
+  ]
+ },
+ "env-mouse_click-5-223103-A-31": {
+  "speech": 0.0809,
+  "top": [
+   [
+    "Finger snapping",
+    0.73
+   ],
+   [
+    "Tap",
+    0.262
+   ],
+   [
+    "Silence",
+    0.175
+   ]
+  ]
+ },
+ "env-mouse_click-5-238926-A-31": {
+  "speech": 0.0622,
+  "top": [
+   [
+    "Boiling",
+    0.078
+   ],
+   [
+    "Vehicle",
+    0.067
+   ],
+   [
+    "Speech",
+    0.062
+   ]
+  ]
+ },
+ "env-pouring_water-1-51433-A-17": {
+  "speech": 0.0625,
+  "top": [
+   [
+    "Liquid",
+    0.445
+   ],
+   [
+    "Water",
+    0.441
+   ],
+   [
+    "Fill (with liquid)",
+    0.274
+   ]
+  ]
+ },
+ "env-pouring_water-1-67152-A-17": {
+  "speech": 0.0437,
+  "top": [
+   [
+    "Liquid",
+    0.396
+   ],
+   [
+    "Coin (dropping)",
+    0.343
+   ],
+   [
+    "Water",
+    0.342
+   ]
+  ]
+ },
+ "env-pouring_water-2-102414-D-17": {
+  "speech": 0.1434,
+  "top": [
+   [
+    "Liquid",
+    0.303
+   ],
+   [
+    "Water",
+    0.296
+   ],
+   [
+    "Burping, eructation",
+    0.2
+   ]
+  ]
+ },
+ "env-pouring_water-2-102414-F-17": {
+  "speech": 0.1515,
+  "top": [
+   [
+    "Water",
+    0.405
+   ],
+   [
+    "Music",
+    0.267
+   ],
+   [
+    "Liquid",
+    0.186
+   ]
+  ]
+ },
+ "env-pouring_water-2-102414-G-17": {
+  "speech": 0.0582,
+  "top": [
+   [
+    "Water",
+    0.433
+   ],
+   [
+    "Liquid",
+    0.28
+   ],
+   [
+    "Silence",
+    0.175
+   ]
+  ]
+ },
+ "env-pouring_water-3-142349-A-17": {
+  "speech": 0.0446,
+  "top": [
+   [
+    "Finger snapping",
+    0.366
+   ],
+   [
+    "Drip",
+    0.305
+   ],
+   [
+    "Liquid",
+    0.239
+   ]
+  ]
+ },
+ "env-pouring_water-3-145719-A-17": {
+  "speech": 0.1259,
+  "top": [
+   [
+    "Crunch",
+    0.362
+   ],
+   [
+    "Liquid",
+    0.327
+   ],
+   [
+    "Water",
+    0.214
+   ]
+  ]
+ },
+ "env-pouring_water-3-149448-A-17": {
+  "speech": 0.0371,
+  "top": [
+   [
+    "Water",
+    0.407
+   ],
+   [
+    "Liquid",
+    0.374
+   ],
+   [
+    "Fill (with liquid)",
+    0.191
+   ]
+  ]
+ },
+ "env-pouring_water-4-187504-B-17": {
+  "speech": 0.1019,
+  "top": [
+   [
+    "Liquid",
+    0.311
+   ],
+   [
+    "Water",
+    0.259
+   ],
+   [
+    "Gurgling",
+    0.248
+   ]
+  ]
+ },
+ "env-pouring_water-5-212736-A-17": {
+  "speech": 0.0646,
+  "top": [
+   [
+    "Liquid",
+    0.486
+   ],
+   [
+    "Water",
+    0.214
+   ],
+   [
+    "Fill (with liquid)",
+    0.176
+   ]
+  ]
+ },
+ "env-rain-1-63871-A-10": {
+  "speech": 0.0671,
+  "top": [
+   [
+    "Applause",
+    0.294
+   ],
+   [
+    "Rain on surface",
+    0.271
+   ],
+   [
+    "Rain",
+    0.226
+   ]
+  ]
+ },
+ "env-rain-2-117625-A-10": {
+  "speech": 0.0563,
+  "top": [
+   [
+    "Rain on surface",
+    0.578
+   ],
+   [
+    "Water",
+    0.448
+   ],
+   [
+    "Applause",
+    0.404
+   ]
+  ]
+ },
+ "env-rain-2-81731-A-10": {
+  "speech": 0.09,
+  "top": [
+   [
+    "Bird",
+    0.513
+   ],
+   [
+    "Pigeon, dove",
+    0.423
+   ],
+   [
+    "Coo",
+    0.255
+   ]
+  ]
+ },
+ "env-rain-3-140774-A-10": {
+  "speech": 0.1581,
+  "top": [
+   [
+    "Speech",
+    0.158
+   ],
+   [
+    "Vehicle",
+    0.145
+   ],
+   [
+    "Engine",
+    0.141
+   ]
+  ]
+ },
+ "env-rain-3-143929-A-10": {
+  "speech": 0.0521,
+  "top": [
+   [
+    "Vehicle",
+    0.291
+   ],
+   [
+    "Engine",
+    0.222
+   ],
+   [
+    "Train",
+    0.203
+   ]
+  ]
+ },
+ "env-rain-4-177250-A-10": {
+  "speech": 0.0395,
+  "top": [
+   [
+    "Waterfall",
+    0.402
+   ],
+   [
+    "Stream",
+    0.137
+   ],
+   [
+    "Static",
+    0.123
+   ]
+  ]
+ },
+ "env-rain-4-180380-A-10": {
+  "speech": 0.0531,
+  "top": [
+   [
+    "Rain on surface",
+    0.437
+   ],
+   [
+    "Rain",
+    0.412
+   ],
+   [
+    "Water",
+    0.245
+   ]
+  ]
+ },
+ "env-rain-5-181766-A-10": {
+  "speech": 0.0834,
+  "top": [
+   [
+    "Applause",
+    0.451
+   ],
+   [
+    "Rain on surface",
+    0.175
+   ],
+   [
+    "Waterfall",
+    0.134
+   ]
+  ]
+ },
+ "env-rain-5-198321-A-10": {
+  "speech": 0.2289,
+  "top": [
+   [
+    "Waterfall",
+    0.386
+   ],
+   [
+    "Speech",
+    0.229
+   ],
+   [
+    "Rain on surface",
+    0.183
+   ]
+  ]
+ },
+ "env-rain-5-203739-A-10": {
+  "speech": 0.1281,
+  "top": [
+   [
+    "Rain",
+    0.331
+   ],
+   [
+    "Bird",
+    0.268
+   ],
+   [
+    "Rain on surface",
+    0.258
+   ]
+  ]
+ },
+ "env-siren-1-31482-A-42": {
+  "speech": 0.5112,
+  "top": [
+   [
+    "Siren",
+    0.766
+   ],
+   [
+    "Emergency vehicle",
+    0.516
+   ],
+   [
+    "Speech",
+    0.511
+   ]
+  ]
+ },
+ "env-siren-2-43806-A-42": {
+  "speech": 0.2142,
+  "top": [
+   [
+    "Police car (siren)",
+    0.619
+   ],
+   [
+    "Siren",
+    0.611
+   ],
+   [
+    "Emergency vehicle",
+    0.606
+   ]
+  ]
+ },
+ "env-siren-3-51376-A-42": {
+  "speech": 0.0536,
+  "top": [
+   [
+    "Civil defense siren",
+    0.839
+   ],
+   [
+    "Siren",
+    0.784
+   ],
+   [
+    "Wind instrument, woodwind instrument",
+    0.076
+   ]
+  ]
+ },
+ "env-siren-3-58772-A-42": {
+  "speech": 0.0218,
+  "top": [
+   [
+    "Siren",
+    0.85
+   ],
+   [
+    "Civil defense siren",
+    0.803
+   ],
+   [
+    "Fire engine, fire truck (siren)",
+    0.093
+   ]
+  ]
+ },
+ "env-siren-4-102871-A-42": {
+  "speech": 0.0328,
+  "top": [
+   [
+    "Emergency vehicle",
+    0.579
+   ],
+   [
+    "Siren",
+    0.577
+   ],
+   [
+    "Music",
+    0.426
+   ]
+  ]
+ },
+ "env-siren-4-111671-A-42": {
+  "speech": 0.0197,
+  "top": [
+   [
+    "Siren",
+    0.709
+   ],
+   [
+    "Emergency vehicle",
+    0.7
+   ],
+   [
+    "Police car (siren)",
+    0.633
+   ]
+  ]
+ },
+ "env-siren-4-90014-B-42": {
+  "speech": 0.099,
+  "top": [
+   [
+    "Vehicle horn, car horn, honking",
+    0.621
+   ],
+   [
+    "Music",
+    0.574
+   ],
+   [
+    "Musical instrument",
+    0.408
+   ]
+  ]
+ },
+ "env-siren-5-117120-A-42": {
+  "speech": 0.0191,
+  "top": [
+   [
+    "Siren",
+    0.759
+   ],
+   [
+    "Civil defense siren",
+    0.644
+   ],
+   [
+    "Emergency vehicle",
+    0.092
+   ]
+  ]
+ },
+ "env-siren-5-133989-B-42": {
+  "speech": 0.0609,
+  "top": [
+   [
+    "Siren",
+    0.74
+   ],
+   [
+    "Civil defense siren",
+    0.588
+   ],
+   [
+    "Fire engine, fire truck (siren)",
+    0.443
+   ]
+  ]
+ },
+ "env-siren-5-184323-A-42": {
+  "speech": 0.0348,
+  "top": [
+   [
+    "Siren",
+    0.801
+   ],
+   [
+    "Civil defense siren",
+    0.757
+   ],
+   [
+    "Howl",
+    0.729
+   ]
+  ]
+ },
+ "env-sneezing-2-93030-A-21": {
+  "speech": 0.7924,
+  "top": [
+   [
+    "Speech",
+    0.792
+   ],
+   [
+    "Throat clearing",
+    0.629
+   ],
+   [
+    "Gasp",
+    0.339
+   ]
+  ]
+ },
+ "env-sneezing-3-142605-A-21": {
+  "speech": 0.0916,
+  "top": [
+   [
+    "Sneeze",
+    0.845
+   ],
+   [
+    "Snort",
+    0.128
+   ],
+   [
+    "Gasp",
+    0.1
+   ]
+  ]
+ },
+ "env-sneezing-3-144692-A-21": {
+  "speech": 0.3044,
+  "top": [
+   [
+    "Sneeze",
+    0.79
+   ],
+   [
+    "Throat clearing",
+    0.4
+   ],
+   [
+    "Gasp",
+    0.34
+   ]
+  ]
+ },
+ "env-sneezing-4-156843-A-21": {
+  "speech": 0.0669,
+  "top": [
+   [
+    "Throat clearing",
+    0.432
+   ],
+   [
+    "Sneeze",
+    0.327
+   ],
+   [
+    "Gasp",
+    0.29
+   ]
+  ]
+ },
+ "env-sneezing-4-157297-A-21": {
+  "speech": 0.719,
+  "top": [
+   [
+    "Throat clearing",
+    0.801
+   ],
+   [
+    "Speech",
+    0.719
+   ],
+   [
+    "Sneeze",
+    0.317
+   ]
+  ]
+ },
+ "env-sneezing-5-187979-A-21": {
+  "speech": 0.1791,
+  "top": [
+   [
+    "Throat clearing",
+    0.798
+   ],
+   [
+    "Sneeze",
+    0.407
+   ],
+   [
+    "Speech",
+    0.179
+   ]
+  ]
+ },
+ "env-sneezing-5-220026-A-21": {
+  "speech": 0.0963,
+  "top": [
+   [
+    "Sneeze",
+    0.747
+   ],
+   [
+    "Hiccup",
+    0.187
+   ],
+   [
+    "Silence",
+    0.175
+   ]
+  ]
+ },
+ "env-sneezing-5-220027-A-21": {
+  "speech": 0.2891,
+  "top": [
+   [
+    "Sneeze",
+    0.581
+   ],
+   [
+    "Speech",
+    0.289
+   ],
+   [
+    "Music",
+    0.187
+   ]
+  ]
+ },
+ "env-sneezing-5-221518-A-21": {
+  "speech": 0.1068,
+  "top": [
+   [
+    "Sneeze",
+    0.848
+   ],
+   [
+    "Gasp",
+    0.302
+   ],
+   [
+    "Beep, bleep",
+    0.188
+   ]
+  ]
+ },
+ "env-sneezing-5-221593-A-21": {
+  "speech": 0.1622,
+  "top": [
+   [
+    "Owl",
+    0.454
+   ],
+   [
+    "Throat clearing",
+    0.294
+   ],
+   [
+    "Silence",
+    0.175
+   ]
+  ]
+ },
+ "env-snoring-2-114609-B-28": {
+  "speech": 0.1395,
+  "top": [
+   [
+    "Fart",
+    0.714
+   ],
+   [
+    "Sigh",
+    0.452
+   ],
+   [
+    "Gasp",
+    0.226
+   ]
+  ]
+ },
+ "env-snoring-2-117330-A-28": {
+  "speech": 0.3219,
+  "top": [
+   [
+    "Snort",
+    0.587
+   ],
+   [
+    "Speech",
+    0.322
+   ],
+   [
+    "Gasp",
+    0.218
+   ]
+  ]
+ },
+ "env-snoring-2-52001-B-28": {
+  "speech": 0.1532,
+  "top": [
+   [
+    "Snoring",
+    0.523
+   ],
+   [
+    "Animal",
+    0.212
+   ],
+   [
+    "Vehicle",
+    0.211
+   ]
+  ]
+ },
+ "env-snoring-2-80313-A-28": {
+  "speech": 0.0617,
+  "top": [
+   [
+    "Snoring",
+    0.766
+   ],
+   [
+    "Snort",
+    0.692
+   ],
+   [
+    "Gasp",
+    0.25
+   ]
+  ]
+ },
+ "env-snoring-3-130998-A-28": {
+  "speech": 0.1643,
+  "top": [
+   [
+    "Bird",
+    0.59
+   ],
+   [
+    "Pigeon, dove",
+    0.418
+   ],
+   [
+    "Coo",
+    0.28
+   ]
+  ]
+ },
+ "env-snoring-3-151557-B-28": {
+  "speech": 0.1551,
+  "top": [
+   [
+    "Snoring",
+    0.629
+   ],
+   [
+    "Vehicle",
+    0.298
+   ],
+   [
+    "Accelerating, revving, vroom",
+    0.208
+   ]
+  ]
+ },
+ "env-snoring-4-180337-A-28": {
+  "speech": 0.2481,
+  "top": [
+   [
+    "Burping, eructation",
+    0.463
+   ],
+   [
+    "Snoring",
+    0.317
+   ],
+   [
+    "Speech",
+    0.248
+   ]
+  ]
+ },
+ "env-snoring-4-183882-B-28": {
+  "speech": 0.6993,
+  "top": [
+   [
+    "Speech",
+    0.699
+   ],
+   [
+    "Ping",
+    0.323
+   ],
+   [
+    "Snoring",
+    0.234
+   ]
+  ]
+ },
+ "env-snoring-4-184237-A-28": {
+  "speech": 0.0761,
+  "top": [
+   [
+    "Snort",
+    0.547
+   ],
+   [
+    "Snoring",
+    0.377
+   ],
+   [
+    "Gasp",
+    0.345
+   ]
+  ]
+ },
+ "env-snoring-5-233312-A-28": {
+  "speech": 0.183,
+  "top": [
+   [
+    "Fart",
+    0.702
+   ],
+   [
+    "Snoring",
+    0.19
+   ],
+   [
+    "Speech",
+    0.183
+   ]
+  ]
+ },
+ "env-vacuum_cleaner-1-100210-A-36": {
+  "speech": 0.1119,
+  "top": [
+   [
+    "Waterfall",
+    0.148
+   ],
+   [
+    "Hair dryer",
+    0.144
+   ],
+   [
+    "Vacuum cleaner",
+    0.131
+   ]
+  ]
+ },
+ "env-vacuum_cleaner-1-79236-A-36": {
+  "speech": 0.0452,
+  "top": [
+   [
+    "Vacuum cleaner",
+    0.327
+   ],
+   [
+    "Hair dryer",
+    0.283
+   ],
+   [
+    "Vehicle",
+    0.209
+   ]
+  ]
+ },
+ "env-vacuum_cleaner-3-152020-A-36": {
+  "speech": 0.0542,
+  "top": [
+   [
+    "Vacuum cleaner",
+    0.4
+   ],
+   [
+    "Blender",
+    0.311
+   ],
+   [
+    "Accelerating, revving, vroom",
+    0.255
+   ]
+  ]
+ },
+ "env-vacuum_cleaner-4-172733-A-36": {
+  "speech": 0.0313,
+  "top": [
+   [
+    "Vacuum cleaner",
+    0.246
+   ],
+   [
+    "Hair dryer",
+    0.142
+   ],
+   [
+    "Blender",
+    0.063
+   ]
+  ]
+ },
+ "env-vacuum_cleaner-4-172736-B-36": {
+  "speech": 0.0455,
+  "top": [
+   [
+    "Hair dryer",
+    0.273
+   ],
+   [
+    "Printer",
+    0.231
+   ],
+   [
+    "Vacuum cleaner",
+    0.185
+   ]
+  ]
+ },
+ "env-vacuum_cleaner-4-181999-A-36": {
+  "speech": 0.0491,
+  "top": [
+   [
+    "Static",
+    0.178
+   ],
+   [
+    "White noise",
+    0.154
+   ],
+   [
+    "Water",
+    0.127
+   ]
+  ]
+ },
+ "env-vacuum_cleaner-5-182007-A-36": {
+  "speech": 0.0318,
+  "top": [
+   [
+    "Vacuum cleaner",
+    0.19
+   ],
+   [
+    "Spray",
+    0.077
+   ],
+   [
+    "Hair dryer",
+    0.068
+   ]
+  ]
+ },
+ "env-vacuum_cleaner-5-182010-A-36": {
+  "speech": 0.0422,
+  "top": [
+   [
+    "Static",
+    0.279
+   ],
+   [
+    "White noise",
+    0.136
+   ],
+   [
+    "Hair dryer",
+    0.134
+   ]
+  ]
+ },
+ "env-vacuum_cleaner-5-182012-A-36": {
+  "speech": 0.0334,
+  "top": [
+   [
+    "Hair dryer",
+    0.375
+   ],
+   [
+    "Vacuum cleaner",
+    0.176
+   ],
+   [
+    "Jet engine",
+    0.1
+   ]
+  ]
+ },
+ "env-vacuum_cleaner-5-188365-A-36": {
+  "speech": 0.0418,
+  "top": [
+   [
+    "Vacuum cleaner",
+    0.158
+   ],
+   [
+    "Tools",
+    0.065
+   ],
+   [
+    "Power tool",
+    0.058
+   ]
+  ]
+ },
+ "env-washing_machine-1-23996-A-35": {
+  "speech": 0.0841,
+  "top": [
+   [
+    "Printer",
+    0.388
+   ],
+   [
+    "Train",
+    0.247
+   ],
+   [
+    "Vehicle",
+    0.217
+   ]
+  ]
+ },
+ "env-washing_machine-2-102567-C-35": {
+  "speech": 0.0561,
+  "top": [
+   [
+    "Engine",
+    0.315
+   ],
+   [
+    "Vehicle",
+    0.253
+   ],
+   [
+    "Idling",
+    0.215
+   ]
+  ]
+ },
+ "env-washing_machine-2-102567-D-35": {
+  "speech": 0.0613,
+  "top": [
+   [
+    "Vehicle",
+    0.381
+   ],
+   [
+    "Engine",
+    0.332
+   ],
+   [
+    "Medium engine (mid frequency)",
+    0.254
+   ]
+  ]
+ },
+ "env-washing_machine-2-121909-A-35": {
+  "speech": 0.2909,
+  "top": [
+   [
+    "Wood",
+    0.67
+   ],
+   [
+    "Rub",
+    0.456
+   ],
+   [
+    "Sawing",
+    0.364
+   ]
+  ]
+ },
+ "env-washing_machine-3-182710-A-35": {
+  "speech": 0.0415,
+  "top": [
+   [
+    "Printer",
+    0.429
+   ],
+   [
+    "Sliding door",
+    0.309
+   ],
+   [
+    "Vehicle",
+    0.197
+   ]
+  ]
+ },
+ "env-washing_machine-4-218199-C-35": {
+  "speech": 0.0681,
+  "top": [
+   [
+    "Engine",
+    0.197
+   ],
+   [
+    "Squeal",
+    0.163
+   ],
+   [
+    "Vehicle",
+    0.136
+   ]
+  ]
+ },
+ "env-washing_machine-4-218199-G-35": {
+  "speech": 0.2658,
+  "top": [
+   [
+    "Music",
+    0.348
+   ],
+   [
+    "Speech",
+    0.266
+   ],
+   [
+    "Sawing",
+    0.224
+   ]
+  ]
+ },
+ "env-washing_machine-5-141683-A-35": {
+  "speech": 0.0469,
+  "top": [
+   [
+    "Train",
+    0.399
+   ],
+   [
+    "Vehicle",
+    0.284
+   ],
+   [
+    "Railroad car, train wagon",
+    0.215
+   ]
+  ]
+ },
+ "env-washing_machine-5-223810-A-35": {
+  "speech": 0.035,
+  "top": [
+   [
+    "Printer",
+    0.738
+   ],
+   [
+    "Mechanisms",
+    0.717
+   ],
+   [
+    "Gears",
+    0.474
+   ]
+  ]
+ },
+ "env-washing_machine-5-238021-A-35": {
+  "speech": 0.0354,
+  "top": [
+   [
+    "Static",
+    0.16
+   ],
+   [
+    "Hum",
+    0.119
+   ],
+   [
+    "Mains hum",
+    0.104
+   ]
+  ]
+ },
+ "env-wind-1-51035-A-16": {
+  "speech": 0.0535,
+  "top": [
+   [
+    "Explosion",
+    0.201
+   ],
+   [
+    "Eruption",
+    0.171
+   ],
+   [
+    "Static",
+    0.117
+   ]
+  ]
+ },
+ "env-wind-1-51036-A-16": {
+  "speech": 0.0352,
+  "top": [
+   [
+    "Static",
+    0.218
+   ],
+   [
+    "Waterfall",
+    0.128
+   ],
+   [
+    "White noise",
+    0.103
+   ]
+  ]
+ },
+ "env-wind-1-51037-A-16": {
+  "speech": 0.0424,
+  "top": [
+   [
+    "Waves, surf",
+    0.383
+   ],
+   [
+    "Ocean",
+    0.329
+   ],
+   [
+    "Waterfall",
+    0.199
+   ]
+  ]
+ },
+ "env-wind-2-104952-B-16": {
+  "speech": 0.0637,
+  "top": [
+   [
+    "Train",
+    0.227
+   ],
+   [
+    "Vehicle",
+    0.211
+   ],
+   [
+    "Rail transport",
+    0.121
+   ]
+  ]
+ },
+ "env-wind-2-109371-A-16": {
+  "speech": 0.1542,
+  "top": [
+   [
+    "Car",
+    0.488
+   ],
+   [
+    "Vehicle",
+    0.476
+   ],
+   [
+    "Train",
+    0.362
+   ]
+  ]
+ },
+ "env-wind-3-117504-A-16": {
+  "speech": 0.094,
+  "top": [
+   [
+    "Train",
+    0.198
+   ],
+   [
+    "Vehicle",
+    0.192
+   ],
+   [
+    "White noise",
+    0.107
+   ]
+  ]
+ },
+ "env-wind-3-134699-A-16": {
+  "speech": 0.0506,
+  "top": [
+   [
+    "Waves, surf",
+    0.251
+   ],
+   [
+    "Vehicle",
+    0.196
+   ],
+   [
+    "Ocean",
+    0.194
+   ]
+  ]
+ },
+ "env-wind-3-134699-C-16": {
+  "speech": 0.3476,
+  "top": [
+   [
+    "Waves, surf",
+    0.398
+   ],
+   [
+    "Train",
+    0.393
+   ],
+   [
+    "Speech",
+    0.348
+   ]
+  ]
+ },
+ "env-wind-4-163608-B-16": {
+  "speech": 0.0389,
+  "top": [
+   [
+    "Waves, surf",
+    0.456
+   ],
+   [
+    "Ocean",
+    0.351
+   ],
+   [
+    "Wind",
+    0.125
+   ]
+  ]
+ },
+ "env-wind-4-163609-B-16": {
+  "speech": 0.0535,
+  "top": [
+   [
+    "Vehicle",
+    0.215
+   ],
+   [
+    "Explosion",
+    0.199
+   ],
+   [
+    "Eruption",
+    0.12
+   ]
+  ]
+ },
+ "silence-floor-03s": {
+  "speech": 0.0167,
+  "top": [
+   [
+    "Static",
+    0.073
+   ],
+   [
+    "Mouse",
+    0.06
+   ],
+   [
+    "Animal",
+    0.044
+   ]
+  ]
+ },
+ "silence-floor-05s": {
+  "speech": 0.0189,
+  "top": [
+   [
+    "Static",
+    0.065
+   ],
+   [
+    "Mouse",
+    0.063
+   ],
+   [
+    "Animal",
+    0.042
+   ]
+  ]
+ },
+ "silence-floor-08s": {
+  "speech": 0.0218,
+  "top": [
+   [
+    "Static",
+    0.062
+   ],
+   [
+    "Mouse",
+    0.057
+   ],
+   [
+    "Animal",
+    0.051
+   ]
+  ]
+ },
+ "silence-floor-10s": {
+  "speech": 0.02,
+  "top": [
+   [
+    "Static",
+    0.082
+   ],
+   [
+    "Mouse",
+    0.067
+   ],
+   [
+    "Animal",
+    0.06
+   ]
+  ]
+ },
+ "silence-floor-12s": {
+  "speech": 0.021,
+  "top": [
+   [
+    "Static",
+    0.072
+   ],
+   [
+    "Mouse",
+    0.065
+   ],
+   [
+    "Animal",
+    0.057
+   ]
+  ]
+ },
+ "silence-floor-15s": {
+  "speech": 0.0222,
+  "top": [
+   [
+    "Static",
+    0.085
+   ],
+   [
+    "Mouse",
+    0.066
+   ],
+   [
+    "Animal",
+    0.051
+   ]
+  ]
+ },
+ "silence-zero-03s": {
+  "speech": 0.0294,
+  "top": [
+   [
+    "Silence",
+    0.175
+   ],
+   [
+    "Music",
+    0.085
+   ],
+   [
+    "Sound effect",
+    0.062
+   ]
+  ]
+ },
+ "silence-zero-05s": {
+  "speech": 0.0294,
+  "top": [
+   [
+    "Silence",
+    0.175
+   ],
+   [
+    "Music",
+    0.085
+   ],
+   [
+    "Sound effect",
+    0.062
+   ]
+  ]
+ },
+ "silence-zero-08s": {
+  "speech": 0.0294,
+  "top": [
+   [
+    "Silence",
+    0.175
+   ],
+   [
+    "Music",
+    0.085
+   ],
+   [
+    "Sound effect",
+    0.062
+   ]
+  ]
+ },
+ "silence-zero-10s": {
+  "speech": 0.0294,
+  "top": [
+   [
+    "Silence",
+    0.175
+   ],
+   [
+    "Music",
+    0.085
+   ],
+   [
+    "Sound effect",
+    0.062
+   ]
+  ]
+ },
+ "silence-zero-12s": {
+  "speech": 0.0294,
+  "top": [
+   [
+    "Silence",
+    0.175
+   ],
+   [
+    "Music",
+    0.085
+   ],
+   [
+    "Sound effect",
+    0.062
+   ]
+  ]
+ },
+ "silence-zero-15s": {
+  "speech": 0.0294,
+  "top": [
+   [
+    "Silence",
+    0.175
+   ],
+   [
+    "Music",
+    0.085
+   ],
+   [
+    "Sound effect",
+    0.062
+   ]
+  ]
+ },
+ "vocal-cough-f0229": {
+  "speech": 0.1276,
+  "top": [
+   [
+    "Throat clearing",
+    0.848
+   ],
+   [
+    "Cough",
+    0.236
+   ],
+   [
+    "Speech",
+    0.128
+   ]
+  ]
+ },
+ "vocal-cough-f0258": {
+  "speech": 0.1299,
+  "top": [
+   [
+    "Throat clearing",
+    0.863
+   ],
+   [
+    "Cough",
+    0.273
+   ],
+   [
+    "Hiccup",
+    0.21
+   ]
+  ]
+ },
+ "vocal-cough-f0859": {
+  "speech": 0.0846,
+  "top": [
+   [
+    "Throat clearing",
+    0.884
+   ],
+   [
+    "Sneeze",
+    0.386
+   ],
+   [
+    "Gasp",
+    0.213
+   ]
+  ]
+ },
+ "vocal-cough-f0872": {
+  "speech": 0.3556,
+  "top": [
+   [
+    "Throat clearing",
+    0.641
+   ],
+   [
+    "Speech",
+    0.356
+   ],
+   [
+    "Snicker",
+    0.234
+   ]
+  ]
+ },
+ "vocal-cough-f0922": {
+  "speech": 0.1073,
+  "top": [
+   [
+    "Throat clearing",
+    0.565
+   ],
+   [
+    "Sneeze",
+    0.378
+   ],
+   [
+    "Cough",
+    0.242
+   ]
+  ]
+ },
+ "vocal-cough-f1089": {
+  "speech": 0.5922,
+  "top": [
+   [
+    "Throat clearing",
+    0.907
+   ],
+   [
+    "Speech",
+    0.592
+   ],
+   [
+    "Gasp",
+    0.534
+   ]
+  ]
+ },
+ "vocal-cough-f1292": {
+  "speech": 0.1268,
+  "top": [
+   [
+    "Throat clearing",
+    0.413
+   ],
+   [
+    "Gasp",
+    0.395
+   ],
+   [
+    "Fart",
+    0.289
+   ]
+  ]
+ },
+ "vocal-cough-f1388": {
+  "speech": 0.381,
+  "top": [
+   [
+    "Throat clearing",
+    0.749
+   ],
+   [
+    "Speech",
+    0.381
+   ],
+   [
+    "Cough",
+    0.224
+   ]
+  ]
+ },
+ "vocal-cough-f1525": {
+  "speech": 0.3067,
+  "top": [
+   [
+    "Throat clearing",
+    0.862
+   ],
+   [
+    "Speech",
+    0.307
+   ],
+   [
+    "Slap, smack",
+    0.287
+   ]
+  ]
+ },
+ "vocal-cough-f1680": {
+  "speech": 0.1198,
+  "top": [
+   [
+    "Throat clearing",
+    0.825
+   ],
+   [
+    "Cough",
+    0.22
+   ],
+   [
+    "Speech",
+    0.12
+   ]
+  ]
+ },
+ "vocal-cough-f1945": {
+  "speech": 0.0219,
+  "top": [
+   [
+    "Throat clearing",
+    0.791
+   ],
+   [
+    "Cough",
+    0.222
+   ],
+   [
+    "Sneeze",
+    0.036
+   ]
+  ]
+ },
+ "vocal-cough-f2414": {
+  "speech": 0.3694,
+  "top": [
+   [
+    "Throat clearing",
+    0.902
+   ],
+   [
+    "Speech",
+    0.369
+   ],
+   [
+    "Cough",
+    0.189
+   ]
+  ]
+ },
+ "vocal-cough-f2443": {
+  "speech": 0.7185,
+  "top": [
+   [
+    "Throat clearing",
+    0.919
+   ],
+   [
+    "Speech",
+    0.719
+   ],
+   [
+    "Cough",
+    0.358
+   ]
+  ]
+ },
+ "vocal-cough-f3055": {
+  "speech": 0.5326,
+  "top": [
+   [
+    "Throat clearing",
+    0.87
+   ],
+   [
+    "Sneeze",
+    0.556
+   ],
+   [
+    "Speech",
+    0.533
+   ]
+  ]
+ },
+ "vocal-cough-f3256": {
+  "speech": 0.6216,
+  "top": [
+   [
+    "Throat clearing",
+    0.736
+   ],
+   [
+    "Speech",
+    0.622
+   ],
+   [
+    "Sigh",
+    0.252
+   ]
+  ]
+ },
+ "vocal-cough-m0428": {
+  "speech": 0.4616,
+  "top": [
+   [
+    "Throat clearing",
+    0.785
+   ],
+   [
+    "Speech",
+    0.462
+   ],
+   [
+    "Cough",
+    0.177
+   ]
+  ]
+ },
+ "vocal-cough-m0456": {
+  "speech": 0.1652,
+  "top": [
+   [
+    "Throat clearing",
+    0.823
+   ],
+   [
+    "Cough",
+    0.209
+   ],
+   [
+    "Gasp",
+    0.204
+   ]
+  ]
+ },
+ "vocal-cough-m0832": {
+  "speech": 0.7008,
+  "top": [
+   [
+    "Throat clearing",
+    0.816
+   ],
+   [
+    "Speech",
+    0.701
+   ],
+   [
+    "Sneeze",
+    0.38
+   ]
+  ]
+ },
+ "vocal-cough-m0882": {
+  "speech": 0.1859,
+  "top": [
+   [
+    "Throat clearing",
+    0.726
+   ],
+   [
+    "Speech",
+    0.186
+   ],
+   [
+    "Cough",
+    0.172
+   ]
+  ]
+ },
+ "vocal-cough-m1025": {
+  "speech": 0.301,
+  "top": [
+   [
+    "Throat clearing",
+    0.891
+   ],
+   [
+    "Sneeze",
+    0.318
+   ],
+   [
+    "Speech",
+    0.301
+   ]
+  ]
+ },
+ "vocal-cough-m1072": {
+  "speech": 0.5028,
+  "top": [
+   [
+    "Throat clearing",
+    0.842
+   ],
+   [
+    "Speech",
+    0.503
+   ],
+   [
+    "Cough",
+    0.231
+   ]
+  ]
+ },
+ "vocal-cough-m1439": {
+  "speech": 0.3805,
+  "top": [
+   [
+    "Throat clearing",
+    0.914
+   ],
+   [
+    "Speech",
+    0.381
+   ],
+   [
+    "Gasp",
+    0.25
+   ]
+  ]
+ },
+ "vocal-cough-m1524": {
+  "speech": 0.0547,
+  "top": [
+   [
+    "Throat clearing",
+    0.798
+   ],
+   [
+    "Gasp",
+    0.76
+   ],
+   [
+    "Sneeze",
+    0.235
+   ]
+  ]
+ },
+ "vocal-cough-m1598": {
+  "speech": 0.6373,
+  "top": [
+   [
+    "Throat clearing",
+    0.838
+   ],
+   [
+    "Speech",
+    0.637
+   ],
+   [
+    "Cough",
+    0.187
+   ]
+  ]
+ },
+ "vocal-cough-m2021": {
+  "speech": 0.0588,
+  "top": [
+   [
+    "Throat clearing",
+    0.893
+   ],
+   [
+    "Knock",
+    0.311
+   ],
+   [
+    "Cough",
+    0.21
+   ]
+  ]
+ },
+ "vocal-cough-m2532": {
+  "speech": 0.3448,
+  "top": [
+   [
+    "Throat clearing",
+    0.862
+   ],
+   [
+    "Speech",
+    0.345
+   ],
+   [
+    "Cough",
+    0.26
+   ]
+  ]
+ },
+ "vocal-cough-m2581": {
+  "speech": 0.1286,
+  "top": [
+   [
+    "Throat clearing",
+    0.884
+   ],
+   [
+    "Sigh",
+    0.58
+   ],
+   [
+    "Gasp",
+    0.387
+   ]
+  ]
+ },
+ "vocal-cough-m2721": {
+  "speech": 0.4268,
+  "top": [
+   [
+    "Throat clearing",
+    0.9
+   ],
+   [
+    "Speech",
+    0.427
+   ],
+   [
+    "Music",
+    0.318
+   ]
+  ]
+ },
+ "vocal-cough-m3058": {
+  "speech": 0.1264,
+  "top": [
+   [
+    "Throat clearing",
+    0.912
+   ],
+   [
+    "Cough",
+    0.36
+   ],
+   [
+    "Speech",
+    0.126
+   ]
+  ]
+ },
+ "vocal-cough-m3129": {
+  "speech": 0.5388,
+  "top": [
+   [
+    "Throat clearing",
+    0.771
+   ],
+   [
+    "Speech",
+    0.539
+   ],
+   [
+    "Cough",
+    0.33
+   ]
+  ]
+ },
+ "vocal-laughter-f0298": {
+  "speech": 0.516,
+  "top": [
+   [
+    "Speech",
+    0.516
+   ],
+   [
+    "Throat clearing",
+    0.479
+   ],
+   [
+    "Sound effect",
+    0.209
+   ]
+  ]
+ },
+ "vocal-laughter-f0516": {
+  "speech": 0.0701,
+  "top": [
+   [
+    "Cacophony",
+    0.116
+   ],
+   [
+    "Hiss",
+    0.111
+   ],
+   [
+    "Sound effect",
+    0.102
+   ]
+  ]
+ },
+ "vocal-laughter-f0597": {
+  "speech": 0.1311,
+  "top": [
+   [
+    "Chicken, rooster",
+    0.7
+   ],
+   [
+    "Animal",
+    0.699
+   ],
+   [
+    "Domestic animals, pets",
+    0.614
+   ]
+  ]
+ },
+ "vocal-laughter-f1111": {
+  "speech": 0.6973,
+  "top": [
+   [
+    "Speech",
+    0.697
+   ],
+   [
+    "Throat clearing",
+    0.485
+   ],
+   [
+    "Gasp",
+    0.377
+   ]
+  ]
+ },
+ "vocal-laughter-f1184": {
+  "speech": 0.1582,
+  "top": [
+   [
+    "Sneeze",
+    0.404
+   ],
+   [
+    "Throat clearing",
+    0.31
+   ],
+   [
+    "Gasp",
+    0.279
+   ]
+  ]
+ },
+ "vocal-laughter-f1300": {
+  "speech": 0.1531,
+  "top": [
+   [
+    "Sneeze",
+    0.49
+   ],
+   [
+    "Giggle",
+    0.273
+   ],
+   [
+    "Slap, smack",
+    0.187
+   ]
+  ]
+ },
+ "vocal-laughter-f1309": {
+  "speech": 0.3496,
+  "top": [
+   [
+    "Speech",
+    0.35
+   ],
+   [
+    "Giggle",
+    0.318
+   ],
+   [
+    "Laughter",
+    0.134
+   ]
+  ]
+ },
+ "vocal-laughter-f1799": {
+  "speech": 0.6917,
+  "top": [
+   [
+    "Speech",
+    0.692
+   ],
+   [
+    "Caw",
+    0.537
+   ],
+   [
+    "Giggle",
+    0.474
+   ]
+  ]
+ },
+ "vocal-laughter-f1807": {
+  "speech": 0.0787,
+  "top": [
+   [
+    "Fowl",
+    0.496
+   ],
+   [
+    "Chicken, rooster",
+    0.389
+   ],
+   [
+    "Snicker",
+    0.369
+   ]
+  ]
+ },
+ "vocal-laughter-f2092": {
+  "speech": 0.6262,
+  "top": [
+   [
+    "Throat clearing",
+    0.819
+   ],
+   [
+    "Speech",
+    0.626
+   ],
+   [
+    "Gasp",
+    0.156
+   ]
+  ]
+ },
+ "vocal-laughter-f2609": {
+  "speech": 0.4863,
+  "top": [
+   [
+    "Gasp",
+    0.533
+   ],
+   [
+    "Speech",
+    0.486
+   ],
+   [
+    "Throat clearing",
+    0.192
+   ]
+  ]
+ },
+ "vocal-laughter-f2777": {
+  "speech": 0.0651,
+  "top": [
+   [
+    "Gasp",
+    0.532
+   ],
+   [
+    "Whip",
+    0.223
+   ],
+   [
+    "Giggle",
+    0.166
+   ]
+  ]
+ },
+ "vocal-laughter-f3081": {
+  "speech": 0.8314,
+  "top": [
+   [
+    "Speech",
+    0.831
+   ],
+   [
+    "Throat clearing",
+    0.398
+   ],
+   [
+    "Fowl",
+    0.32
+   ]
+  ]
+ },
+ "vocal-laughter-f3301": {
+  "speech": 0.3457,
+  "top": [
+   [
+    "Throat clearing",
+    0.424
+   ],
+   [
+    "Speech",
+    0.346
+   ],
+   [
+    "Giggle",
+    0.163
+   ]
+  ]
+ },
+ "vocal-laughter-f3308": {
+  "speech": 0.1565,
+  "top": [
+   [
+    "Gasp",
+    0.683
+   ],
+   [
+    "Sigh",
+    0.2
+   ],
+   [
+    "Vehicle horn, car horn, honking",
+    0.185
+   ]
+  ]
+ },
+ "vocal-laughter-m0011": {
+  "speech": 0.3655,
+  "top": [
+   [
+    "Gasp",
+    0.413
+   ],
+   [
+    "Speech",
+    0.366
+   ],
+   [
+    "Sneeze",
+    0.282
+   ]
+  ]
+ },
+ "vocal-laughter-m0563": {
+  "speech": 0.1984,
+  "top": [
+   [
+    "Chicken, rooster",
+    0.371
+   ],
+   [
+    "Fowl",
+    0.348
+   ],
+   [
+    "Cluck",
+    0.289
+   ]
+  ]
+ },
+ "vocal-laughter-m0677": {
+  "speech": 0.1659,
+  "top": [
+   [
+    "Throat clearing",
+    0.269
+   ],
+   [
+    "Speech",
+    0.166
+   ],
+   [
+    "Sneeze",
+    0.132
+   ]
+  ]
+ },
+ "vocal-laughter-m0940": {
+  "speech": 0.042,
+  "top": [
+   [
+    "Frog",
+    0.4
+   ],
+   [
+    "Oink",
+    0.359
+   ],
+   [
+    "Throat clearing",
+    0.292
+   ]
+  ]
+ },
+ "vocal-laughter-m0967": {
+  "speech": 0.1586,
+  "top": [
+   [
+    "Throat clearing",
+    0.53
+   ],
+   [
+    "Snicker",
+    0.376
+   ],
+   [
+    "Chuckle, chortle",
+    0.234
+   ]
+  ]
+ },
+ "vocal-laughter-m1066": {
+  "speech": 0.5776,
+  "top": [
+   [
+    "Throat clearing",
+    0.709
+   ],
+   [
+    "Speech",
+    0.578
+   ],
+   [
+    "Chuckle, chortle",
+    0.151
+   ]
+  ]
+ },
+ "vocal-laughter-m1109": {
+  "speech": 0.3914,
+  "top": [
+   [
+    "Speech",
+    0.391
+   ],
+   [
+    "Quack",
+    0.362
+   ],
+   [
+    "Squeak",
+    0.306
+   ]
+  ]
+ },
+ "vocal-laughter-m1946": {
+  "speech": 0.4971,
+  "top": [
+   [
+    "Speech",
+    0.497
+   ],
+   [
+    "Snicker",
+    0.446
+   ],
+   [
+    "Throat clearing",
+    0.365
+   ]
+  ]
+ },
+ "vocal-laughter-m2000": {
+  "speech": 0.4751,
+  "top": [
+   [
+    "Speech",
+    0.475
+   ],
+   [
+    "Laughter",
+    0.181
+   ],
+   [
+    "Chuckle, chortle",
+    0.154
+   ]
+  ]
+ },
+ "vocal-laughter-m2193": {
+  "speech": 0.579,
+  "top": [
+   [
+    "Speech",
+    0.579
+   ],
+   [
+    "Music",
+    0.286
+   ],
+   [
+    "Snicker",
+    0.07
+   ]
+  ]
+ },
+ "vocal-laughter-m2519": {
+  "speech": 0.5435,
+  "top": [
+   [
+    "Throat clearing",
+    0.816
+   ],
+   [
+    "Speech",
+    0.543
+   ],
+   [
+    "Chicken, rooster",
+    0.224
+   ]
+  ]
+ },
+ "vocal-laughter-m2875": {
+  "speech": 0.5066,
+  "top": [
+   [
+    "Throat clearing",
+    0.517
+   ],
+   [
+    "Speech",
+    0.507
+   ],
+   [
+    "Bleat",
+    0.143
+   ]
+  ]
+ },
+ "vocal-laughter-m3092": {
+  "speech": 0.4106,
+  "top": [
+   [
+    "Speech",
+    0.411
+   ],
+   [
+    "Throat clearing",
+    0.25
+   ],
+   [
+    "Fowl",
+    0.156
+   ]
+  ]
+ },
+ "vocal-laughter-m3120": {
+  "speech": 0.2242,
+  "top": [
+   [
+    "Throat clearing",
+    0.803
+   ],
+   [
+    "Speech",
+    0.224
+   ],
+   [
+    "Quack",
+    0.175
+   ]
+  ]
+ },
+ "vocal-laughter-m3226": {
+  "speech": 0.4804,
+  "top": [
+   [
+    "Speech",
+    0.48
+   ],
+   [
+    "Chicken, rooster",
+    0.239
+   ],
+   [
+    "Fowl",
+    0.222
+   ]
+  ]
+ },
+ "vocal-sigh-f0128": {
+  "speech": 0.105,
+  "top": [
+   [
+    "Sigh",
+    0.754
+   ],
+   [
+    "Gasp",
+    0.55
+   ],
+   [
+    "Door",
+    0.269
+   ]
+  ]
+ },
+ "vocal-sigh-f0253": {
+  "speech": 0.1287,
+  "top": [
+   [
+    "Gasp",
+    0.708
+   ],
+   [
+    "Sigh",
+    0.59
+   ],
+   [
+    "Snort",
+    0.429
+   ]
+  ]
+ },
+ "vocal-sigh-f0320": {
+  "speech": 0.1966,
+  "top": [
+   [
+    "Sigh",
+    0.792
+   ],
+   [
+    "Gasp",
+    0.601
+   ],
+   [
+    "Groan",
+    0.395
+   ]
+  ]
+ },
+ "vocal-sigh-f0327": {
+  "speech": 0.213,
+  "top": [
+   [
+    "Sound effect",
+    0.254
+   ],
+   [
+    "Gasp",
+    0.225
+   ],
+   [
+    "Speech",
+    0.213
+   ]
+  ]
+ },
+ "vocal-sigh-f0381": {
+  "speech": 0.213,
+  "top": [
+   [
+    "Caw",
+    0.533
+   ],
+   [
+    "Crow",
+    0.448
+   ],
+   [
+    "Gasp",
+    0.277
+   ]
+  ]
+ },
+ "vocal-sigh-f0448": {
+  "speech": 0.8295,
+  "top": [
+   [
+    "Speech",
+    0.83
+   ],
+   [
+    "Throat clearing",
+    0.465
+   ],
+   [
+    "Male speech, man speaking",
+    0.145
+   ]
+  ]
+ },
+ "vocal-sigh-f0513": {
+  "speech": 0.3324,
+  "top": [
+   [
+    "Sigh",
+    0.423
+   ],
+   [
+    "Gasp",
+    0.389
+   ],
+   [
+    "Speech",
+    0.332
+   ]
+  ]
+ },
+ "vocal-sigh-f0671": {
+  "speech": 0.3858,
+  "top": [
+   [
+    "Gasp",
+    0.525
+   ],
+   [
+    "Sigh",
+    0.46
+   ],
+   [
+    "Crow",
+    0.451
+   ]
+  ]
+ },
+ "vocal-sigh-f0752": {
+  "speech": 0.0849,
+  "top": [
+   [
+    "Sigh",
+    0.804
+   ],
+   [
+    "Throat clearing",
+    0.495
+   ],
+   [
+    "Gasp",
+    0.452
+   ]
+  ]
+ },
+ "vocal-sigh-f1104": {
+  "speech": 0.1816,
+  "top": [
+   [
+    "Sneeze",
+    0.475
+   ],
+   [
+    "Gasp",
+    0.415
+   ],
+   [
+    "Single-lens reflex camera",
+    0.343
+   ]
+  ]
+ },
+ "vocal-sigh-f1246": {
+  "speech": 0.2769,
+  "top": [
+   [
+    "Gasp",
+    0.552
+   ],
+   [
+    "Sigh",
+    0.526
+   ],
+   [
+    "Speech",
+    0.277
+   ]
+  ]
+ },
+ "vocal-sigh-f2054": {
+  "speech": 0.7589,
+  "top": [
+   [
+    "Speech",
+    0.759
+   ],
+   [
+    "Music",
+    0.445
+   ],
+   [
+    "Meow",
+    0.108
+   ]
+  ]
+ },
+ "vocal-sigh-f2398": {
+  "speech": 0.1021,
+  "top": [
+   [
+    "Gasp",
+    0.366
+   ],
+   [
+    "Owl",
+    0.309
+   ],
+   [
+    "Bird",
+    0.191
+   ]
+  ]
+ },
+ "vocal-sigh-f3044": {
+  "speech": 0.1918,
+  "top": [
+   [
+    "Sound effect",
+    0.263
+   ],
+   [
+    "Speech",
+    0.192
+   ],
+   [
+    "Hiss",
+    0.178
+   ]
+  ]
+ },
+ "vocal-sigh-f3239": {
+  "speech": 0.5297,
+  "top": [
+   [
+    "Howl",
+    0.785
+   ],
+   [
+    "Animal",
+    0.597
+   ],
+   [
+    "Speech",
+    0.53
+   ]
+  ]
+ },
+ "vocal-sigh-m0046": {
+  "speech": 0.124,
+  "top": [
+   [
+    "Gasp",
+    0.787
+   ],
+   [
+    "Snort",
+    0.719
+   ],
+   [
+    "Sneeze",
+    0.405
+   ]
+  ]
+ },
+ "vocal-sigh-m0466": {
+  "speech": 0.6756,
+  "top": [
+   [
+    "Speech",
+    0.676
+   ],
+   [
+    "Mantra",
+    0.293
+   ],
+   [
+    "Male speech, man speaking",
+    0.252
+   ]
+  ]
+ },
+ "vocal-sigh-m0904": {
+  "speech": 0.6425,
+  "top": [
+   [
+    "Television",
+    0.644
+   ],
+   [
+    "Speech",
+    0.643
+   ],
+   [
+    "Music",
+    0.551
+   ]
+  ]
+ },
+ "vocal-sigh-m1151": {
+  "speech": 0.2415,
+  "top": [
+   [
+    "Sigh",
+    0.61
+   ],
+   [
+    "Groan",
+    0.266
+   ],
+   [
+    "Gasp",
+    0.243
+   ]
+  ]
+ },
+ "vocal-sigh-m1729": {
+  "speech": 0.2187,
+  "top": [
+   [
+    "Gasp",
+    0.291
+   ],
+   [
+    "Speech",
+    0.219
+   ],
+   [
+    "Throat clearing",
+    0.203
+   ]
+  ]
+ },
+ "vocal-sigh-m1948": {
+  "speech": 0.1341,
+  "top": [
+   [
+    "Snort",
+    0.387
+   ],
+   [
+    "Gasp",
+    0.24
+   ],
+   [
+    "Sneeze",
+    0.141
+   ]
+  ]
+ },
+ "vocal-sigh-m2053": {
+  "speech": 0.1089,
+  "top": [
+   [
+    "Sigh",
+    0.751
+   ],
+   [
+    "Gasp",
+    0.305
+   ],
+   [
+    "Snort",
+    0.172
+   ]
+  ]
+ },
+ "vocal-sigh-m2256": {
+  "speech": 0.2499,
+  "top": [
+   [
+    "Gasp",
+    0.295
+   ],
+   [
+    "Speech",
+    0.25
+   ],
+   [
+    "Beep, bleep",
+    0.198
+   ]
+  ]
+ },
+ "vocal-sigh-m2444": {
+  "speech": 0.6879,
+  "top": [
+   [
+    "Speech",
+    0.688
+   ],
+   [
+    "Gasp",
+    0.411
+   ],
+   [
+    "Sigh",
+    0.193
+   ]
+  ]
+ },
+ "vocal-sigh-m2477": {
+  "speech": 0.353,
+  "top": [
+   [
+    "Sigh",
+    0.596
+   ],
+   [
+    "Speech",
+    0.353
+   ],
+   [
+    "Gasp",
+    0.237
+   ]
+  ]
+ },
+ "vocal-sigh-m2479": {
+  "speech": 0.4282,
+  "top": [
+   [
+    "Howl",
+    0.622
+   ],
+   [
+    "Music",
+    0.581
+   ],
+   [
+    "Animal",
+    0.555
+   ]
+  ]
+ },
+ "vocal-sigh-m2600": {
+  "speech": 0.0685,
+  "top": [
+   [
+    "Gasp",
+    0.382
+   ],
+   [
+    "Snort",
+    0.255
+   ],
+   [
+    "Hiccup",
+    0.201
+   ]
+  ]
+ },
+ "vocal-sigh-m2955": {
+  "speech": 0.4854,
+  "top": [
+   [
+    "Speech",
+    0.485
+   ],
+   [
+    "Gasp",
+    0.459
+   ],
+   [
+    "Snort",
+    0.124
+   ]
+  ]
+ },
+ "vocal-sigh-m3150": {
+  "speech": 0.1191,
+  "top": [
+   [
+    "Gasp",
+    0.702
+   ],
+   [
+    "Sigh",
+    0.338
+   ],
+   [
+    "Sneeze",
+    0.231
+   ]
+  ]
+ },
+ "vocal-sigh-m3325": {
+  "speech": 0.1444,
+  "top": [
+   [
+    "Throat clearing",
+    0.201
+   ],
+   [
+    "Music",
+    0.18
+   ],
+   [
+    "Gasp",
+    0.154
+   ]
+  ]
+ },
+ "vocal-sneeze-f0179": {
+  "speech": 0.304,
+  "top": [
+   [
+    "Speech",
+    0.304
+   ],
+   [
+    "Groan",
+    0.162
+   ],
+   [
+    "Sneeze",
+    0.14
+   ]
+  ]
+ },
+ "vocal-sneeze-f0619": {
+  "speech": 0.09,
+  "top": [
+   [
+    "Sneeze",
+    0.48
+   ],
+   [
+    "Hiccup",
+    0.106
+   ],
+   [
+    "Speech",
+    0.09
+   ]
+  ]
+ },
+ "vocal-sneeze-f0651": {
+  "speech": 0.2969,
+  "top": [
+   [
+    "Hiccup",
+    0.626
+   ],
+   [
+    "Speech",
+    0.297
+   ],
+   [
+    "Sneeze",
+    0.17
+   ]
+  ]
+ },
+ "vocal-sneeze-f0678": {
+  "speech": 0.0728,
+  "top": [
+   [
+    "Snort",
+    0.391
+   ],
+   [
+    "Gasp",
+    0.274
+   ],
+   [
+    "Sneeze",
+    0.197
+   ]
+  ]
+ },
+ "vocal-sneeze-f0969": {
+  "speech": 0.5756,
+  "top": [
+   [
+    "Sneeze",
+    0.692
+   ],
+   [
+    "Speech",
+    0.576
+   ],
+   [
+    "Gasp",
+    0.244
+   ]
+  ]
+ },
+ "vocal-sneeze-f1189": {
+  "speech": 0.2866,
+  "top": [
+   [
+    "Sneeze",
+    0.814
+   ],
+   [
+    "Gasp",
+    0.7
+   ],
+   [
+    "Speech",
+    0.287
+   ]
+  ]
+ },
+ "vocal-sneeze-f1380": {
+  "speech": 0.4053,
+  "top": [
+   [
+    "Gasp",
+    0.453
+   ],
+   [
+    "Speech",
+    0.405
+   ],
+   [
+    "Sneeze",
+    0.27
+   ]
+  ]
+ },
+ "vocal-sneeze-f1517": {
+  "speech": 0.1779,
+  "top": [
+   [
+    "Sneeze",
+    0.903
+   ],
+   [
+    "Throat clearing",
+    0.744
+   ],
+   [
+    "Animal",
+    0.227
+   ]
+  ]
+ },
+ "vocal-sneeze-f1685": {
+  "speech": 0.5418,
+  "top": [
+   [
+    "Gasp",
+    0.567
+   ],
+   [
+    "Speech",
+    0.542
+   ],
+   [
+    "Sneeze",
+    0.46
+   ]
+  ]
+ },
+ "vocal-sneeze-f1857": {
+  "speech": 0.2067,
+  "top": [
+   [
+    "Gasp",
+    0.313
+   ],
+   [
+    "Speech",
+    0.207
+   ],
+   [
+    "Snort",
+    0.196
+   ]
+  ]
+ },
+ "vocal-sneeze-f1947": {
+  "speech": 0.1325,
+  "top": [
+   [
+    "Sneeze",
+    0.793
+   ],
+   [
+    "Sigh",
+    0.144
+   ],
+   [
+    "Gasp",
+    0.14
+   ]
+  ]
+ },
+ "vocal-sneeze-f2259": {
+  "speech": 0.1098,
+  "top": [
+   [
+    "Throat clearing",
+    0.374
+   ],
+   [
+    "Speech",
+    0.11
+   ],
+   [
+    "Hiccup",
+    0.068
+   ]
+  ]
+ },
+ "vocal-sneeze-f2322": {
+  "speech": 0.3874,
+  "top": [
+   [
+    "Sneeze",
+    0.673
+   ],
+   [
+    "Throat clearing",
+    0.477
+   ],
+   [
+    "Speech",
+    0.387
+   ]
+  ]
+ },
+ "vocal-sneeze-f2365": {
+  "speech": 0.3021,
+  "top": [
+   [
+    "Sneeze",
+    0.897
+   ],
+   [
+    "Throat clearing",
+    0.472
+   ],
+   [
+    "Speech",
+    0.302
+   ]
+  ]
+ },
+ "vocal-sneeze-f2380": {
+  "speech": 0.0664,
+  "top": [
+   [
+    "Sneeze",
+    0.411
+   ],
+   [
+    "Throat clearing",
+    0.403
+   ],
+   [
+    "Gasp",
+    0.183
+   ]
+  ]
+ },
+ "vocal-sneeze-m0256": {
+  "speech": 0.1571,
+  "top": [
+   [
+    "Sneeze",
+    0.908
+   ],
+   [
+    "Gasp",
+    0.181
+   ],
+   [
+    "Speech",
+    0.157
+   ]
+  ]
+ },
+ "vocal-sneeze-m0260": {
+  "speech": 0.0917,
+  "top": [
+   [
+    "Sneeze",
+    0.438
+   ],
+   [
+    "Gasp",
+    0.342
+   ],
+   [
+    "Sigh",
+    0.157
+   ]
+  ]
+ },
+ "vocal-sneeze-m0297": {
+  "speech": 0.4646,
+  "top": [
+   [
+    "Cattle, bovinae",
+    0.668
+   ],
+   [
+    "Moo",
+    0.549
+   ],
+   [
+    "Livestock, farm animals, working animals",
+    0.475
+   ]
+  ]
+ },
+ "vocal-sneeze-m0361": {
+  "speech": 0.5193,
+  "top": [
+   [
+    "Sneeze",
+    0.894
+   ],
+   [
+    "Throat clearing",
+    0.52
+   ],
+   [
+    "Speech",
+    0.519
+   ]
+  ]
+ },
+ "vocal-sneeze-m0490": {
+  "speech": 0.3645,
+  "top": [
+   [
+    "Throat clearing",
+    0.845
+   ],
+   [
+    "Speech",
+    0.365
+   ],
+   [
+    "Gasp",
+    0.254
+   ]
+  ]
+ },
+ "vocal-sneeze-m0987": {
+  "speech": 0.8357,
+  "top": [
+   [
+    "Speech",
+    0.836
+   ],
+   [
+    "Throat clearing",
+    0.147
+   ],
+   [
+    "Male speech, man speaking",
+    0.118
+   ]
+  ]
+ },
+ "vocal-sneeze-m1206": {
+  "speech": 0.2332,
+  "top": [
+   [
+    "Fart",
+    0.405
+   ],
+   [
+    "Gasp",
+    0.332
+   ],
+   [
+    "Zipper (clothing)",
+    0.279
+   ]
+  ]
+ },
+ "vocal-sneeze-m1296": {
+  "speech": 0.1132,
+  "top": [
+   [
+    "Throat clearing",
+    0.869
+   ],
+   [
+    "Sneeze",
+    0.674
+   ],
+   [
+    "Vehicle horn, car horn, honking",
+    0.636
+   ]
+  ]
+ },
+ "vocal-sneeze-m1564": {
+  "speech": 0.203,
+  "top": [
+   [
+    "Throat clearing",
+    0.869
+   ],
+   [
+    "Speech",
+    0.203
+   ],
+   [
+    "Crack",
+    0.167
+   ]
+  ]
+ },
+ "vocal-sneeze-m2555": {
+  "speech": 0.4911,
+  "top": [
+   [
+    "Throat clearing",
+    0.785
+   ],
+   [
+    "Speech",
+    0.491
+   ],
+   [
+    "Sneeze",
+    0.105
+   ]
+  ]
+ },
+ "vocal-sneeze-m2571": {
+  "speech": 0.479,
+  "top": [
+   [
+    "Meow",
+    0.597
+   ],
+   [
+    "Cat",
+    0.502
+   ],
+   [
+    "Speech",
+    0.479
+   ]
+  ]
+ },
+ "vocal-sneeze-m2582": {
+  "speech": 0.7406,
+  "top": [
+   [
+    "Speech",
+    0.741
+   ],
+   [
+    "Gasp",
+    0.472
+   ],
+   [
+    "Sneeze",
+    0.145
+   ]
+  ]
+ },
+ "vocal-sneeze-m2820": {
+  "speech": 0.2424,
+  "top": [
+   [
+    "Sneeze",
+    0.546
+   ],
+   [
+    "Throat clearing",
+    0.452
+   ],
+   [
+    "Speech",
+    0.242
+   ]
+  ]
+ },
+ "vocal-sneeze-m3267": {
+  "speech": 0.1236,
+  "top": [
+   [
+    "Waterfall",
+    0.268
+   ],
+   [
+    "Water",
+    0.15
+   ],
+   [
+    "Slosh",
+    0.147
+   ]
+  ]
+ },
+ "vocal-sneeze-m3354": {
+  "speech": 0.2572,
+  "top": [
+   [
+    "Throat clearing",
+    0.607
+   ],
+   [
+    "Sneeze",
+    0.592
+   ],
+   [
+    "Snort",
+    0.474
+   ]
+  ]
+ },
+ "vocal-sniff-f0125": {
+  "speech": 0.0484,
+  "top": [
+   [
+    "Throat clearing",
+    0.701
+   ],
+   [
+    "Cough",
+    0.066
+   ],
+   [
+    "Speech",
+    0.048
+   ]
+  ]
+ },
+ "vocal-sniff-f0134": {
+  "speech": 0.0542,
+  "top": [
+   [
+    "Wood",
+    0.339
+   ],
+   [
+    "Sawing",
+    0.329
+   ],
+   [
+    "Rub",
+    0.198
+   ]
+  ]
+ },
+ "vocal-sniff-f0513": {
+  "speech": 0.0448,
+  "top": [
+   [
+    "Gasp",
+    0.56
+   ],
+   [
+    "Sneeze",
+    0.391
+   ],
+   [
+    "Snort",
+    0.21
+   ]
+  ]
+ },
+ "vocal-sniff-f0581": {
+  "speech": 0.0661,
+  "top": [
+   [
+    "Water",
+    0.098
+   ],
+   [
+    "Vehicle",
+    0.097
+   ],
+   [
+    "Waterfall",
+    0.085
+   ]
+  ]
+ },
+ "vocal-sniff-f0692": {
+  "speech": 0.4873,
+  "top": [
+   [
+    "Gasp",
+    0.641
+   ],
+   [
+    "Speech",
+    0.487
+   ],
+   [
+    "Sneeze",
+    0.404
+   ]
+  ]
+ },
+ "vocal-sniff-f0974": {
+  "speech": 0.1733,
+  "top": [
+   [
+    "Sneeze",
+    0.891
+   ],
+   [
+    "Gasp",
+    0.282
+   ],
+   [
+    "Speech",
+    0.173
+   ]
+  ]
+ },
+ "vocal-sniff-f1020": {
+  "speech": 0.1215,
+  "top": [
+   [
+    "Finger snapping",
+    0.405
+   ],
+   [
+    "Static",
+    0.391
+   ],
+   [
+    "Tick-tock",
+    0.149
+   ]
+  ]
+ },
+ "vocal-sniff-f1070": {
+  "speech": 0.0852,
+  "top": [
+   [
+    "Wood",
+    0.392
+   ],
+   [
+    "Snort",
+    0.391
+   ],
+   [
+    "Sneeze",
+    0.372
+   ]
+  ]
+ },
+ "vocal-sniff-f1236": {
+  "speech": 0.0341,
+  "top": [
+   [
+    "Sneeze",
+    0.569
+   ],
+   [
+    "Zipper (clothing)",
+    0.136
+   ],
+   [
+    "Gasp",
+    0.053
+   ]
+  ]
+ },
+ "vocal-sniff-f1414": {
+  "speech": 0.0399,
+  "top": [
+   [
+    "Zipper (clothing)",
+    0.079
+   ],
+   [
+    "Whoosh, swoosh, swish",
+    0.077
+   ],
+   [
+    "Burst, pop",
+    0.074
+   ]
+  ]
+ },
+ "vocal-sniff-f2168": {
+  "speech": 0.4824,
+  "top": [
+   [
+    "Sneeze",
+    0.735
+   ],
+   [
+    "Speech",
+    0.482
+   ],
+   [
+    "Snort",
+    0.093
+   ]
+  ]
+ },
+ "vocal-sniff-f2169": {
+  "speech": 0.2451,
+  "top": [
+   [
+    "Meow",
+    0.83
+   ],
+   [
+    "Cat",
+    0.717
+   ],
+   [
+    "Domestic animals, pets",
+    0.529
+   ]
+  ]
+ },
+ "vocal-sniff-f2400": {
+  "speech": 0.0372,
+  "top": [
+   [
+    "Sneeze",
+    0.506
+   ],
+   [
+    "Rub",
+    0.279
+   ],
+   [
+    "Wood",
+    0.263
+   ]
+  ]
+ },
+ "vocal-sniff-f2714": {
+  "speech": 0.0309,
+  "top": [
+   [
+    "Sneeze",
+    0.483
+   ],
+   [
+    "Snort",
+    0.261
+   ],
+   [
+    "Gasp",
+    0.218
+   ]
+  ]
+ },
+ "vocal-sniff-f3054": {
+  "speech": 0.0505,
+  "top": [
+   [
+    "Whip",
+    0.66
+   ],
+   [
+    "Sneeze",
+    0.439
+   ],
+   [
+    "Snort",
+    0.235
+   ]
+  ]
+ },
+ "vocal-sniff-m0049": {
+  "speech": 0.0343,
+  "top": [
+   [
+    "Sneeze",
+    0.628
+   ],
+   [
+    "Snort",
+    0.328
+   ],
+   [
+    "Gasp",
+    0.217
+   ]
+  ]
+ },
+ "vocal-sniff-m0129": {
+  "speech": 0.1653,
+  "top": [
+   [
+    "Sneeze",
+    0.639
+   ],
+   [
+    "Throat clearing",
+    0.211
+   ],
+   [
+    "Speech",
+    0.165
+   ]
+  ]
+ },
+ "vocal-sniff-m0372": {
+  "speech": 0.0823,
+  "top": [
+   [
+    "Gasp",
+    0.563
+   ],
+   [
+    "Snort",
+    0.433
+   ],
+   [
+    "Fart",
+    0.298
+   ]
+  ]
+ },
+ "vocal-sniff-m0376": {
+  "speech": 0.0446,
+  "top": [
+   [
+    "Sneeze",
+    0.617
+   ],
+   [
+    "Snort",
+    0.326
+   ],
+   [
+    "Gasp",
+    0.269
+   ]
+  ]
+ },
+ "vocal-sniff-m0542": {
+  "speech": 0.0387,
+  "top": [
+   [
+    "Sneeze",
+    0.728
+   ],
+   [
+    "Gasp",
+    0.593
+   ],
+   [
+    "Snort",
+    0.36
+   ]
+  ]
+ },
+ "vocal-sniff-m0898": {
+  "speech": 0.0993,
+  "top": [
+   [
+    "Sneeze",
+    0.755
+   ],
+   [
+    "Gasp",
+    0.219
+   ],
+   [
+    "Fowl",
+    0.151
+   ]
+  ]
+ },
+ "vocal-sniff-m0904": {
+  "speech": 0.1009,
+  "top": [
+   [
+    "Gasp",
+    0.606
+   ],
+   [
+    "Snort",
+    0.367
+   ],
+   [
+    "Sneeze",
+    0.264
+   ]
+  ]
+ },
+ "vocal-sniff-m0935": {
+  "speech": 0.0737,
+  "top": [
+   [
+    "Sneeze",
+    0.468
+   ],
+   [
+    "Gasp",
+    0.143
+   ],
+   [
+    "Snort",
+    0.124
+   ]
+  ]
+ },
+ "vocal-sniff-m0943": {
+  "speech": 0.0699,
+  "top": [
+   [
+    "Sneeze",
+    0.432
+   ],
+   [
+    "Slap, smack",
+    0.244
+   ],
+   [
+    "Snort",
+    0.102
+   ]
+  ]
+ },
+ "vocal-sniff-m1065": {
+  "speech": 0.275,
+  "top": [
+   [
+    "Gasp",
+    0.687
+   ],
+   [
+    "Snort",
+    0.519
+   ],
+   [
+    "Speech",
+    0.275
+   ]
+  ]
+ },
+ "vocal-sniff-m2053": {
+  "speech": 0.0359,
+  "top": [
+   [
+    "Sneeze",
+    0.479
+   ],
+   [
+    "Gasp",
+    0.384
+   ],
+   [
+    "Snort",
+    0.099
+   ]
+  ]
+ },
+ "vocal-sniff-m2158": {
+  "speech": 0.1111,
+  "top": [
+   [
+    "Gasp",
+    0.667
+   ],
+   [
+    "Sigh",
+    0.381
+   ],
+   [
+    "Sneeze",
+    0.211
+   ]
+  ]
+ },
+ "vocal-sniff-m2212": {
+  "speech": 0.047,
+  "top": [
+   [
+    "Gasp",
+    0.444
+   ],
+   [
+    "Sneeze",
+    0.441
+   ],
+   [
+    "Hiss",
+    0.36
+   ]
+  ]
+ },
+ "vocal-sniff-m2361": {
+  "speech": 0.0616,
+  "top": [
+   [
+    "Sneeze",
+    0.54
+   ],
+   [
+    "Zipper (clothing)",
+    0.212
+   ],
+   [
+    "Gasp",
+    0.139
+   ]
+  ]
+ },
+ "vocal-sniff-m2457": {
+  "speech": 0.0276,
+  "top": [
+   [
+    "Zipper (clothing)",
+    0.376
+   ],
+   [
+    "Gasp",
+    0.126
+   ],
+   [
+    "Snort",
+    0.096
+   ]
+  ]
+ },
+ "vocal-throatclearing-f0028": {
+  "speech": 0.5542,
+  "top": [
+   [
+    "Throat clearing",
+    0.951
+   ],
+   [
+    "Speech",
+    0.554
+   ],
+   [
+    "Gasp",
+    0.288
+   ]
+  ]
+ },
+ "vocal-throatclearing-f0116": {
+  "speech": 0.431,
+  "top": [
+   [
+    "Speech",
+    0.431
+   ],
+   [
+    "Waterfall",
+    0.364
+   ],
+   [
+    "Water",
+    0.235
+   ]
+  ]
+ },
+ "vocal-throatclearing-f0384": {
+  "speech": 0.4717,
+  "top": [
+   [
+    "Throat clearing",
+    0.877
+   ],
+   [
+    "Speech",
+    0.472
+   ],
+   [
+    "Snort",
+    0.261
+   ]
+  ]
+ },
+ "vocal-throatclearing-f0649": {
+  "speech": 0.1344,
+  "top": [
+   [
+    "Sneeze",
+    0.359
+   ],
+   [
+    "Speech",
+    0.134
+   ],
+   [
+    "Throat clearing",
+    0.116
+   ]
+  ]
+ },
+ "vocal-throatclearing-f0800": {
+  "speech": 0.209,
+  "top": [
+   [
+    "Sigh",
+    0.455
+   ],
+   [
+    "Throat clearing",
+    0.423
+   ],
+   [
+    "Gasp",
+    0.354
+   ]
+  ]
+ },
+ "vocal-throatclearing-f1048": {
+  "speech": 0.7506,
+  "top": [
+   [
+    "Throat clearing",
+    0.933
+   ],
+   [
+    "Speech",
+    0.751
+   ],
+   [
+    "Music",
+    0.111
+   ]
+  ]
+ },
+ "vocal-throatclearing-f1361": {
+  "speech": 0.4284,
+  "top": [
+   [
+    "Throat clearing",
+    0.729
+   ],
+   [
+    "Sneeze",
+    0.618
+   ],
+   [
+    "Speech",
+    0.428
+   ]
+  ]
+ },
+ "vocal-throatclearing-f1680": {
+  "speech": 0.3356,
+  "top": [
+   [
+    "Throat clearing",
+    0.956
+   ],
+   [
+    "Speech",
+    0.336
+   ],
+   [
+    "Male speech, man speaking",
+    0.105
+   ]
+  ]
+ },
+ "vocal-throatclearing-f1771": {
+  "speech": 0.7351,
+  "top": [
+   [
+    "Throat clearing",
+    0.838
+   ],
+   [
+    "Speech",
+    0.735
+   ],
+   [
+    "Gasp",
+    0.492
+   ]
+  ]
+ },
+ "vocal-throatclearing-f2450": {
+  "speech": 0.5522,
+  "top": [
+   [
+    "Throat clearing",
+    0.832
+   ],
+   [
+    "Speech",
+    0.552
+   ],
+   [
+    "Cough",
+    0.171
+   ]
+  ]
+ },
+ "vocal-throatclearing-f2686": {
+  "speech": 0.117,
+  "top": [
+   [
+    "Throat clearing",
+    0.898
+   ],
+   [
+    "Bleat",
+    0.332
+   ],
+   [
+    "Sheep",
+    0.131
+   ]
+  ]
+ },
+ "vocal-throatclearing-f2942": {
+  "speech": 0.1912,
+  "top": [
+   [
+    "Gasp",
+    0.392
+   ],
+   [
+    "Steam whistle",
+    0.208
+   ],
+   [
+    "Groan",
+    0.203
+   ]
+  ]
+ },
+ "vocal-throatclearing-f3001": {
+  "speech": 0.3741,
+  "top": [
+   [
+    "Throat clearing",
+    0.652
+   ],
+   [
+    "Speech",
+    0.374
+   ],
+   [
+    "Sound effect",
+    0.281
+   ]
+  ]
+ },
+ "vocal-throatclearing-f3111": {
+  "speech": 0.6545,
+  "top": [
+   [
+    "Throat clearing",
+    0.872
+   ],
+   [
+    "Sneeze",
+    0.669
+   ],
+   [
+    "Speech",
+    0.654
+   ]
+  ]
+ },
+ "vocal-throatclearing-f3156": {
+  "speech": 0.3566,
+  "top": [
+   [
+    "Throat clearing",
+    0.768
+   ],
+   [
+    "Gasp",
+    0.622
+   ],
+   [
+    "Sigh",
+    0.545
+   ]
+  ]
+ },
+ "vocal-throatclearing-m0263": {
+  "speech": 0.1684,
+  "top": [
+   [
+    "Throat clearing",
+    0.555
+   ],
+   [
+    "Sneeze",
+    0.355
+   ],
+   [
+    "Gasp",
+    0.35
+   ]
+  ]
+ },
+ "vocal-throatclearing-m0341": {
+  "speech": 0.0734,
+  "top": [
+   [
+    "Throat clearing",
+    0.825
+   ],
+   [
+    "Finger snapping",
+    0.471
+   ],
+   [
+    "Gasp",
+    0.156
+   ]
+  ]
+ },
+ "vocal-throatclearing-m0446": {
+  "speech": 0.4398,
+  "top": [
+   [
+    "Throat clearing",
+    0.897
+   ],
+   [
+    "Beatboxing",
+    0.732
+   ],
+   [
+    "Speech",
+    0.44
+   ]
+  ]
+ },
+ "vocal-throatclearing-m0452": {
+  "speech": 0.3057,
+  "top": [
+   [
+    "Throat clearing",
+    0.804
+   ],
+   [
+    "Speech",
+    0.306
+   ],
+   [
+    "Sigh",
+    0.169
+   ]
+  ]
+ },
+ "vocal-throatclearing-m0459": {
+  "speech": 0.0587,
+  "top": [
+   [
+    "Throat clearing",
+    0.729
+   ],
+   [
+    "Gasp",
+    0.24
+   ],
+   [
+    "Sneeze",
+    0.221
+   ]
+  ]
+ },
+ "vocal-throatclearing-m0586": {
+  "speech": 0.0314,
+  "top": [
+   [
+    "Waterfall",
+    0.301
+   ],
+   [
+    "Static",
+    0.246
+   ],
+   [
+    "Rain on surface",
+    0.078
+   ]
+  ]
+ },
+ "vocal-throatclearing-m0798": {
+  "speech": 0.2202,
+  "top": [
+   [
+    "Throat clearing",
+    0.419
+   ],
+   [
+    "Gasp",
+    0.283
+   ],
+   [
+    "Speech",
+    0.22
+   ]
+  ]
+ },
+ "vocal-throatclearing-m0861": {
+  "speech": 0.2103,
+  "top": [
+   [
+    "Throat clearing",
+    0.937
+   ],
+   [
+    "Gasp",
+    0.414
+   ],
+   [
+    "Speech",
+    0.21
+   ]
+  ]
+ },
+ "vocal-throatclearing-m1471": {
+  "speech": 0.1646,
+  "top": [
+   [
+    "Throat clearing",
+    0.615
+   ],
+   [
+    "Speech",
+    0.165
+   ],
+   [
+    "Snicker",
+    0.111
+   ]
+  ]
+ },
+ "vocal-throatclearing-m1905": {
+  "speech": 0.0748,
+  "top": [
+   [
+    "Throat clearing",
+    0.602
+   ],
+   [
+    "Finger snapping",
+    0.554
+   ],
+   [
+    "Cough",
+    0.2
+   ]
+  ]
+ },
+ "vocal-throatclearing-m1950": {
+  "speech": 0.1643,
+  "top": [
+   [
+    "Gasp",
+    0.614
+   ],
+   [
+    "Burping, eructation",
+    0.542
+   ],
+   [
+    "Sneeze",
+    0.242
+   ]
+  ]
+ },
+ "vocal-throatclearing-m2052": {
+  "speech": 0.2124,
+  "top": [
+   [
+    "Throat clearing",
+    0.877
+   ],
+   [
+    "Sigh",
+    0.3
+   ],
+   [
+    "Speech",
+    0.212
+   ]
+  ]
+ },
+ "vocal-throatclearing-m2473": {
+  "speech": 0.248,
+  "top": [
+   [
+    "Throat clearing",
+    0.939
+   ],
+   [
+    "Speech",
+    0.248
+   ],
+   [
+    "Cough",
+    0.072
+   ]
+  ]
+ },
+ "vocal-throatclearing-m2708": {
+  "speech": 0.2961,
+  "top": [
+   [
+    "Throat clearing",
+    0.931
+   ],
+   [
+    "Speech",
+    0.296
+   ],
+   [
+    "Cough",
+    0.158
+   ]
+  ]
+ },
+ "vocal-throatclearing-m2759": {
+  "speech": 0.6256,
+  "top": [
+   [
+    "Throat clearing",
+    0.757
+   ],
+   [
+    "Speech",
+    0.626
+   ],
+   [
+    "Tick-tock",
+    0.27
+   ]
+  ]
+ }
+}
